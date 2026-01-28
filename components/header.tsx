@@ -1,14 +1,12 @@
 import {
   NavigationMenu,
-  NavigationMenuContent,
   NavigationMenuItem,
   NavigationMenuLink,
   NavigationMenuList,
-  NavigationMenuTrigger,
 } from "@/components/ui/navigation-menu";
 import { ThemeToggle } from "./theme-toggle";
 import Link from "next/link";
-import { Book, BookOpen } from "lucide-react";
+import { BookOpen } from "lucide-react";
 import { Button } from "./ui/button";
 
 import { SiGithub } from "@icons-pack/react-simple-icons";
@@ -46,13 +44,13 @@ function Menu() {
         <NavigationMenuItem>
           <NavigationMenuLink asChild>
             <Link href="/">
-              <BookOpen className="text-base size-6" />
+              <BookOpen className="text-base size-5" />
             </Link>
           </NavigationMenuLink>
         </NavigationMenuItem>
         <NavigationMenuItem>
           <NavigationMenuLink asChild>
-            <Link className="font-semibold" href="/elements">
+            <Link className="font-medium" href="/elements">
               Elements
             </Link>
           </NavigationMenuLink>
