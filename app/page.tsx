@@ -1,11 +1,6 @@
 "use client";
 
-import { Button } from "@/components/ui/button";
-import {
-  InputGroup,
-  InputGroupAddon,
-  InputGroupInput,
-} from "@/components/ui/input-group";
+import { SearchBar } from "@/components/search-bar";
 import {
   Item,
   ItemActions,
@@ -14,27 +9,16 @@ import {
   ItemMedia,
   ItemTitle,
 } from "@/components/ui/item";
-import { getRandomElementCode } from "@/lib/elements";
 import {
   ArrowRight,
   BicepsFlexed,
-  Dices,
   LineSquiggle,
   LoaderPinwheel,
   Lock,
-  Search,
 } from "lucide-react";
 import Link from "next/link";
-import { useRouter } from "next/navigation";
 
 export default function Home() {
-  const router = useRouter();
-
-  const handleRandomClicked = () => {
-    const randomCode = getRandomElementCode();
-    router.push(`/elements/${randomCode}`);
-  };
-
   return (
     <div className="space-y-12 p-4">
       <div className="mt-24 space-y-6 row-start-2">
@@ -47,17 +31,7 @@ export default function Home() {
             elements
           </p>
         </div>
-        <div className="flex gap-2">
-          <InputGroup>
-            <InputGroupAddon>
-              <Search />
-            </InputGroupAddon>
-            <InputGroupInput />
-          </InputGroup>
-          <Button onClick={handleRandomClicked} variant="outline" size="icon">
-            <Dices />
-          </Button>
-        </div>
+        <SearchBar />
       </div>
 
       <div className="space-y-7 row-start-3">

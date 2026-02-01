@@ -23,15 +23,20 @@ export default function Header({ className }: { className?: string }) {
       <Menu />
       <div className="flex">
         <ThemeToggle />
-        <Button variant="ghost" size="icon" asChild>
-          <Link
-            href="https://github.com/kugelbltz/pole-sport-codex"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <SiGithub />
-          </Link>
-        </Button>
+        <Button
+          variant="ghost"
+          size="icon"
+          nativeButton={false}
+          render={
+            <Link
+              href="https://github.com/kugelbltz/pole-sport-codex"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <SiGithub />
+            </Link>
+          }
+        ></Button>
       </div>
     </header>
   );
