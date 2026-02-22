@@ -1,22 +1,95 @@
 "use client";
 
 import ElementList from "@/components/element-card-list";
+import { Filters, FiltersType } from "@/components/filters";
+import {
+  InputGroup,
+  InputGroupAddon,
+  InputGroupButton,
+  InputGroupInput,
+} from "@/components/ui/input-group";
+import { ScrollArea } from "@/components/ui/scroll-area";
+import { getElements } from "@/lib/elements";
+import { Search, X } from "lucide-react";
 import { useSearchParams } from "next/navigation";
+import React from "react";
 
 export default function ElementsPage() {
   const searchParams = useSearchParams();
   const category = searchParams.get("category");
-  const techValueTo = searchParams.get("tech_value_to");
-  const techValueFrom = searchParams.get("tech_value_from");
+  const techValueMax = searchParams.get("tech_value_max");
+  const techValueMin = searchParams.get("tech_value_min");
+
+  const [query, setQuery] = React.useState("");
+  const [filters, setFilters] = React.useState<FiltersType>({
+    categories: category ? [category] : [],
+    technicalValueRange: {
+      min: techValueMin ? parseFloat(techValueMin) : 0.1,
+      max: techValueMax ? parseFloat(techValueMax) : 1.0,
+    },
+  });
+
+  const newItems = getElements()
+    .filter(
+      (element) =>
+        element.name.toLowerCase().includes(query.toLowerCase()) ||
+        element.code.toLowerCase().includes(query.toLowerCase()),
+    )
+    .filter(
+      (element) =>
+        element.technicalValue >= filters.technicalValueRange.min &&
+        element.technicalValue <= filters.technicalValueRange.max,
+    )
+    .filter(
+      (element) =>
+        filters.categories.length === 0 ||
+        filters.categories.includes(element.category),
+    );
+
+  const handleQueryChanged = (e: React.ChangeEvent<HTMLInputElement>) => {
+    const trimmed = e.target.value.trim();
+    setQuery(trimmed);
+  };
+
+  const handleClearQuery = () => {
+    setQuery("");
+  };
 
   return (
-    <div>
-      <ul>
-        <li>category: {category}</li>
-        <li>techValueTo: {techValueTo}</li>
-        <li>techValueFrom: {techValueFrom}</li>
-      </ul>
-      <ElementList />;
+    <div className="flex-1 flex gap-4 p-4">
+      <aside className="w-56">
+        <Filters filters={filters} onFiltersChanged={setFilters} />
+      </aside>
+
+      <main className="flex-1 flex flex-col gap-4">
+        <header className="">
+          <InputGroup>
+            <InputGroupAddon>
+              <Search />
+            </InputGroupAddon>
+            <InputGroupInput
+              value={query}
+              onChange={handleQueryChanged}
+              placeholder={`Search ${getElements().length} elements...`}
+            />
+            {query && (
+              <InputGroupAddon align="inline-end">
+                <InputGroupButton
+                  aria-label="Clear"
+                  title="Clear"
+                  size="icon-xs"
+                  onClick={handleClearQuery}
+                >
+                  <X />
+                </InputGroupButton>
+              </InputGroupAddon>
+            )}
+          </InputGroup>
+        </header>
+        <ScrollArea className="flex-[1_1_0] min-h-0">
+          <ElementList elements={newItems} />
+        </ScrollArea>
+      </main>
     </div>
   );
 }

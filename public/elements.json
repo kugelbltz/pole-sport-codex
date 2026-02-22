@@ -2,48 +2,83 @@
   {
     "name": "Ballerina",
     "code": "F4",
-    "image": "/38.jpg"
+    "image": "/38.jpg",
+    "technicalValue": 0.1,
+    "criteria": { "hold": "5 seconds", "armPosition": "upper" },
+    "category": "flexibility"
   },
   {
     "name": "Janeiro",
     "code": "S4",
-    "image": "/38.jpg"
+    "image": "/38.jpg",
+    "technicalValue": 0.2,
+    "criteria": { "hold": "5 seconds", "armPosition": "upper" },
+    "category": "flexibility"
   },
   {
     "name": "Inside leg hang 1",
     "code": "SP4",
-    "image": "/38.jpg"
+    "image": "/38.jpg",
+    "technicalValue": 0.3,
+    "criteria": { "hold": "5 seconds", "armPosition": "upper" },
+    "category": "flexibility"
   },
 
   {
     "name": "Ballerina",
     "code": "F5",
-    "image": "/38.jpg"
+    "image": "/38.jpg",
+    "technicalValue": 0.4,
+    "criteria": { "hold": "5 seconds", "armPosition": "upper" },
+    "category": "spin"
   },
   {
     "name": "Janeiro",
     "code": "S5",
-    "image": "/38.jpg"
+    "image": "/38.jpg",
+    "technicalValue": 0.5,
+    "criteria": { "hold": "5 seconds", "armPosition": "upper" },
+    "category": "spin"
   },
   {
     "name": "Inside leg hang 1",
     "code": "SP5",
-    "image": "/38.jpg"
+    "image": "/38.jpg",
+    "technicalValue": 0.6,
+    "criteria": { "hold": "5 seconds", "armPosition": "upper" },
+    "category": "static"
   },
 
   {
     "name": "Ballerina",
     "code": "F6",
-    "image": "/38.jpg"
+    "image": "/38.jpg",
+    "technicalValue": 0.7,
+    "criteria": { "hold": "5 seconds", "armPosition": "upper" },
+    "category": "static"
   },
   {
     "name": "Janeiro",
     "code": "S6",
-    "image": "/38.jpg"
+    "image": "/38.jpg",
+    "technicalValue": 0.8,
+    "criteria": { "hold": "5 seconds", "armPosition": "upper" },
+    "category": "strength"
   },
   {
     "name": "Inside leg hang 1",
     "code": "SP6",
-    "image": "/38.jpg"
+    "image": "/38.jpg",
+    "technicalValue": 0.9,
+    "criteria": { "hold": "5 seconds", "armPosition": "upper" },
+    "category": "strength"
+  },
+  {
+    "name": "Inside leg hang 1",
+    "code": "SP8",
+    "image": "/38.jpg",
+    "technicalValue": 1.0,
+    "criteria": { "hold": "5 seconds", "armPosition": "upper" },
+    "category": "strength"
   }
 ]

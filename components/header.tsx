@@ -47,18 +47,22 @@ function Menu() {
     <NavigationMenu>
       <NavigationMenuList>
         <NavigationMenuItem>
-          <NavigationMenuLink asChild>
-            <Link href="/">
-              <BookOpen className="text-base size-5" />
-            </Link>
-          </NavigationMenuLink>
+          <NavigationMenuLink
+            render={
+              <Link href="/">
+                <BookOpen className="text-base size-5" />
+              </Link>
+            }
+          />
         </NavigationMenuItem>
         <NavigationMenuItem>
-          <NavigationMenuLink asChild>
-            <Link className="font-medium" href="/elements">
-              Elements
-            </Link>
-          </NavigationMenuLink>
+          <NavigationMenuLink
+            render={
+              <Link className="font-medium" href="/elements">
+                Elements
+              </Link>
+            }
+          />
         </NavigationMenuItem>
       </NavigationMenuList>
     </NavigationMenu>

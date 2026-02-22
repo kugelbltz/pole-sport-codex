@@ -8,12 +8,10 @@ import {
   ItemTitle,
 } from "@/components/ui/item";
 import Link from "next/link";
-import { getElements } from "@/lib/elements";
+import { Element } from "@/lib/elements";
 
-export default function ElementList() {
-  const elements = getElements();
-
-  return (
+export default function ElementList({ elements }: { elements: Element[] }) {
+  return elements.length > 0 ? (
     <ItemGroup className="grid grid-cols-4 md:grid-cols-5 lg:grid-cols-6 gap-4">
       {elements.map((element) => (
         <Item key={element.code} variant="outline" asChild>
@@ -35,5 +33,9 @@ export default function ElementList() {
         </Item>
       ))}
     </ItemGroup>
+  ) : (
+    <p className="text-center italic text-muted-foreground text-lg">
+      No elements found
+    </p>
   );
 }

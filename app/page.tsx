@@ -1,26 +1,45 @@
 "use client";
 
-import { SearchBar } from "@/components/search-bar";
+import { SuggestionSearchBar } from "@/components/search-bar";
 import {
   Item,
-  ItemActions,
   ItemContent,
   ItemFooter,
   ItemMedia,
   ItemTitle,
 } from "@/components/ui/item";
-import {
-  ArrowRight,
-  BicepsFlexed,
-  LineSquiggle,
-  LoaderPinwheel,
-  Lock,
-} from "lucide-react";
+import { getElements } from "@/lib/elements";
+import { BicepsFlexed, LineSquiggle, LoaderPinwheel, Lock } from "lucide-react";
 import Link from "next/link";
 
 export default function Home() {
+  const elements = getElements();
+
+  const strengthElements = elements.filter(
+    (element) => element.category === "strength",
+  );
+  const flexibilityElements = elements.filter(
+    (element) => element.category === "flexibility",
+  );
+  const spinElements = elements.filter(
+    (element) => element.category === "spin",
+  );
+  const staticElements = elements.filter(
+    (element) => element.category === "static",
+  );
+
+  const easyElements = elements.filter(
+    (element) => element.technicalValue <= 0.4,
+  );
+  const mediumElements = elements.filter(
+    (element) => element.technicalValue > 0.4 && element.technicalValue <= 0.7,
+  );
+  const hardElements = elements.filter(
+    (element) => element.technicalValue > 0.7,
+  );
+
   return (
-    <div className="space-y-12 p-4">
+    <main className="space-y-12 p-4">
       <div className="mt-24 space-y-6 row-start-2">
         <div className="flex flex-col items-center gap-2">
           <h1 className="font-semibold tracking-tighter text-5xl">
@@ -31,120 +50,95 @@ export default function Home() {
             elements
           </p>
         </div>
-        <SearchBar />
+        <SuggestionSearchBar />
       </div>
 
       <div className="space-y-7 row-start-3">
         <section>
           <h2 className="font-semibold text-xl mb-3">By category</h2>
-          <div className="grid grid-cols-5 gap-4">
-            <Item asChild variant="outline">
-              <Link href="/elements?category=strength">
-                <ItemMedia variant="icon">
-                  <BicepsFlexed />
-                </ItemMedia>
-                <ItemContent>
-                  <ItemTitle>Strength elements</ItemTitle>
-                </ItemContent>
-                <ItemFooter>245 elements</ItemFooter>
-              </Link>
-            </Item>
+          <div className="grid grid-cols-4 gap-4">
+            <FilteredItem
+              filters={["category=strength"]}
+              media={<BicepsFlexed />}
+              title="Strength elements"
+              elementCount={strengthElements.length}
+            />
 
-            <Item asChild variant="outline">
-              <Link href="/elements?category=flexibility">
-                <ItemMedia variant="icon">
-                  <LineSquiggle />
-                </ItemMedia>
-                <ItemContent>
-                  <ItemTitle>Flexibility elements</ItemTitle>
-                </ItemContent>
-                <ItemFooter>245 elements</ItemFooter>
-              </Link>
-            </Item>
+            <FilteredItem
+              filters={["category=flexibility"]}
+              media={<LineSquiggle />}
+              title="Flexibility elements"
+              elementCount={flexibilityElements.length}
+            />
 
-            <Item asChild variant="outline">
-              <Link href="/elements?category=static">
-                <ItemMedia variant="icon">
-                  <Lock />
-                </ItemMedia>
-                <ItemContent>
-                  <ItemTitle>Static elements</ItemTitle>
-                </ItemContent>
-                <ItemFooter>245 elements</ItemFooter>
-              </Link>
-            </Item>
+            <FilteredItem
+              filters={["category=static"]}
+              media={<Lock />}
+              title="Static elements"
+              elementCount={staticElements.length}
+            />
 
-            <Item asChild variant="outline">
-              <Link href="/elements?category=spin">
-                <ItemMedia variant="icon">
-                  <LoaderPinwheel />
-                </ItemMedia>
-                <ItemContent>
-                  <ItemTitle>Spin elements</ItemTitle>
-                </ItemContent>
-                <ItemFooter>245 elements</ItemFooter>
-              </Link>
-            </Item>
-
-            <Item asChild variant="muted">
-              <Link href="/elements">
-                <ItemContent>
-                  <ItemTitle>View all</ItemTitle>
-                </ItemContent>
-                <ItemActions>
-                  <ArrowRight className="size-5 text-muted-foreground" />
-                </ItemActions>
-              </Link>
-            </Item>
+            <FilteredItem
+              filters={["category=spin"]}
+              media={<LoaderPinwheel />}
+              title="Spin elements"
+              elementCount={spinElements.length}
+            />
           </div>
         </section>
 
         <section>
           <h2 className="font-semibold text-xl mb-3">By technical value</h2>
-          <div className="grid grid-cols-4 gap-4">
-            <Item asChild variant="outline">
-              <Link href="/elements?tech_value_to=0.5">
-                <ItemMedia variant="icon">*</ItemMedia>
-                <ItemContent>
-                  <ItemTitle>Less than 0.5 points</ItemTitle>
-                </ItemContent>
-                <ItemFooter>245 elements</ItemFooter>
-              </Link>
-            </Item>
+          <div className="grid grid-cols-3 gap-4">
+            <FilteredItem
+              filters={["tech_value_max=0.4"]}
+              media="*"
+              title="Less than 0.4 points"
+              elementCount={easyElements.length}
+            />
 
-            <Item asChild variant="outline">
-              <Link href="/elements?tech_value_from=0.5&tech_value_to=0.8">
-                <ItemMedia variant="icon">**</ItemMedia>
-                <ItemContent>
-                  <ItemTitle>Between 0.5 and 0.8 points</ItemTitle>
-                </ItemContent>
-                <ItemFooter>245 elements</ItemFooter>
-              </Link>
-            </Item>
+            <FilteredItem
+              filters={["tech_value_min=0.4", "tech_value_max=0.7"]}
+              media="**"
+              title="Between 0.4 and 0.7 points"
+              elementCount={mediumElements.length}
+            />
 
-            <Item asChild variant="outline">
-              <Link href="/elements?tech_value_from=0.8">
-                <ItemMedia variant="icon">***</ItemMedia>
-                <ItemContent>
-                  <ItemTitle>More that 0.8 points</ItemTitle>
-                </ItemContent>
-                <ItemFooter>245 elements</ItemFooter>
-              </Link>
-            </Item>
-
-            <Item asChild variant="muted">
-              <Link href="/elements">
-                <ItemContent>
-                  <ItemTitle>View all</ItemTitle>
-                </ItemContent>
-                <ItemActions>
-                  <ArrowRight className="size-5 text-muted-foreground" />
-                </ItemActions>
-              </Link>
-            </Item>
+            <FilteredItem
+              filters={["tech_value_min=0.7"]}
+              media="***"
+              title="More than 0.7 points"
+              elementCount={hardElements.length}
+            />
           </div>
         </section>
       </div>
-    </div>
+    </main>
+  );
+}
+
+export function FilteredItem({
+  media,
+  filters,
+  title,
+  elementCount,
+}: {
+  media: React.ReactNode;
+  filters: string[];
+  title: string;
+  elementCount: number;
+}) {
+  return (
+    <Item asChild variant="outline">
+      <Link href={`/elements?${filters.join("&")}`}>
+        <ItemMedia variant="icon">{media}</ItemMedia>
+        <ItemContent>
+          <ItemTitle>{title}</ItemTitle>
+        </ItemContent>
+        <ItemFooter className="text-muted-foreground text-xs">
+          {elementCount} elements
+        </ItemFooter>
+      </Link>
+    </Item>
   );
 }

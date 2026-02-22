@@ -13,34 +13,92 @@ import React from "react";
 import { Popover, PopoverContent, PopoverTrigger } from "./ui/popover";
 import { useRouter } from "next/navigation";
 import { CommandItem, CommandList, CommandShortcut } from "./ui/command";
-import { getElements, getRandomElementCode } from "@/lib/elements";
+import { getElements, getRandomElementCode, Element } from "@/lib/elements";
 
 const MAX_SUGGESTIONS_COUNT = 10;
 
-export const SearchBar = () => {
+interface SearchBarProps {
+  onSearch?: (query: string) => void;
+  onQueryChanged?: (query: string) => void;
+  placeholder?: string;
+}
+
+export function SearchBar({
+  onSearch,
+  onQueryChanged,
+  placeholder,
+  ...props
+}: SearchBarProps & React.ComponentProps<typeof InputGroup>) {
   const [query, setQuery] = React.useState("");
-
-  const router = useRouter();
-
-  const suggestions = React.useMemo(() => {
-    if (!query) return [];
-    const elements = getElements();
-    return elements
-      .filter(
-        (element) =>
-          element.name.toLowerCase().includes(query.toLowerCase()) ||
-          element.code.toLowerCase().includes(query.toLowerCase()),
-      )
-      .slice(0, MAX_SUGGESTIONS_COUNT);
-  }, [query]);
 
   const handleOnKeyDown: React.KeyboardEventHandler<HTMLInputElement> = (e) => {
     if (e.key === "Enter") {
       const trimmed = query.trim();
       if (!trimmed) return;
 
-      router.push(`/elements?search=${trimmed}`);
+      onSearch?.(trimmed);
     }
+  };
+
+  const handleClearQuery: React.MouseEventHandler<HTMLButtonElement> = (e) => {
+    setQuery("");
+    onQueryChanged?.("");
+  };
+
+  const handleQueryChanged: React.ChangeEventHandler<HTMLInputElement> = (
+    e,
+  ) => {
+    setQuery(e.target.value);
+    onQueryChanged?.(e.target.value);
+  };
+
+  return (
+    <InputGroup {...props}>
+      <InputGroupAddon>
+        <Search />
+      </InputGroupAddon>
+      <InputGroupInput
+        value={query}
+        onChange={handleQueryChanged}
+        onKeyDown={handleOnKeyDown}
+        placeholder={placeholder}
+      />
+      {query && (
+        <InputGroupAddon align="inline-end">
+          <InputGroupButton
+            aria-label="Clear"
+            title="Clear"
+            size="icon-xs"
+            onClick={handleClearQuery}
+          >
+            <X />
+          </InputGroupButton>
+        </InputGroupAddon>
+      )}
+    </InputGroup>
+  );
+}
+
+export const SuggestionSearchBar = () => {
+  const router = useRouter();
+  const [suggestions, setSuggestions] = React.useState<Element[]>([]);
+
+  const handleOnSearch = (query: string) => {
+    router.push(`/elements?search=${query}`);
+  };
+
+  const handleQueryChanged = (query: string) => {
+    if (!query) return setSuggestions([]);
+    const elements = getElements();
+    const newSuggestions = elements
+      .filter(
+        (element) =>
+          element.name.toLowerCase().includes(query.toLowerCase()) ||
+          element.code.toLowerCase().includes(query.toLowerCase()),
+      )
+      .slice(0, MAX_SUGGESTIONS_COUNT);
+
+    setSuggestions(newSuggestions);
   };
 
   const handleRandomClicked = () => {
@@ -57,33 +115,13 @@ export const SearchBar = () => {
             nativeButton={false}
             render={
               <CommandPrimitive.Input asChild>
-                <InputGroup>
-                  <InputGroupAddon>
-                    <Search />
-                  </InputGroupAddon>
-                  <InputGroupInput
-                    value={query}
-                    onChange={(e) => setQuery(e.target.value)}
-                    onKeyDown={handleOnKeyDown}
-                  />
-                  {query && (
-                    <InputGroupAddon align="inline-end">
-                      <InputGroupButton
-                        aria-label="Clear"
-                        title="Clear"
-                        size="icon-xs"
-                        onClick={() => {
-                          setQuery("");
-                        }}
-                      >
-                        <X />
-                      </InputGroupButton>
-                    </InputGroupAddon>
-                  )}
-                </InputGroup>
+                <SearchBar
+                  onSearch={handleOnSearch}
+                  onQueryChanged={handleQueryChanged}
+                />
               </CommandPrimitive.Input>
             }
-          ></PopoverTrigger>
+          />
 
           <PopoverContent
             initialFocus={false}
