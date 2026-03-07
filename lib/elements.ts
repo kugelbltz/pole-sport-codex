@@ -5,11 +5,9 @@ export type Element = {
   code: string;
   image: string;
   technicalValue: number;
-  criteria: {
-    hold: string;
-    armPosition: string;
-  };
+  criteria: Record<string, string>;
   category: string;
+  page_number: number;
 };
 
 export const elementCategories = {
