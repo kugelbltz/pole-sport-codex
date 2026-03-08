@@ -29,6 +29,22 @@ export const getRandomElementCode = () => {
   return randomCode;
 };
 
+export function getRandomElements(n: number): Element[] {
+  if (n > elements.length) {
+    throw new Error("Trying to get to many elements");
+  }
+
+  const indexes: number[] = [];
+  while (indexes.length < n) {
+    const randomIndex = Math.floor(Math.random() * elements.length);
+    if (!indexes.includes(randomIndex)) {
+      indexes.push(randomIndex);
+    }
+  }
+
+  return indexes.map((index) => elements[index]);
+}
+
 export const getElements: () => Element[] = () => {
   return elements;
 };
