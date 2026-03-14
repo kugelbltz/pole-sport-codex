@@ -1,0 +1,41 @@
+{
+    "id": "SP68",
+    "name": "Cupgrip Pencil",
+    "technicalValue": 0.8,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 720° rotation"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "both hands"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "top arm fully extended, bottom arm slightly bent",
+                "both hands are in a cup grip position"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended in pencil position"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upright at an angle away from the pole"
+            ]
+        }
+    ],
+    "page": 96,
+    "format": "single",
+    "category": "spin"
+}

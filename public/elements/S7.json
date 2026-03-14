@@ -1,0 +1,40 @@
+{
+    "id": "S7",
+    "name": "Split Grip Cradle Tuck - 1",
+    "technicalValue": 0.1,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "both hands, hips, top of thighs"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "split grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "tuck position"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upper body is in an upright position at 45° to the pole"
+            ]
+        }
+    ],
+    "page": 55,
+    "format": "single",
+    "category": "strength"
+}

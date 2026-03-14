@@ -1,0 +1,40 @@
+{
+    "id": "SP56",
+    "name": "Brass Ring",
+    "technicalValue": 0.7,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 720° rotation"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "crook of one knee, thighs, glutes, pelvis (optional), one shoulder (optional), one arm, head, and neck (optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "both hands hold the legs at feet/ankles"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are bent. The pole is not between the legs (i.e., legs are both on the same side of the pole)."
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "inverted, back arch, back is facing the pole"
+            ]
+        }
+    ],
+    "page": 94,
+    "format": "single",
+    "category": "spin"
+}

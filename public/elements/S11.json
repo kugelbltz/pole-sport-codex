@@ -1,0 +1,40 @@
+{
+    "id": "S11",
+    "name": "Cupid",
+    "technicalValue": 0.2,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "inside knee of inside leg, foot of outside leg"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "both arms are in fixed position of choice with no contact with the pole"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "inside leg is hooked to the pole at the knee, outside leg is fully extended with the sole of the foot in contact with the pole"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upright, diagonal to the pole"
+            ]
+        }
+    ],
+    "page": 55,
+    "format": "single",
+    "category": "strength"
+}

@@ -1,0 +1,40 @@
+{
+    "id": "S67",
+    "name": "One Handed - Handspring Straddle",
+    "technicalValue": 0.7,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "one hand and forearm (optional), shoulder (optional), bicep of other arm, neck, one leg (optional), head"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "arms are fully extended. One hand is holding the pole, other hand is holding the opposite leg at ankle/calf"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended and open in a straddle position, and parallel to the floor."
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "inverted"
+            ]
+        }
+    ],
+    "page": 65,
+    "format": "single",
+    "category": "strength"
+}

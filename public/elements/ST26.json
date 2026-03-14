@@ -1,0 +1,41 @@
+{
+    "id": "ST26",
+    "name": "Spinning into a - Shoulder Mount - Straddle",
+    "technicalValue": 0.5,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 360° rotation"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "both hands, one shoulder"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "arms are bent",
+                "grip of choice"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended in straddle position, parallel to floor"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "torso is horizontal"
+            ]
+        }
+    ],
+    "page": 80,
+    "format": "single",
+    "category": "static"
+}

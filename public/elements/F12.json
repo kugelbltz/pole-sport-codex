@@ -1,0 +1,46 @@
+{
+    "id": "F12",
+    "name": "Pole Straddle 1",
+    "technicalValue": 0.3,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum or 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "hands, legs, ankles (not the arch of the foot)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "basic or cup grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended in middle split position"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upper body must be at a 90° angle to the pole"
+            ]
+        },
+        {
+            "type": "angle_of_split",
+            "items": [
+                "a minimum of 160°"
+            ]
+        }
+    ],
+    "page": 28,
+    "format": "single",
+    "category": "flexibility"
+}

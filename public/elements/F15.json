@@ -1,0 +1,40 @@
+{
+    "id": "F15",
+    "name": "Bridge",
+    "technicalValue": 0.4,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "both hands, inner thighs"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "grip of choice, arms are fully extended"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are extended and closed"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "inverted, back arched with hips and both legs parallel to the floor"
+            ]
+        }
+    ],
+    "page": 29,
+    "format": "single",
+    "category": "flexibility"
+}

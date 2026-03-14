@@ -1,0 +1,41 @@
+{
+    "id": "ST37",
+    "name": "Chinese Grip Phoenix",
+    "technicalValue": 1.0,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 720° rotation, where the handspring should still spin"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "both hands, one wrist (optional), no forearm contact"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "starts with both hands in cup grip, lower hand re-grips the pole while continuing to spin in cup grip, lift without making contact with the floor",
+                "cup grip –in pencil with both hands, only with top hand in inverted position"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "spin begins in pencil, and finishes in a fixed leg position of choice"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "pencil position for spin (refer to ST27 for minimum criteria), inverted for final position"
+            ]
+        }
+    ],
+    "page": 83,
+    "format": "single",
+    "category": "static"
+}

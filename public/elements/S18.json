@@ -1,0 +1,40 @@
+{
+    "id": "S18",
+    "name": "Split Grip Cradle Tuck - 2",
+    "technicalValue": 0.2,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "both hands, hips, top of thighs"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "split grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "tuck position"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "body is at a 90° angle to the pole"
+            ]
+        }
+    ],
+    "page": 56,
+    "format": "single",
+    "category": "strength"
+}

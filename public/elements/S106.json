@@ -1,0 +1,41 @@
+{
+    "id": "S106",
+    "name": "One Handed Plank",
+    "technicalValue": 1.0,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "side of torso, outside hand"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "outside hand holds the pole above the body, inside arm is in a fixed position of choice with no contact with the pole or the body",
+                "outside hand is in cup grip or basic grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended and parallel to the floor"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "facing upwards, shoulders are in line with the hips"
+            ]
+        }
+    ],
+    "page": 73,
+    "format": "single",
+    "category": "strength"
+}

@@ -1,0 +1,41 @@
+{
+    "id": "F133",
+    "name": "X Pose Back Bend",
+    "technicalValue": 1.0,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "both hands, ankle and top of foot (optional) of the top leg, sole of the bottom foot"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "arms are fully extended above the head (relative to the athlete)",
+                "split grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended in a straddle position"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "back arch, torso is parallel to the floor"
+            ]
+        }
+    ],
+    "page": 53,
+    "format": "single",
+    "category": "flexibility"
+}

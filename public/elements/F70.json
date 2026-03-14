@@ -1,0 +1,46 @@
+{
+    "id": "F70",
+    "name": "Hip Hold Split Elbow - Grip 2",
+    "technicalValue": 0.7,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "inside thigh, torso/back, bottom arm/elbow. Top arm has no contact with the pole"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "both arms are bent, hands are clasped behind the inside leg and back"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended in a horizontal split position"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "angled downwards and facing away from the pole"
+            ]
+        },
+        {
+            "type": "unknown",
+            "items": [
+                "a minimum of 180°"
+            ]
+        }
+    ],
+    "page": 40,
+    "format": "single",
+    "category": "flexibility"
+}

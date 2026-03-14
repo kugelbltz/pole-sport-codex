@@ -1,0 +1,46 @@
+{
+    "id": "F116",
+    "name": "Underarm Grip - Chopsticks",
+    "technicalValue": 0.9,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "underarm, back of thigh of inside leg, bicep"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "underarm or bicep of inside arm has contact with the pole. Inside arm is fully extended. Outside arm holding ankle/calf of inside leg. No hand contact with the pole"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs fully extended in split position and parallel to floor"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upright"
+            ]
+        },
+        {
+            "type": "angle_of_split",
+            "items": [
+                "180°"
+            ]
+        }
+    ],
+    "page": 50,
+    "format": "single",
+    "category": "flexibility"
+}

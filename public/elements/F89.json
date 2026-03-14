@@ -1,0 +1,46 @@
+{
+    "id": "F89",
+    "name": "Flying K",
+    "technicalValue": 0.8,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "inside hand, inside foot"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "both arms are fully extended, one hand is holding the pole, the other is fixed position of choice with no contact with the pole"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended in split position"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "downward diagonal"
+            ]
+        },
+        {
+            "type": "angle_of_split",
+            "items": [
+                "a minimum of 180°"
+            ]
+        }
+    ],
+    "page": 43,
+    "format": "single",
+    "category": "flexibility"
+}

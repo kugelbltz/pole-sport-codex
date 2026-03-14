@@ -1,0 +1,40 @@
+{
+    "id": "F27",
+    "name": "Closed Rainbow",
+    "technicalValue": 0.5,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "crook of one knee, both thighs, glutes, pelvis, one shoulder, one arm, head, and neck (optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "one arm can be bent; hand is holding the ankle/foot of the top (opposite) leg. Other arm is extended and holding the lower (opposite) leg at the ankle."
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "one leg is bent, other leg is extended, foot is at a lower level than head"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "inverted, back arch"
+            ]
+        }
+    ],
+    "page": 31,
+    "format": "single",
+    "category": "flexibility"
+}

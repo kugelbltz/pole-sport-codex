@@ -1,0 +1,40 @@
+{
+    "id": "SP1",
+    "name": "Back Hook Twist Spin",
+    "technicalValue": 0.1,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 720° rotation"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "crook of one knee, opposite hand"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "outside arm is extended and holds the pole behind the body, inside arm is extended and holds the foot of the opposite leg"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "the inside leg is bent around the pole, the outside leg is fully extended in front of the body"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upright"
+            ]
+        }
+    ],
+    "page": 84,
+    "format": "single",
+    "category": "spin"
+}

@@ -1,0 +1,46 @@
+{
+    "id": "F13",
+    "name": "Allegra Half Split 1",
+    "technicalValue": 0.4,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "inside arm hand, thigh of inside leg, outside arm, underarm (optional), side/ lower back"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "inside hand grips pole, above the inside leg, outside arm is extended and hand is holding the ankle/shin of the outside leg"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "split position with inside leg fully extended, outside leg bent backwards"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "back arch"
+            ]
+        },
+        {
+            "type": "angle_of_split",
+            "items": [
+                "a minimum of 160°"
+            ]
+        }
+    ],
+    "page": 28,
+    "format": "single",
+    "category": "flexibility"
+}

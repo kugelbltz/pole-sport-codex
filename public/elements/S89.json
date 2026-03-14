@@ -1,0 +1,41 @@
+{
+    "id": "S89",
+    "name": "Janeiro Plank One - Hand",
+    "technicalValue": 0.9,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "inside arm, side of torso"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "Inside arm is bent with underarm and hand on the pole, outside arm is in fixed position of choice with no contact with the pole",
+                "flag grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended and open"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "body is facing downwards at 90° to the pole"
+            ]
+        }
+    ],
+    "page": 70,
+    "format": "single",
+    "category": "strength"
+}

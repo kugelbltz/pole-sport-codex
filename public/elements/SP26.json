@@ -1,0 +1,40 @@
+{
+    "id": "SP26",
+    "name": "Upright Libellula Spin",
+    "technicalValue": 0.4,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 720° rotation"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "back of inside leg, one arm, back of shoulder of inside arm, neck (optional), back/shoulder blade (optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "one arm is fully extended and hand is holding the shin/ankle of the same side leg, the other arm is wrapped around the pole and hand is in contact with the thigh of the same side leg"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "inside leg is in contact with the pole, outside leg is bent/extended backwards, legs are in a split/half split position"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upright"
+            ]
+        }
+    ],
+    "page": 88,
+    "format": "single",
+    "category": "spin"
+}

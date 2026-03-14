@@ -1,0 +1,41 @@
+{
+    "id": "F114",
+    "name": "Rainbow Marchenko - Back Bend Scissor",
+    "technicalValue": 0.9,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "underarm, hand of inside arm, side of torso, and thighs"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "inside arm is in flag grip, outside arm is fully extended and holding the inside leg at ankle/calf",
+                "flag grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended on the same side as the body"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "inverted, back bend, chest is facing downwards"
+            ]
+        }
+    ],
+    "page": 49,
+    "format": "single",
+    "category": "flexibility"
+}

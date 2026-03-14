@@ -1,0 +1,46 @@
+{
+    "id": "F35",
+    "name": "Inverted Front Split - 1",
+    "technicalValue": 0.5,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "both legs, both hands, top of back foot, heel/ankle of front foot (optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "basic or cup grip, holding the pole at the hips"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are extended in split position"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "inverted"
+            ]
+        },
+        {
+            "type": "angle_of_split",
+            "items": [
+                "a minimum of 160°"
+            ]
+        }
+    ],
+    "page": 32,
+    "format": "single",
+    "category": "flexibility"
+}

@@ -1,0 +1,46 @@
+{
+    "id": "F20",
+    "name": "Split Grip Leg - Through Split 1",
+    "technicalValue": 0.4,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "both hands, one calf/ankle"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "grip of choice, bottom arm is fully extended"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended in split position, with the front leg between the top arm and the pole"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "inverted"
+            ]
+        },
+        {
+            "type": "angle_of_split",
+            "items": [
+                "a minimum of 160°"
+            ]
+        }
+    ],
+    "page": 30,
+    "format": "single",
+    "category": "flexibility"
+}

@@ -1,0 +1,46 @@
+{
+    "id": "F60",
+    "name": "Bird of Paradise - Inverted",
+    "technicalValue": 0.7,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "thigh, side of torso, back, back of neck, outside arm, crook of outside elbow, back of outside shoulder"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "both arms are bent and above the head (relative to the inverted athlete), hands are clasped behind the head"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended in a diagonal split"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "inverted"
+            ]
+        },
+        {
+            "type": "angle_of_split",
+            "items": [
+                "a minimum of 180°"
+            ]
+        }
+    ],
+    "page": 37,
+    "format": "single",
+    "category": "flexibility"
+}

@@ -1,0 +1,58 @@
+{
+    "id": "F119",
+    "name": "Wenson Split",
+    "technicalValue": 0.9,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "one hand"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "one hand has contact with the floor and the arm is fully extended, the top arm is bent, and the hand has contact with the pole"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended in split position, line of split is parallel to the floor. The upper leg should be supported on the upper part of the triceps/shoulder of the arm on the same side. There must be no leg contact with the pole"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "inverted handstand"
+            ]
+        },
+        {
+            "type": "angle_of_split",
+            "items": [
+                "180°"
+            ]
+        },
+        {
+            "type": "starting_position",
+            "items": [
+                "from the floor"
+            ]
+        },
+        {
+            "type": "unknown",
+            "items": [
+                "Starting position from the floor"
+            ]
+        }
+    ],
+    "page": 50,
+    "format": "single",
+    "category": "flexibility"
+}

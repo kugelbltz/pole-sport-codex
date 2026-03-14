@@ -1,0 +1,40 @@
+{
+    "id": "SP79",
+    "name": "One Handed Spin",
+    "technicalValue": 0.9,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 720° rotation"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "one hand"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "inside arm is extended and in contact with the pole, outside arm in a fixed position of choice with no contact with the pole"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended and closed in pencil position"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upright, away from the pole, parallel to the pole"
+            ]
+        }
+    ],
+    "page": 98,
+    "format": "single",
+    "category": "spin"
+}

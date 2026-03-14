@@ -1,0 +1,46 @@
+{
+    "id": "SP23",
+    "name": "Outside Knee Hang - Closed Fang 2",
+    "technicalValue": 0.4,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 720° rotation"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "one knee and one thigh"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "both hands hold the legs at ankle/shin level"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "fang position"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "inverted"
+            ]
+        },
+        {
+            "type": "starting_position",
+            "items": [
+                "aerial position on the pole"
+            ]
+        }
+    ],
+    "page": 88,
+    "format": "single",
+    "category": "spin"
+}

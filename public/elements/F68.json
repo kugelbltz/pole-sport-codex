@@ -1,0 +1,47 @@
+{
+    "id": "F68",
+    "name": "Forearm Grip Leg - Through Split",
+    "technicalValue": 0.7,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "hand of top arm, hand and forearm of bottom arm, thigh of inside leg, chest (optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "upper hand in cup grip, bottom arm is in forearm grip",
+                "both arms are bent, outside arm is around the inside leg and holds the pole above the inside leg"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended in a diagonal split position and at a 45° angle to the pole"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "inverted"
+            ]
+        },
+        {
+            "type": "angle_of_split",
+            "items": [
+                "a minimum of 180°"
+            ]
+        }
+    ],
+    "page": 39,
+    "format": "single",
+    "category": "flexibility"
+}

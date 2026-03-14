@@ -1,0 +1,52 @@
+{
+    "id": "F30",
+    "name": "Floor K 1",
+    "technicalValue": 0.5,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "hand of inside arm and the sole of the foot of the inside leg"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "arms are extended, inside hand has contact with the pole. Outside hand has contact with the floor."
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended in split position"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "one-handed inverted handstand"
+            ]
+        },
+        {
+            "type": "angle_of_split",
+            "items": [
+                "a minimum of 160°"
+            ]
+        },
+        {
+            "type": "starting_position",
+            "items": [
+                "of choice"
+            ]
+        }
+    ],
+    "page": 31,
+    "format": "single",
+    "category": "flexibility"
+}

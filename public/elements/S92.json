@@ -1,0 +1,40 @@
+{
+    "id": "S92",
+    "name": "Reverse Meathook",
+    "technicalValue": 0.9,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "one hand, one arm, back, glutes (optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "one hand is holding the pole behind the back, other arm is in fixed position of choice with no contact with the pole"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "legs are in fixed position of choice without contact with the pole"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "back is leaning on the pole and the arm that is behind the body, torso is in a horizontal position"
+            ]
+        }
+    ],
+    "page": 70,
+    "format": "single",
+    "category": "strength"
+}

@@ -1,0 +1,41 @@
+{
+    "id": "SP65",
+    "name": "Tuck Through Spin - Pike",
+    "technicalValue": 0.7,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 720° rotation"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "both hands, back of both legs"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "arms have no contact with the legs",
+                "split grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended in a closed pike position or crossed"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "body and legs are in front of the pole at a 90° angle to the pole"
+            ]
+        }
+    ],
+    "page": 96,
+    "format": "single",
+    "category": "spin"
+}

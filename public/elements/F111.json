@@ -1,0 +1,46 @@
+{
+    "id": "F111",
+    "name": "Half Back Split on - Pole",
+    "technicalValue": 0.9,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "both hands, upper leg, pelvis, thigh of the lower leg"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "both arms are fully extended and hold the pole above the head at ankle height"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "back leg is extended, lower leg is in passé"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upright"
+            ]
+        },
+        {
+            "type": "angle_of_split",
+            "items": [
+                "a minimum of 180°"
+            ]
+        }
+    ],
+    "page": 49,
+    "format": "single",
+    "category": "flexibility"
+}

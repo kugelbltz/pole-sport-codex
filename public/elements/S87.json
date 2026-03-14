@@ -1,0 +1,47 @@
+{
+    "id": "S87",
+    "name": "Iguana Airwalk",
+    "technicalValue": 0.9,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "walk a minimum of 2 seconds, final position - Iguana horizontal – must be held for a brief moment"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "hands, neck, shoulder – in the final position"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "top arm is fully extended, bottom arm can be bent, arms holding the pole behind the back in iguana position",
+                "basic grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "walking motion"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "starting position is inverted, in final position the full length of the body is horizontal to the floor, including legs as well, and is held briefly"
+            ]
+        },
+        {
+            "type": "starting_position",
+            "items": [
+                "From an inverted vertical position perform a slow and steady descent to a 90° angle to the pole, with a 20° tolerance"
+            ]
+        }
+    ],
+    "page": 69,
+    "format": "single",
+    "category": "strength"
+}

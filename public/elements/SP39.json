@@ -1,0 +1,40 @@
+{
+    "id": "SP39",
+    "name": "Underarm Meathook - Straddle Spin",
+    "technicalValue": 0.5,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 720° rotation"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "underarm of inside arm, torso, thighs"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "both arms are fully extended, outside arm is in a fixed position of choice, inside arm is in underarm grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended in a straddle position"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "inverted"
+            ]
+        }
+    ],
+    "page": 90,
+    "format": "single",
+    "category": "spin"
+}

@@ -1,0 +1,41 @@
+{
+    "id": "S6",
+    "name": "Pole Hug Pencil",
+    "technicalValue": 0.1,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "both elbows, torso"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "arms wrapped around pole, with the pole in the crook of the elbow",
+                "elbow grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended and closed"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upright"
+            ]
+        }
+    ],
+    "page": 54,
+    "format": "single",
+    "category": "strength"
+}

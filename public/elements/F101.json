@@ -1,0 +1,47 @@
+{
+    "id": "F101",
+    "name": "Back Elbow Vertical - Split",
+    "technicalValue": 0.9,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "neck, upper back and one elbow"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "elbow holds pole behind the back, other hand holds opposite leg",
+                "elbow grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended in split position and parallel to the pole"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "inverted"
+            ]
+        },
+        {
+            "type": "angle_of_split",
+            "items": [
+                "180°"
+            ]
+        }
+    ],
+    "page": 46,
+    "format": "single",
+    "category": "flexibility"
+}

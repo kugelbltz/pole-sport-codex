@@ -1,0 +1,46 @@
+{
+    "id": "F107",
+    "name": "Eagle 2",
+    "technicalValue": 0.9,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "front leg, side of torso, back of shoulder, head (optional), neck (optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "no hands have contact with the pole, arms are fully extended, and hands are holding foot/ankle of back leg"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "front leg is wrapped around the pole, back leg and foot must be stretched over the head or in a ring position"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upright"
+            ]
+        },
+        {
+            "type": "angle_of_split",
+            "items": [
+                "a minimum of 180°"
+            ]
+        }
+    ],
+    "page": 48,
+    "format": "single",
+    "category": "flexibility"
+}

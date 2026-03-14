@@ -1,0 +1,41 @@
+{
+    "id": "S70",
+    "name": "Back Grip Plank - Straddle",
+    "technicalValue": 0.8,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "hands, side of torso"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "arms are bent, holding the pole behind the back",
+                "basic grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended and open"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "parallel to the floor"
+            ]
+        }
+    ],
+    "page": 66,
+    "format": "single",
+    "category": "strength"
+}

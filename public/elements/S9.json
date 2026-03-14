@@ -1,0 +1,40 @@
+{
+    "id": "S9",
+    "name": "Butterfly Split Grip",
+    "technicalValue": 0.2,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "both hands, one leg, (torso optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "split grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are bent, one leg is hooked on pole"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "inverted"
+            ]
+        }
+    ],
+    "page": 55,
+    "format": "single",
+    "category": "strength"
+}

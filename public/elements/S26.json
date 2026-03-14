@@ -1,0 +1,40 @@
+{
+    "id": "S26",
+    "name": "Flag Grip Side - Attitude",
+    "technicalValue": 0.3,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "both arms, both hands, and front of chest"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "flag grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are in attitude position"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upper body at a 90° angle to the pole, with a tolerance of not more than 20°"
+            ]
+        }
+    ],
+    "page": 58,
+    "format": "single",
+    "category": "strength"
+}

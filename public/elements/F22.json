@@ -1,0 +1,40 @@
+{
+    "id": "F22",
+    "name": "Superman Crescent - 1",
+    "technicalValue": 0.4,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "both hands, inner thighs"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "basic or cup grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended and closed"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "back arch with hips and both legs parallel to the floor"
+            ]
+        }
+    ],
+    "page": 30,
+    "format": "single",
+    "category": "flexibility"
+}

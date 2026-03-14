@@ -1,0 +1,40 @@
+{
+    "id": "SP83",
+    "name": "Extreme Crossbow",
+    "technicalValue": 1.0,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 720° rotation"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "both ankles and/or calves, both hands"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "both arms are fully extended and open with hands holding the pole at ankle level"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended in straddle position with ankles in contact with the pole"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "torso is at a 90° angle to the pole, with the pole behind the body (body on the same side of the pole as the legs)"
+            ]
+        }
+    ],
+    "page": 99,
+    "format": "single",
+    "category": "spin"
+}

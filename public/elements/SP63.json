@@ -1,0 +1,41 @@
+{
+    "id": "SP63",
+    "name": "One Handed Muse - Spin",
+    "technicalValue": 0.7,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 720° rotation"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "sole of one foot, same side hand, same calf (optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "both arms are fully extended. One arm is holding the pole between the legs. The other arm is in a fixed position of choice with no contact with the pole.",
+                "basic grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended and open"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "forward fold where head is lower than hips"
+            ]
+        }
+    ],
+    "page": 95,
+    "format": "single",
+    "category": "spin"
+}

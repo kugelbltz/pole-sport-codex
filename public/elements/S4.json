@@ -1,0 +1,40 @@
+{
+    "id": "S4",
+    "name": "Layback Crossed - Knee Release",
+    "technicalValue": 0.1,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "both thighs, calf of one leg, glutes"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "both arms are in fixed position of choice with no contact with the pole"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "one leg is fully extended, other leg is bent around the pole and crossed in front of the other leg"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "inverted, layback"
+            ]
+        }
+    ],
+    "page": 54,
+    "format": "single",
+    "category": "strength"
+}

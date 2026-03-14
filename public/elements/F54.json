@@ -1,0 +1,46 @@
+{
+    "id": "F54",
+    "name": "One Hand Flying Split",
+    "technicalValue": 0.6,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "one hand, foot of the opposite leg"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "inside arm is fully extended and holds the pole. Outside hand holds opposite ankle."
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "in a frontal split / oversplit position. Front leg has no contact with the pole, and both legs are fully extended."
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upright, facing away from the pole"
+            ]
+        },
+        {
+            "type": "angle_of_split",
+            "items": [
+                "a minimum of 180°"
+            ]
+        }
+    ],
+    "page": 36,
+    "format": "single",
+    "category": "flexibility"
+}

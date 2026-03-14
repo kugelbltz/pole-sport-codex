@@ -1,0 +1,40 @@
+{
+    "id": "SP28",
+    "name": "Butterfly Twist No - Hands",
+    "technicalValue": 0.5,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 720° rotation"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "one leg, chest, opposite arm (no hand contact), same shoulder (optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "one arm is bent and around the pole with hand holding the opposite knee/thigh, other arm is fully extended and hand holding shin/ankle/foot of back leg"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "one leg is bent around the pole, the other leg is bent backwards"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "inverted"
+            ]
+        }
+    ],
+    "page": 89,
+    "format": "single",
+    "category": "spin"
+}

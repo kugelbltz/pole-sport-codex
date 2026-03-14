@@ -1,0 +1,46 @@
+{
+    "id": "F33",
+    "name": "Hip Hold Split 2",
+    "technicalValue": 0.5,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "thigh of inside leg, side of torso, back of inside arm"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "underarm or bicep of inside arm has contact with the pole. Inside arm is fully extended. Outside arm holding ankle of inside leg. No hand contact with the pole"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended in a frontal split position and parallel to the floor"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "torso is horizontal, facing upwards and torso is in contact with the front leg"
+            ]
+        },
+        {
+            "type": "angle_of_split",
+            "items": [
+                "180°"
+            ]
+        }
+    ],
+    "page": 32,
+    "format": "single",
+    "category": "flexibility"
+}

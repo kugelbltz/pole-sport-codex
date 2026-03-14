@@ -1,0 +1,40 @@
+{
+    "id": "S73",
+    "name": "Chest Press",
+    "technicalValue": 0.8,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "both hands, chest, neck, and chin (optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "arms are bent in cup grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are bent, feet directly above the hips, no contact with the pole"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "inverted, with the entire body on the same side of the pole"
+            ]
+        }
+    ],
+    "page": 66,
+    "format": "single",
+    "category": "strength"
+}

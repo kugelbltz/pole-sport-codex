@@ -1,0 +1,47 @@
+{
+    "id": "F93",
+    "name": "Machine Gun",
+    "technicalValue": 0.8,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "one hand, side of torso, one thigh"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "both arms are bent, one hand holds pole, other hand holds opposite leg extended to the front at the ankle or calf",
+                "of choice"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended in split position, in a straight line"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "horizontal to the floor"
+            ]
+        },
+        {
+            "type": "angle_of_split",
+            "items": [
+                "a minimum of 180°"
+            ]
+        }
+    ],
+    "page": 44,
+    "format": "single",
+    "category": "flexibility"
+}

@@ -8,35 +8,14 @@ import {
   ItemMedia,
   ItemTitle,
 } from "@/components/ui/item";
-import { getElements } from "@/lib/elements";
+import { countElements } from "@/lib/count";
+import { loadElementIndex } from "@/lib/elements";
 import { BicepsFlexed, LineSquiggle, LoaderPinwheel, Lock } from "lucide-react";
 import Link from "next/link";
 
 export default function Home() {
-  const elements = getElements();
-
-  const strengthElements = elements.filter(
-    (element) => element.category === "strength",
-  );
-  const flexibilityElements = elements.filter(
-    (element) => element.category === "flexibility",
-  );
-  const spinElements = elements.filter(
-    (element) => element.category === "spin",
-  );
-  const staticElements = elements.filter(
-    (element) => element.category === "static",
-  );
-
-  const easyElements = elements.filter(
-    (element) => element.technicalValue <= 0.4,
-  );
-  const mediumElements = elements.filter(
-    (element) => element.technicalValue > 0.4 && element.technicalValue <= 0.7,
-  );
-  const hardElements = elements.filter(
-    (element) => element.technicalValue > 0.7,
-  );
+  const elements = loadElementIndex();
+  const counts = countElements(elements);
 
   return (
     <main className="space-y-12 p-4">
@@ -57,32 +36,32 @@ export default function Home() {
         <section>
           <h2 className="font-semibold text-xl mb-3">By category</h2>
           <div className="grid grid-cols-4 gap-4">
-            <FilteredItem
+            <ElementGroupItem
               filters={["category=strength"]}
               media={<BicepsFlexed />}
               title="Strength elements"
-              elementCount={strengthElements.length}
+              elementCount={counts.categories.strength}
             />
 
-            <FilteredItem
+            <ElementGroupItem
               filters={["category=flexibility"]}
               media={<LineSquiggle />}
               title="Flexibility elements"
-              elementCount={flexibilityElements.length}
+              elementCount={counts.categories.flexibility}
             />
 
-            <FilteredItem
+            <ElementGroupItem
               filters={["category=static"]}
               media={<Lock />}
               title="Static elements"
-              elementCount={staticElements.length}
+              elementCount={counts.categories.static}
             />
 
-            <FilteredItem
+            <ElementGroupItem
               filters={["category=spin"]}
               media={<LoaderPinwheel />}
               title="Spin elements"
-              elementCount={spinElements.length}
+              elementCount={counts.categories.spin}
             />
           </div>
         </section>
@@ -90,25 +69,25 @@ export default function Home() {
         <section>
           <h2 className="font-semibold text-xl mb-3">By technical value</h2>
           <div className="grid grid-cols-3 gap-4">
-            <FilteredItem
+            <ElementGroupItem
               filters={["tech_value_max=0.4"]}
               media="*"
               title="Less than 0.4 points"
-              elementCount={easyElements.length}
+              elementCount={counts.difficulty.easy}
             />
 
-            <FilteredItem
+            <ElementGroupItem
               filters={["tech_value_min=0.4", "tech_value_max=0.7"]}
               media="**"
               title="Between 0.4 and 0.7 points"
-              elementCount={mediumElements.length}
+              elementCount={counts.difficulty.medium}
             />
 
-            <FilteredItem
+            <ElementGroupItem
               filters={["tech_value_min=0.7"]}
               media="***"
               title="More than 0.7 points"
-              elementCount={hardElements.length}
+              elementCount={counts.difficulty.hard}
             />
           </div>
         </section>
@@ -117,7 +96,7 @@ export default function Home() {
   );
 }
 
-export function FilteredItem({
+export function ElementGroupItem({
   media,
   filters,
   title,

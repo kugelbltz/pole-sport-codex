@@ -1,0 +1,40 @@
+{
+    "id": "SP82",
+    "name": "Crossed Hands Plank",
+    "technicalValue": 1.0,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 720° rotation"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "hips and both hands"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "cross grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended and closed, parallel to the floor"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "90° angle to the pole"
+            ]
+        }
+    ],
+    "page": 99,
+    "format": "single",
+    "category": "spin"
+}

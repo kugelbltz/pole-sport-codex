@@ -1,0 +1,40 @@
+{
+    "id": "S27",
+    "name": "Rainbow",
+    "technicalValue": 0.3,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "crook of one knee, both thighs, one calf (optional), glutes, pelvis"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "arms are fully extended. One hand is holding the ankle/foot of opposite leg, other arm is in a fixed position of choice"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "one leg is bent around the pole, other leg is fully extended, foot is lower than head level"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "inverted, back arch"
+            ]
+        }
+    ],
+    "page": 58,
+    "format": "single",
+    "category": "strength"
+}

@@ -1,0 +1,40 @@
+{
+    "id": "F23",
+    "name": "Underarm Hold Pike",
+    "technicalValue": 0.4,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "underarm and/or hand, torso"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "underarm and/or hand"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended and parallel to the pole with feet above the head"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upper body is upright"
+            ]
+        }
+    ],
+    "page": 30,
+    "format": "single",
+    "category": "flexibility"
+}

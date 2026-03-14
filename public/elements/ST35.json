@@ -1,0 +1,41 @@
+{
+    "id": "ST35",
+    "name": "Double Reverse Grab - Into Phoenix 3",
+    "technicalValue": 0.9,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 720° rotation, where the handspring should still spin. Rotation is considered from the point where there is no contact with the floor and includes the moment where the inverted position is fixed."
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "both hands, wrist"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "criteria of Double reverse grab body spiral 1 applies (refer to ST31), finishing in a twisted grip handspring without making contact with the floor",
+                "twisted grip – in final position"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "fixed leg position of choice"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upright transitioning to inverted"
+            ]
+        }
+    ],
+    "page": 82,
+    "format": "single",
+    "category": "static"
+}

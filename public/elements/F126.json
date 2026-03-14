@@ -1,0 +1,40 @@
+{
+    "id": "F126",
+    "name": "Low Back Crossbow",
+    "technicalValue": 1.0,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "arch of both feet, lower back/glutes"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "both arms are in a position of choice with no hand contact with the pole"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended in straddle position"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "torso is at a 90° angle to the pole"
+            ]
+        }
+    ],
+    "page": 52,
+    "format": "single",
+    "category": "flexibility"
+}

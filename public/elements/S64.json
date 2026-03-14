@@ -1,0 +1,41 @@
+{
+    "id": "S64",
+    "name": "Iguana Elbow Hold - Straddle No Hands 1",
+    "technicalValue": 0.7,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "one shoulder, same side elbow, same side arm, back/shoulder, glutes (optional), head (optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "one arm is holding the pole behind the body at the elbow, the other arm is in a fixed position of choice with no contact with the pole",
+                "elbow grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended in straddle position, and on same side of the pole as the body"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "inverted"
+            ]
+        }
+    ],
+    "page": 65,
+    "format": "single",
+    "category": "strength"
+}

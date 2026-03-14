@@ -1,0 +1,46 @@
+{
+    "id": "F115",
+    "name": "Russian Split 2",
+    "technicalValue": 0.9,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "sole of one foot, both hands"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "basic or cup grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended in split position. Back leg is parallel to the floor, no tolerance"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "parallel to the floor, with 20° tolerance"
+            ]
+        },
+        {
+            "type": "unknown",
+            "items": [
+                "a minimum of 180°"
+            ]
+        }
+    ],
+    "page": 49,
+    "format": "single",
+    "category": "flexibility"
+}

@@ -1,0 +1,41 @@
+{
+    "id": "SP77",
+    "name": "Inverted Split Spin",
+    "technicalValue": 0.9,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 720° rotation"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "underarm of inside arm, outside leg, foot of outside leg, lower back (optional), glutes (optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "both hands are holding the ankle of the inside leg",
+                "inside underarm grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended in split position"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "inverted"
+            ]
+        }
+    ],
+    "page": 98,
+    "format": "single",
+    "category": "spin"
+}

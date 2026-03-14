@@ -1,0 +1,46 @@
+{
+    "id": "F7",
+    "name": "Twisted Allegra",
+    "technicalValue": 0.2,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "inside leg, side of torso, inside arm, underarm / shoulder blade (optional), outside forearm/wrist (optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "outside hand wraps around the inside leg at the crook of the knee/thigh, inside arm is fully extended and hand is holding the outside foot"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "inside leg is in contact with the pole and in position of choice, but is not wrapped around the pole; outside leg is bent backwards"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "inverted"
+            ]
+        },
+        {
+            "type": "angle_of_split",
+            "items": [
+                "a minimum of 160°"
+            ]
+        }
+    ],
+    "page": 27,
+    "format": "single",
+    "category": "flexibility"
+}

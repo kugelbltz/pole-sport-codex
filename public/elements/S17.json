@@ -1,0 +1,40 @@
+{
+    "id": "S17",
+    "name": "Outside Knee Hook",
+    "technicalValue": 0.2,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "hand of inside arm, top of one thigh, crook of knee of opposite/outside leg"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "inside arm extended, pushing away from pole, outside arm in fixed position of choice"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "front leg is around the pole, back leg is fully extended behind"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "inverted and at an angle away from the pole"
+            ]
+        }
+    ],
+    "page": 56,
+    "format": "single",
+    "category": "strength"
+}

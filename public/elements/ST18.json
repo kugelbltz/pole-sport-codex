@@ -1,0 +1,41 @@
+{
+    "id": "ST18",
+    "name": "Body Spiral One - Hand",
+    "technicalValue": 0.4,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 360° rotation"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "inside arm and hand, back"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "inside hand has contact with the pole",
+                "underarm grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are bent"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upright"
+            ]
+        }
+    ],
+    "page": 79,
+    "format": "single",
+    "category": "static"
+}

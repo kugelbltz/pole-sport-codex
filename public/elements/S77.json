@@ -1,0 +1,52 @@
+{
+    "id": "S77",
+    "name": "Handstand Plank Jack - Knife",
+    "technicalValue": 0.8,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "one hand and wrist, top of head optional"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "both arms are fully extended; top hand is in contact with the pole, bottom hand is in contact with the floor."
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "legs are in a closed pike position and feet are above head, legs are parallel to the floor"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "torso is horizontal"
+            ]
+        },
+        {
+            "type": "starting_position",
+            "items": [
+                "from the floor"
+            ]
+        },
+        {
+            "type": "unknown",
+            "items": [
+                "Starting position from the floor"
+            ]
+        }
+    ],
+    "page": 67,
+    "format": "single",
+    "category": "strength"
+}

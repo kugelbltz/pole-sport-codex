@@ -1,0 +1,41 @@
+{
+    "id": "S71",
+    "name": "Back Grip Plank Thigh - Hold",
+    "technicalValue": 0.8,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "outside hand, waist, inside of thigh and calf of inside leg"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "outside arm is bent and hand is holding the pole above the body. inside arm is in a fixed position of choice with no contact with the pole or the body",
+                "basic or cup grip (outside hand)"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "inside leg is bent, outside leg is fully extended, shin of inside leg and outside leg are parallel to the floor"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upper body is horizontal, facing downwards"
+            ]
+        }
+    ],
+    "page": 66,
+    "format": "single",
+    "category": "strength"
+}

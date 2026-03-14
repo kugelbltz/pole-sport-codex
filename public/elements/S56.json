@@ -1,0 +1,40 @@
+{
+    "id": "S56",
+    "name": "No Hands Superman",
+    "technicalValue": 0.6,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "inside thighs, at least one foot"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "arms in fixed position of choice with no contact with the pole"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are bent and holding pole at the inner thighs and at least one foot, legs are not crossed, thighs are parallel to the floor. Feet are in contact with each other."
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upper body is in a back arched position"
+            ]
+        }
+    ],
+    "page": 63,
+    "format": "single",
+    "category": "strength"
+}

@@ -1,0 +1,47 @@
+{
+    "id": "F58",
+    "name": "Yogini Half Split",
+    "technicalValue": 0.6,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "underarm, side of torso"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "underarm grip (inside arm)",
+                "both arms are fully extended. Inside hand holds the shin/ankle of inside leg and outside hand is holding outside leg at the ankle/calf."
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "half split position with outside leg fully extended and parallel to the floor. Inside leg bent backwards."
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upright"
+            ]
+        },
+        {
+            "type": "unknown",
+            "items": [
+                "a minimum of 180°"
+            ]
+        }
+    ],
+    "page": 37,
+    "format": "single",
+    "category": "flexibility"
+}

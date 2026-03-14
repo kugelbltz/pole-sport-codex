@@ -1,0 +1,46 @@
+{
+    "id": "F83",
+    "name": "Cocoon 3",
+    "technicalValue": 0.8,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "crook of knee, thigh, torso"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "arms are fully extended above the head (relative to the inverted athlete) in ring position and holding back leg"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "ring position with front leg gripping the pole at the knee, back leg fully extended"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "inverted, back arch"
+            ]
+        },
+        {
+            "type": "angle_of_split",
+            "items": [
+                "a minimum of 180°"
+            ]
+        }
+    ],
+    "page": 42,
+    "format": "single",
+    "category": "flexibility"
+}

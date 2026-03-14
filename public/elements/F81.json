@@ -1,0 +1,47 @@
+{
+    "id": "F81",
+    "name": "Brass Monkey Split",
+    "technicalValue": 0.8,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "underarm and hand of inside arm, outside elbow"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "outside hand has no contact with the pole and is holding the opposite leg",
+                "flag grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended in split position and parallel to the pole"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "inverted"
+            ]
+        },
+        {
+            "type": "angle_of_split",
+            "items": [
+                "180°"
+            ]
+        }
+    ],
+    "page": 42,
+    "format": "single",
+    "category": "flexibility"
+}

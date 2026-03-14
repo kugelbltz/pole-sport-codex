@@ -1,0 +1,47 @@
+{
+    "id": "F96",
+    "name": "Russian Split Elbow - Lock",
+    "technicalValue": 0.8,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "crook of the inside elbow and the sole of one foot"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "both arms are bent, and hands are clasped, only top arm has contact with the pole, other arm is wrapped around the lower leg",
+                "elbow grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended, split angle is at a 45° angle to the pole"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "inverted, full body is at a 45° angle to the floor"
+            ]
+        },
+        {
+            "type": "angle_of_split",
+            "items": [
+                "180°"
+            ]
+        }
+    ],
+    "page": 45,
+    "format": "single",
+    "category": "flexibility"
+}

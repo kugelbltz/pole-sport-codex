@@ -1,0 +1,40 @@
+{
+    "id": "SP22",
+    "name": "Knee Hook Half Split - Spin",
+    "technicalValue": 0.4,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 720° rotation"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "one hand, one crook of knee, back of thigh (optional), calf (optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "inside hand is in basic grip, inside arm is extended, hand of the outside arm is holding the opposite leg behind the head at the calf/ ankle."
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "outside leg is hooked around the pole, inside leg is fully extended behind the shoulder/torso, and is held by the hand of the opposite arm."
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upright and angled away from the pole"
+            ]
+        }
+    ],
+    "page": 87,
+    "format": "single",
+    "category": "spin"
+}

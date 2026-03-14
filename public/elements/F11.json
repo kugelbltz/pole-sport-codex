@@ -1,0 +1,46 @@
+{
+    "id": "F11",
+    "name": "Inside Leg Hang 3",
+    "technicalValue": 0.3,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "inside leg, side of torso, back of the arm (optional), shoulder blade (optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "arms in fixed position of choice, no hands have contact with the pole"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "stag position"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "inverted"
+            ]
+        },
+        {
+            "type": "angle_of_split",
+            "items": [
+                "a minimum of 180°"
+            ]
+        }
+    ],
+    "page": 28,
+    "format": "single",
+    "category": "flexibility"
+}

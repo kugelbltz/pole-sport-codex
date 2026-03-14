@@ -1,0 +1,40 @@
+{
+    "id": "S90",
+    "name": "Mexican Flag 2",
+    "technicalValue": 0.9,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "side of torso, waist, back, back of inside shoulder, inside hand, head (optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "outside arm is fully extended, hand of inside arm is holding the pole at head level. Hand of outside arm has contact with the floor"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended and parallel to the floor"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "one-handed back bend"
+            ]
+        }
+    ],
+    "page": 70,
+    "format": "single",
+    "category": "strength"
+}

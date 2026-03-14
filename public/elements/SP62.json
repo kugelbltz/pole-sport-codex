@@ -1,0 +1,40 @@
+{
+    "id": "SP62",
+    "name": "Hand Based Split Spin",
+    "technicalValue": 0.7,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 720° rotation"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "both arms and hands, one foot, upper back"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "top arm is fully extended and holds the pole, bottom arm wraps around the pole."
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "lower foot balances on lower hand, legs are in a split position of choice"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "torso facing away from the pole"
+            ]
+        }
+    ],
+    "page": 95,
+    "format": "single",
+    "category": "spin"
+}

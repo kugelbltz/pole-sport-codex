@@ -1,0 +1,40 @@
+{
+    "id": "F94",
+    "name": "Mexican Flag 1",
+    "technicalValue": 0.8,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "side of torso, waist, back, back of inside shoulder, inside hand, head (optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "outside arm is fully extended, hand of inside arm is holding the pole at head level. Hand of outside arm has contact with the floor."
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended, feet are at same level or lower than the shoulders"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "one-handed back bend"
+            ]
+        }
+    ],
+    "page": 45,
+    "format": "single",
+    "category": "flexibility"
+}

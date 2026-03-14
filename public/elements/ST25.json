@@ -1,0 +1,41 @@
+{
+    "id": "ST25",
+    "name": "Reverse Grab - Straddle into Pencil",
+    "technicalValue": 0.5,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 360° rotation. Rotation is considered from the point where there is no contact with the floor and includes the moment where the pencil position is fixed."
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "both hands, wrist (optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "reverse spin starting with one arm on the pole into a split grip",
+                "split grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended in straddle position, then pencil"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upright, angle away from pole"
+            ]
+        }
+    ],
+    "page": 80,
+    "format": "single",
+    "category": "static"
+}

@@ -1,0 +1,41 @@
+{
+    "id": "S66",
+    "name": "Janeiro Plank",
+    "technicalValue": 0.7,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "both hands, inside arm, side of torso"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "inside arm is in flag grip, outside arm is in fixed position of choice with contact with the pole above the body",
+                "flag grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended and open"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "body is facing downwards and is at a 90° angle to the pole"
+            ]
+        }
+    ],
+    "page": 65,
+    "format": "single",
+    "category": "strength"
+}

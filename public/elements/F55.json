@@ -1,0 +1,46 @@
+{
+    "id": "F55",
+    "name": "Upright Braid Split",
+    "technicalValue": 0.6,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "inside hand, inside shoulder, torso, top of the thigh of the front leg"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "one arm is bent and holding the pole, the other arm is around the leg and in contact with the opposite arm"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended in a front split position"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upright"
+            ]
+        },
+        {
+            "type": "angle_of_split",
+            "items": [
+                "a minimum of 160°"
+            ]
+        }
+    ],
+    "page": 36,
+    "format": "single",
+    "category": "flexibility"
+}

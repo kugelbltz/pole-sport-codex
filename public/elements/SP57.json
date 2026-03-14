@@ -1,0 +1,40 @@
+{
+    "id": "SP57",
+    "name": "Butterfly Extended - No Hands",
+    "technicalValue": 0.7,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 720° rotation"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "one foot and ankle/shin, one shoulder and neck, upper arm (optional), back (optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "arms are in a fixed position of choice with no contact with the pole"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended, one foot has contact with the pole, opposite leg is extended away from the pole"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "inverted"
+            ]
+        }
+    ],
+    "page": 94,
+    "format": "single",
+    "category": "spin"
+}

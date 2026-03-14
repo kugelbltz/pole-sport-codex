@@ -1,0 +1,40 @@
+{
+    "id": "SP46",
+    "name": "Elbow Hold Inverted - Scissor",
+    "technicalValue": 0.6,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 720° rotation"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "crook of the outside elbow, both thighs, side of torso, back, back of the neck, outside shoulder"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "the inside arm is fully extended with the hand holding the opposite (top) leg. The outside arm is wrapped around the pole above the head (relative to the inverted athlete), with the hand holding the ankle of the inside leg. No hands have contact with the pole."
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended, the top leg is parallel to the floor"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "inverted"
+            ]
+        }
+    ],
+    "page": 92,
+    "format": "single",
+    "category": "spin"
+}

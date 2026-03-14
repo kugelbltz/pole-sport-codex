@@ -1,0 +1,46 @@
+{
+    "id": "F59",
+    "name": "Back Split to Pole - Ring Position",
+    "technicalValue": 0.7,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "both legs and both hands"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "basic or cup grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "split position with front leg fully extended, back leg bent, foot must touch head"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "back arch"
+            ]
+        },
+        {
+            "type": "angle_of_split",
+            "items": [
+                "a minimum of 180°"
+            ]
+        }
+    ],
+    "page": 37,
+    "format": "single",
+    "category": "flexibility"
+}

@@ -1,0 +1,41 @@
+{
+    "id": "S95",
+    "name": "Split Grip Side Plank - Legs Open",
+    "technicalValue": 0.9,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "both hands, side of waist"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "both arms are fully extended, inside arm is at the top, outside arm is at the bottom",
+                "split grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended and open"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "body is facing downwards at 90° to the pole"
+            ]
+        }
+    ],
+    "page": 71,
+    "format": "single",
+    "category": "strength"
+}

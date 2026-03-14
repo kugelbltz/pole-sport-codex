@@ -1,0 +1,40 @@
+{
+    "id": "SP2",
+    "name": "Fireman Spin Chair",
+    "technicalValue": 0.1,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 720° rotation"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "both hands, both knees"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "wide basic grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "thighs are parallel to the floor and legs closed"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upright"
+            ]
+        }
+    ],
+    "page": 84,
+    "format": "single",
+    "category": "spin"
+}

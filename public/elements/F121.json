@@ -1,0 +1,40 @@
+{
+    "id": "F121",
+    "name": "Crossbow 2",
+    "technicalValue": 1.0,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "both ankles, back of shoulders (no neck contact)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "both arms are fully extended and open with no hand contact with the pole"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended in straddle position with ankles to the pole (not the arch of the foot)"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "torso is at a 90° angle to the pole"
+            ]
+        }
+    ],
+    "page": 51,
+    "format": "single",
+    "category": "flexibility"
+}

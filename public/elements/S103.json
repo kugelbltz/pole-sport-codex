@@ -1,0 +1,52 @@
+{
+    "id": "S103",
+    "name": "Handstand Plank",
+    "technicalValue": 1.0,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "one hand, (top of head optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "both arms are fully extended; top arm is in contact with the pole, bottom arm is in contact with the floor"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended, parallel to the floor, legs are closed"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "entire body is at 90° to the pole"
+            ]
+        },
+        {
+            "type": "starting_position",
+            "items": [
+                "from the floor"
+            ]
+        },
+        {
+            "type": "unknown",
+            "items": [
+                "Starting position from the floor"
+            ]
+        }
+    ],
+    "page": 72,
+    "format": "single",
+    "category": "strength"
+}

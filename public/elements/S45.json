@@ -1,0 +1,40 @@
+{
+    "id": "S45",
+    "name": "Flag Grip Side Passé",
+    "technicalValue": 0.5,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "both arms, both hands, chest"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "flag grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "upper leg is fully extended, lower leg is in passé"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upper body and leg are parallel to the floor"
+            ]
+        }
+    ],
+    "page": 61,
+    "format": "single",
+    "category": "strength"
+}

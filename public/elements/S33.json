@@ -1,0 +1,41 @@
+{
+    "id": "S33",
+    "name": "Back Support Split",
+    "technicalValue": 0.4,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "back/side (no hip contact), outside hand and inside arm"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "inside arm holds inside leg around the pole",
+                "back support grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended with inside arm holding the calf of the inside leg"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upright"
+            ]
+        }
+    ],
+    "page": 59,
+    "format": "single",
+    "category": "strength"
+}

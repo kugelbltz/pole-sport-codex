@@ -1,0 +1,46 @@
+{
+    "id": "F18",
+    "name": "Handstand Vertical - Split 1",
+    "technicalValue": 0.4,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "back, one leg, one foot (optional), one shoulder (optional), glutes, head (optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "only one hand has contact with the floor, the other is holding the ankle of the front leg"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended in a vertical split position"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "one-handed inverted handstand (hips above the head and above the shoulders in a straight line)"
+            ]
+        },
+        {
+            "type": "angle_of_split",
+            "items": [
+                "a minimum of 160°"
+            ]
+        }
+    ],
+    "page": 29,
+    "format": "single",
+    "category": "flexibility"
+}

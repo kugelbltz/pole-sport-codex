@@ -1,0 +1,41 @@
+{
+    "id": "SP67",
+    "name": "Cradle Split",
+    "technicalValue": 0.8,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 720° rotation"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "one hand, hips, front of torso, one thigh"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "one arm is fully extended, and the hand is holding the pole, the other arm is bent, and the hand is holding the opposite leg at the ankle",
+                "basic grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended in split position, in a straight line and parallel to the floor"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "parallel to the floor"
+            ]
+        }
+    ],
+    "page": 96,
+    "format": "single",
+    "category": "spin"
+}

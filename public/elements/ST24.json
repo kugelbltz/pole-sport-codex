@@ -1,0 +1,40 @@
+{
+    "id": "ST24",
+    "name": "One-Handed Spin 2",
+    "technicalValue": 0.5,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 360° rotation"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "one hand, wrist (optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "inside hand is in basic grip. Inside arm is extended and hand is in contact with the pole, outside arm in a fixed position of choice with no contact with the pole"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "one leg is bent, other leg is fully extended behind the body"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upright at an angle away from the pole, with no forward bend at the hips for the fully extended leg"
+            ]
+        }
+    ],
+    "page": 80,
+    "format": "single",
+    "category": "static"
+}

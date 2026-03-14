@@ -1,0 +1,46 @@
+{
+    "id": "F63",
+    "name": "Cocoon 2",
+    "technicalValue": 0.7,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "crook of knee, thigh, torso"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "arms are fully extended above the head (relative to the inverted athlete) and holding back leg"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "split position with front leg gripping the pole at the knee, back leg is extended"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "inverted, back arch"
+            ]
+        },
+        {
+            "type": "angle_of_split",
+            "items": [
+                "a minimum of 160°"
+            ]
+        }
+    ],
+    "page": 38,
+    "format": "single",
+    "category": "flexibility"
+}

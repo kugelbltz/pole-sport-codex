@@ -1,0 +1,41 @@
+{
+    "id": "S37",
+    "name": "Extended Hang",
+    "technicalValue": 0.4,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "both hands"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "both arms are fully extended",
+                "grip of choice"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended and closed"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "chest and hips are facing away from the pole"
+            ]
+        }
+    ],
+    "page": 60,
+    "format": "single",
+    "category": "strength"
+}

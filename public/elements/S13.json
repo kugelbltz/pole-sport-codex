@@ -1,0 +1,40 @@
+{
+    "id": "S13",
+    "name": "Inside Leg Hang - Flatline",
+    "technicalValue": 0.2,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "hand of inside arm, side of torso, inside leg – no foot contact"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "Inside arm extended, pushing away from pole, outside arm in fixed position of choice with no contact with the pole"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "inside leg is hooked to the pole, outside leg is fully extended and parallel to the floor"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upper body parallel to the floor"
+            ]
+        }
+    ],
+    "page": 56,
+    "format": "single",
+    "category": "strength"
+}

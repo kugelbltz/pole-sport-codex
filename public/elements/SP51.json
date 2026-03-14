@@ -1,0 +1,40 @@
+{
+    "id": "SP51",
+    "name": "Inverted Libellula - Spin",
+    "technicalValue": 0.6,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 720° rotation"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "one arm, back, neck (optional), calf/ankle of top leg"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "one arm is in an elbow grip position (where the arm has contact) with the hand holding the hip, the other arm is fully extended and holding the ankle/calf of the lower leg"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended in split position"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "inverted"
+            ]
+        }
+    ],
+    "page": 93,
+    "format": "single",
+    "category": "spin"
+}

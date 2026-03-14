@@ -1,0 +1,40 @@
+{
+    "id": "ST21",
+    "name": "Cradle Spin Straddle",
+    "technicalValue": 0.4,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 360° rotation"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "both hands, hips, thighs (optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "split grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended in straddle position"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upper body is parallel to the floor"
+            ]
+        }
+    ],
+    "page": 79,
+    "format": "single",
+    "category": "static"
+}

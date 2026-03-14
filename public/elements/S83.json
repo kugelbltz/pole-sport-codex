@@ -1,0 +1,52 @@
+{
+    "id": "S83",
+    "name": "Wenson Straddle",
+    "technicalValue": 0.8,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "one hand"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "top arm is bent and in contact with the pole, bottom arm is fully extended and in contact with the floor"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended in straddle position (with no contact to the pole or floor). The upper leg should be supported on the upper part of the triceps/shoulder of the arm on the same side. There must be no leg contact with the pole."
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upper body is parallel to the floor"
+            ]
+        },
+        {
+            "type": "starting_position",
+            "items": [
+                "from the floor"
+            ]
+        },
+        {
+            "type": "unknown",
+            "items": [
+                "Starting position from the floor"
+            ]
+        }
+    ],
+    "page": 68,
+    "format": "single",
+    "category": "strength"
+}

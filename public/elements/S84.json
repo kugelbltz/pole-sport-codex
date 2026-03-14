@@ -1,0 +1,41 @@
+{
+    "id": "S84",
+    "name": "Cupgrip X",
+    "technicalValue": 0.9,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "both hands"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "bottom arm is fully extended; top arm may be extended or bent.",
+                "Top hand in cup grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended in straddle position, hips are naturally aligned to body position, legs are even"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upper body is at a 90° angle to the pole and facing in the same direction"
+            ]
+        }
+    ],
+    "page": 69,
+    "format": "single",
+    "category": "strength"
+}

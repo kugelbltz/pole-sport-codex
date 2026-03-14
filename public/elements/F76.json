@@ -1,0 +1,46 @@
+{
+    "id": "F76",
+    "name": "Pegasus Split Facing - Upwards",
+    "technicalValue": 0.7,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "lower forearm, lower hand, neck, shoulders, crook of upper elbow, upper bicep/triceps (optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "arm holding upper leg is in an elbow grip, bottom arm holds pole in forearm grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended in a diagonal split"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upper body is facing upwards"
+            ]
+        },
+        {
+            "type": "angle_of_split",
+            "items": [
+                "a minimum of 180°"
+            ]
+        }
+    ],
+    "page": 41,
+    "format": "single",
+    "category": "flexibility"
+}

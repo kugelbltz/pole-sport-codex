@@ -1,0 +1,41 @@
+{
+    "id": "SP3",
+    "name": "Pencil Forearm Grip",
+    "technicalValue": 0.1,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 720° rotation"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "both hands, one forearm"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "one arm in forearm grip, other arm fully extended and in contact with the pole above the other hand.",
+                "forearm grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended and closed in pencil position"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upright"
+            ]
+        }
+    ],
+    "page": 84,
+    "format": "single",
+    "category": "spin"
+}

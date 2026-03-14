@@ -1,0 +1,40 @@
+{
+    "id": "ST28",
+    "name": "Cradle Spin Tuck into - Extended Butterfly",
+    "technicalValue": 0.6,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 360° rotation, where the rotation must be maintained until the butterfly extension is fully extended"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "both hands, hips, top of thighs, transitioning to both hands, one ankle"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "split grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "tuck position followed by split position"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "criteria of Cradle Spin Tuck and Butterfly extension apply (refer to ST14 and S23)"
+            ]
+        }
+    ],
+    "page": 80,
+    "format": "single",
+    "category": "static"
+}

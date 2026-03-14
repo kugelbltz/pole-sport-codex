@@ -1,0 +1,40 @@
+{
+    "id": "S114",
+    "name": "720° Air Walk",
+    "technicalValue": 1.0,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "walk a minimum of 2 rotations"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "both hands, waist (optional), wrist (optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "split grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "starting in an upright position of choice, extended away from the pole. Perform a complete 360° rotation of the entire body (legs, hips, and torso) above the head, to return to the starting position, and repeat."
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upright moving through to inverted"
+            ]
+        }
+    ],
+    "page": 75,
+    "format": "single",
+    "category": "strength"
+}

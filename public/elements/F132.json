@@ -1,0 +1,46 @@
+{
+    "id": "F132",
+    "name": "Vertical Split No - Hands 2",
+    "technicalValue": 1.0,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "inside leg, inside of foot of inside leg, hips/glutes, foot, and shin of outside leg"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "arms in position of choice with no contact with the pole or the body"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended in split position"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "torso must be at a 90° angle to the pole"
+            ]
+        },
+        {
+            "type": "angle_of_split",
+            "items": [
+                "a minimum of 180°"
+            ]
+        }
+    ],
+    "page": 53,
+    "format": "single",
+    "category": "flexibility"
+}

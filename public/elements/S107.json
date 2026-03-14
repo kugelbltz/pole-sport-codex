@@ -1,0 +1,40 @@
+{
+    "id": "S107",
+    "name": "One Shoulder Side - Plank Legs Closed",
+    "technicalValue": 1.0,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "inside arm, hand of outside arm, shoulder, (neck optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "inside arm is fully extended and in contact with the pole, outside arm is bent with the hand holding the pole behind the head"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended, parallel to the floor, legs are closed"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "entire body is at 90° to the pole"
+            ]
+        }
+    ],
+    "page": 73,
+    "format": "single",
+    "category": "strength"
+}

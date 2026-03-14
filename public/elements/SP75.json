@@ -1,0 +1,40 @@
+{
+    "id": "SP75",
+    "name": "Elbow Grip Half Split - Spin",
+    "technicalValue": 0.9,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 720° rotation"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "one arm, shoulders (optional), back of neck, biceps/triceps, one hand, ankle/calf"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "top arm is in elbow grip and the hand holds the foot of same leg, the bottom arm is wrapped around the same leg and holds the pole at ankle/calf."
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "Legs are in half split position, where the bottom leg is fully extended."
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "Torso is horizontal"
+            ]
+        }
+    ],
+    "page": 97,
+    "format": "single",
+    "category": "spin"
+}

@@ -1,0 +1,41 @@
+{
+    "id": "F79",
+    "name": "Underarm Hold Split",
+    "technicalValue": 0.7,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "underarm of inside arm, ankles to the pole (not the arch of the foot)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "no hand contact with the pole. Both arms should be extended.",
+                "underarm grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended in straddle position"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upper body must be at a 90° angle to the pole, chest facing upwards"
+            ]
+        }
+    ],
+    "page": 41,
+    "format": "single",
+    "category": "flexibility"
+}

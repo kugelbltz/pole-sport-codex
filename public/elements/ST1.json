@@ -1,0 +1,46 @@
+{
+    "id": "ST1",
+    "name": "Back Hook Spin",
+    "technicalValue": 0.1,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 360° rotation"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "both hands, crook of knee and thigh of inside leg"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "wide basic grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "diamond"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upright"
+            ]
+        },
+        {
+            "type": "unknown",
+            "items": [
+                "backwards"
+            ]
+        }
+    ],
+    "page": 76,
+    "format": "single",
+    "category": "static"
+}

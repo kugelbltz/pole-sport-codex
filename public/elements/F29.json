@@ -1,0 +1,46 @@
+{
+    "id": "F29",
+    "name": "Floor Balance Split 1",
+    "technicalValue": 0.5,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "one foot"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "hand of bottom arm is in contact with the floor and arm is fully extended, top arm holds onto same leg"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are extended in a split position, in a straight line, and only the foot of one leg in contact with the pole. Legs are horizontal to the floor."
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "torso is at a 90° to the pole"
+            ]
+        },
+        {
+            "type": "angle_of_split",
+            "items": [
+                "a minimum of 160°"
+            ]
+        }
+    ],
+    "page": 31,
+    "format": "single",
+    "category": "flexibility"
+}

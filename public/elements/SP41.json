@@ -1,0 +1,41 @@
+{
+    "id": "SP41",
+    "name": "Vertical Half Split - Spin",
+    "technicalValue": 0.5,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 720° rotation"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "forearm of the inside arm, crook of elbow (optional), full length of the front leg, thigh and knee of the back leg, pelvis"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "the inside arm is wrapped around the pole and holding the front leg at the ankle/calf. The outside arm is fully extended, and the hand is holding the foot/ankle of the back leg.",
+                "wrap grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "half split position with front leg fully extended and in contact with the pole, and back leg bent"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upright"
+            ]
+        }
+    ],
+    "page": 91,
+    "format": "single",
+    "category": "spin"
+}

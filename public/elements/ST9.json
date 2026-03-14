@@ -1,0 +1,46 @@
+{
+    "id": "ST9",
+    "name": "Back Spin Attitude",
+    "technicalValue": 0.3,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 360° rotation"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "outside hand, inside forearm (optional) and hand"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "forearm grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "legs are in attitude position, parallel to floor"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upright"
+            ]
+        },
+        {
+            "type": "unknown",
+            "items": [
+                "backwards"
+            ]
+        }
+    ],
+    "page": 77,
+    "format": "single",
+    "category": "static"
+}

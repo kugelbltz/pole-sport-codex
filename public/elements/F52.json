@@ -1,0 +1,41 @@
+{
+    "id": "F52",
+    "name": "Janeiro",
+    "technicalValue": 0.6,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "one arm, back"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "outside hand has no contact with the pole and is in a fixed position",
+                "flag grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended and open"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "back is to the pole and hip is on the elbow"
+            ]
+        }
+    ],
+    "page": 36,
+    "format": "single",
+    "category": "flexibility"
+}

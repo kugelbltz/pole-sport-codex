@@ -1,0 +1,40 @@
+{
+    "id": "S16",
+    "name": "Outside Knee Hang",
+    "technicalValue": 0.2,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "outside leg, side of torso, back of inside shoulder, underarm (optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "arms in fixed position of choice with no hand contact with the pole"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "outside leg is bent and wrapped around the pole, inside leg is fully extended and horizontal to the floor"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "inverted"
+            ]
+        }
+    ],
+    "page": 56,
+    "format": "single",
+    "category": "strength"
+}

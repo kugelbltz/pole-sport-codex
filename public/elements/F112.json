@@ -1,0 +1,40 @@
+{
+    "id": "F112",
+    "name": "Inverted Twisted - Capezio",
+    "technicalValue": 0.9,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "thigh, side of torso, shoulder, inside arm, outside arm (optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "Inside arm is holding the ankle/foot of the opposite (back) leg. Outside arm is fully extended and holding the front leg. Outside arm in contact with the pole (optional)"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "legs are in an oversplit, front leg is fully extended and in contact with the pole at the inner thigh, held by the opposite arm. Back leg and foot must be stretched over the head or in a ring position"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "inverted"
+            ]
+        }
+    ],
+    "page": 49,
+    "format": "single",
+    "category": "flexibility"
+}

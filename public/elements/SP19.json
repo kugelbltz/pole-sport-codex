@@ -1,0 +1,40 @@
+{
+    "id": "SP19",
+    "name": "Cradle Spin Tuck No - Hands 1",
+    "technicalValue": 0.4,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 720° rotation"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "hips, torso, top of thighs"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "arms are wrapped around legs"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "tuck position"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "body is horizontal"
+            ]
+        }
+    ],
+    "page": 87,
+    "format": "single",
+    "category": "spin"
+}

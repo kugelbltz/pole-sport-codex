@@ -1,0 +1,47 @@
+{
+    "id": "F102",
+    "name": "Back Split",
+    "technicalValue": 0.9,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "both hands, full length of both legs"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "both hands hold the pole behind the legs",
+                "split grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended in split position"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upper body is in a back arch"
+            ]
+        },
+        {
+            "type": "angle_of_split",
+            "items": [
+                "a minimum of 180°"
+            ]
+        }
+    ],
+    "page": 47,
+    "format": "single",
+    "category": "flexibility"
+}

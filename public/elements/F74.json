@@ -1,0 +1,46 @@
+{
+    "id": "F74",
+    "name": "Inverted Split",
+    "technicalValue": 0.7,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "both legs, inside arm, back of shoulder of inside arm, feet (optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "outside arm in fixed position of choice. No hand contact with the pole. inside arm wraps around pole and leg"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended in split position in alignment with the pole"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "inverted"
+            ]
+        },
+        {
+            "type": "angle_of_split",
+            "items": [
+                "a minimum of 180°"
+            ]
+        }
+    ],
+    "page": 40,
+    "format": "single",
+    "category": "flexibility"
+}

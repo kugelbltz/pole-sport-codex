@@ -1,0 +1,40 @@
+{
+    "id": "SP47",
+    "name": "Elbow Hold Split Spin",
+    "technicalValue": 0.6,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 720° rotation"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "inside elbow (including bicep and forearm), back, glutes (optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "one arm in elbow grip, other arm is holding the opposite leg at ankle/calf"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended in split position, with the front foot higher than the hips"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upright"
+            ]
+        }
+    ],
+    "page": 92,
+    "format": "single",
+    "category": "spin"
+}

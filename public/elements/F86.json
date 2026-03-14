@@ -1,0 +1,46 @@
+{
+    "id": "F86",
+    "name": "Elbow Hold Frontal - Split 2",
+    "technicalValue": 0.8,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "upper back, top arm (excluding hand), lower hand (optional), back leg and front of foot"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "top arm is in elbow grip with the hand holding ankle of opposite leg, other arm is in fixed position of choice"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs fully extended in a frontal split position, back leg and foot are in contact with the pole"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upright"
+            ]
+        },
+        {
+            "type": "angle_of_split",
+            "items": [
+                "a minimum of 180°"
+            ]
+        }
+    ],
+    "page": 43,
+    "format": "single",
+    "category": "flexibility"
+}

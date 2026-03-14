@@ -1,0 +1,40 @@
+{
+    "id": "SP61",
+    "name": "Elbow Hold Upright - Scissor",
+    "technicalValue": 0.7,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 720° rotation"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "crook of outside elbow, both thighs, side of torso, back, back of neck, back of outside shoulder (optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "inside arm is fully extended and holding the opposite (bottom) leg. The outside arm is wrapped around the pole above the head, with the hand holding the ankle of the inside leg. No hands have contact with the pole."
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended, bottom leg is parallel to the floor"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upright"
+            ]
+        }
+    ],
+    "page": 95,
+    "format": "single",
+    "category": "spin"
+}

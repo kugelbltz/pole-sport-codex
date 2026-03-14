@@ -1,0 +1,40 @@
+{
+    "id": "S98",
+    "name": "Back Support Plank",
+    "technicalValue": 1.0,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "both hands, waist, forearm has no contact with the pole"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "back support grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended, parallel to the floor, legs are closed"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "body is at 90° to the pole"
+            ]
+        }
+    ],
+    "page": 71,
+    "format": "single",
+    "category": "strength"
+}

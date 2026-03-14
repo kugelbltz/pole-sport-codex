@@ -1,0 +1,40 @@
+{
+    "id": "S50",
+    "name": "Superpassé",
+    "technicalValue": 0.5,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "thigh of one leg, inside thigh and calf of other leg"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "one arm is extended with the hand holding the opposite leg (which is wrapped around the pole), other arm is in fixed position of choice"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "one leg is fully extended, other leg is bent around the pole"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "horizontal"
+            ]
+        }
+    ],
+    "page": 62,
+    "format": "single",
+    "category": "strength"
+}

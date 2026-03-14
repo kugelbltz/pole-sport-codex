@@ -1,0 +1,40 @@
+{
+    "id": "S10",
+    "name": "Closed Teddy",
+    "technicalValue": 0.2,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "inside underarm and bicep, side of torso, glutes (optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "one arm is fully extended and holding the leg, the other arm is in a fixed position of choice with no pole contact"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "legs are closed and in a fixed position of choice without contact with the pole"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upright"
+            ]
+        }
+    ],
+    "page": 55,
+    "format": "single",
+    "category": "strength"
+}

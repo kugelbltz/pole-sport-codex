@@ -1,0 +1,41 @@
+{
+    "id": "SP32",
+    "name": "Iguana Fang",
+    "technicalValue": 0.5,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 720° rotation"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "both hands, one shoulder, thighs/ glutes optional"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "iguana arm position",
+                "basic grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are bent in fang position"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "inverted, back arch"
+            ]
+        }
+    ],
+    "page": 89,
+    "format": "single",
+    "category": "spin"
+}

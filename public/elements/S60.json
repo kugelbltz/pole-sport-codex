@@ -1,0 +1,40 @@
+{
+    "id": "S60",
+    "name": "Butterfly Extended - Twist One Hand",
+    "technicalValue": 0.7,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "one hand, opposite foot, shin (optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "one arm is extended and holding the pole above the head (relative to the inverted athlete), the other arm is in fixed position of choice with no contact with the pole"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended, one foot has contact with the pole, opposite leg is extended away from the pole"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "inverted"
+            ]
+        }
+    ],
+    "page": 64,
+    "format": "single",
+    "category": "strength"
+}

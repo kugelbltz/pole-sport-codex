@@ -1,0 +1,41 @@
+{
+    "id": "F108",
+    "name": "Elbow Grip - Horizontal Back Bend",
+    "technicalValue": 0.9,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "both arms, upper back, back of the head"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "top arm is in underarm grip, hand is holding onto top leg; bottom arm is wrapped around pole at elbow. No hands in contact with the pole",
+                "underarm grip (top arm) and elbow grip (bottom arm)"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "body is wrapped around the pole with a back arch position"
+            ]
+        }
+    ],
+    "page": 48,
+    "format": "single",
+    "category": "flexibility"
+}

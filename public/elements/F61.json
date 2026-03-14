@@ -1,0 +1,46 @@
+{
+    "id": "F61",
+    "name": "Capezio Split",
+    "technicalValue": 0.7,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "underarm of back arm, back, thigh of inside leg"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "no hands to have contact with the pole, the inside arm holds the back leg at ankle/shin level and is fully extended. The outside arm holds the front leg"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended in split position"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upright"
+            ]
+        },
+        {
+            "type": "angle_of_split",
+            "items": [
+                "a minimum of 180°"
+            ]
+        }
+    ],
+    "page": 38,
+    "format": "single",
+    "category": "flexibility"
+}

@@ -1,0 +1,47 @@
+{
+    "id": "F91",
+    "name": "Iguana Elbow Hold - Split No Hands",
+    "technicalValue": 0.8,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "back of shoulder, arm, elbow of inside arm, neck (optional), back, glutes, thigh of back leg, head (optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "one arm is holding the pole behind the body at the elbow. the other arm is fully extended and holding back leg at shin level (between knee and ankle)",
+                "elbow grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended in split position and horizontal"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "inverted"
+            ]
+        },
+        {
+            "type": "angle_of_split",
+            "items": [
+                "a minimum of 180°"
+            ]
+        }
+    ],
+    "page": 44,
+    "format": "single",
+    "category": "flexibility"
+}

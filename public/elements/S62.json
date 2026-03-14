@@ -1,0 +1,40 @@
+{
+    "id": "S62",
+    "name": "Flag Grip Handstand - Flag",
+    "technicalValue": 0.7,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "underarm of inside arm and hand, side of chest"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "outside arm is fully extended in contact with the floor; inside arm is in flag grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended, parallel to the floor, legs are closed"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "facing downwards"
+            ]
+        }
+    ],
+    "page": 64,
+    "format": "single",
+    "category": "strength"
+}

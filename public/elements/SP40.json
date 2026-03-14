@@ -1,0 +1,40 @@
+{
+    "id": "SP40",
+    "name": "Upright Teardrop - Spin",
+    "technicalValue": 0.5,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 720° rotation"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "both hands, both shins, calf (optional), ankles (optional), one foot (optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "one arm is fully extended holding the pole above the head, the other arm is bent, with the hand in line with the shoulder and chin."
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are extended and crossed"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upright, in back arch position"
+            ]
+        }
+    ],
+    "page": 91,
+    "format": "single",
+    "category": "spin"
+}

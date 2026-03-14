@@ -1,0 +1,41 @@
+{
+    "id": "ST36",
+    "name": "Phoenix Spin 4",
+    "technicalValue": 0.9,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 360° rotation, where the handspring should still spin. Rotation is considered from the point where there is no contact with the floor and includes the moment where the inverted position is fixed."
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "both hands, wrist"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "reverse spin starting with one hand on the pole into a twisted grip handspring without making contact with the floor",
+                "twisted grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "legs finish in a fixed leg position of choice"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "back is to the pole for the reverse spin, body moves into inverted position after handspring without changing direction (i.e., turning back), hips must face upwards."
+            ]
+        }
+    ],
+    "page": 82,
+    "format": "single",
+    "category": "static"
+}

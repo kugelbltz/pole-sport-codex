@@ -1,0 +1,41 @@
+{
+    "id": "ST34",
+    "name": "One-Handed Spin 3",
+    "technicalValue": 0.8,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 360° rotation"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "one hand, wrist (optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "outside arm is extended and hand is in contact with the pole, inside arm in a fixed position of choice with no contact with the pole",
+                "outside hand is in basic grip or cup grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "in a fixed position of choice"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "at an angle away from the pole"
+            ]
+        }
+    ],
+    "page": 82,
+    "format": "single",
+    "category": "static"
+}

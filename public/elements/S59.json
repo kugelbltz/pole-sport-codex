@@ -1,0 +1,41 @@
+{
+    "id": "S59",
+    "name": "Back Support Plank - Thigh Hold",
+    "technicalValue": 0.7,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "inside calf and thigh of inside leg, side of waist, one hand"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "outside arm is in back support grip, inside arm is in fixed position of choice with no contact with the pole",
+                "back support"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "outside leg is fully extended, inside leg is bent and has contact with the pole"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "body, inside arm and outside leg are parallel to the floor"
+            ]
+        }
+    ],
+    "page": 64,
+    "format": "single",
+    "category": "strength"
+}

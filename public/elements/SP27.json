@@ -1,0 +1,40 @@
+{
+    "id": "SP27",
+    "name": "Broken Doll",
+    "technicalValue": 0.5,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 720° rotation"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "heel/ankle of outside leg, side of torso, back, at least one arm, no hand contact"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "arms are fully extended in fixed position of choice, same arm and leg are in contact with the pole"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are bent"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "inverted"
+            ]
+        }
+    ],
+    "page": 88,
+    "format": "single",
+    "category": "spin"
+}

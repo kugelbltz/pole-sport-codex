@@ -1,0 +1,40 @@
+{
+    "id": "F78",
+    "name": "Superman V",
+    "technicalValue": 0.7,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "both thighs, one arm"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "both arms are extended, same hand holds same leg at shin level (between ankle and knee), no hands have contact with the pole"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "back leg is fully extended, other leg is in passé"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upright V-shape must be formed"
+            ]
+        }
+    ],
+    "page": 41,
+    "format": "single",
+    "category": "flexibility"
+}

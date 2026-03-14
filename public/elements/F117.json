@@ -1,0 +1,47 @@
+{
+    "id": "F117",
+    "name": "Vertical Split",
+    "technicalValue": 0.9,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "hands, forearm of bottom arm, outside of lower leg calf, top of foot of lower leg (not the arch of the foot), top leg (optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "top arm is fully extended, lower forearm wraps around lower leg at the knee and holds the pole",
+                "wide basic grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "inverted"
+            ]
+        },
+        {
+            "type": "angle_of_split",
+            "items": [
+                "a minimum of 160°"
+            ]
+        }
+    ],
+    "page": 50,
+    "format": "single",
+    "category": "flexibility"
+}

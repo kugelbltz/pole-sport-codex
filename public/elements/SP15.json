@@ -1,0 +1,41 @@
+{
+    "id": "SP15",
+    "name": "Vortex Spin",
+    "technicalValue": 0.3,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 720° rotation"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "crook of elbow of inside arm, inner thigh of inside leg, calf of outside leg"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "hands are clasped above and behind the head. Crook of inside elbow is in contact with the pole.",
+                "elbow grip."
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upright"
+            ]
+        }
+    ],
+    "page": 86,
+    "format": "single",
+    "category": "spin"
+}

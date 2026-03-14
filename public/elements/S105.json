@@ -1,0 +1,41 @@
+{
+    "id": "S105",
+    "name": "Iron Pencil",
+    "technicalValue": 1.0,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "both hands"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "both arms are fully extended",
+                "top hand in cup grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended, parallel to the floor, legs are closed"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "entire body (from head to feet) is at 90° to the pole and facing in the same direction"
+            ]
+        }
+    ],
+    "page": 73,
+    "format": "single",
+    "category": "strength"
+}

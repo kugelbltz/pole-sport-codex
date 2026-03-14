@@ -1,0 +1,41 @@
+{
+    "id": "S74",
+    "name": "Cross Grip Tulip",
+    "technicalValue": 0.8,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "both hands only"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "both arms fully extended, and crossed over each other",
+                "cross grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended in straddle position"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "legs, pelvis and body are on the same side of the pole without any contact to the pole or hands, upper body is at a 90° angle to the pole"
+            ]
+        }
+    ],
+    "page": 67,
+    "format": "single",
+    "category": "strength"
+}

@@ -1,0 +1,41 @@
+{
+    "id": "S109",
+    "name": "Split Grip Flag",
+    "technicalValue": 1.0,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "both arms, both hands, chest"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "both arms are fully extended",
+                "split grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended, parallel to the floor, legs are closed"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "entire body is at 90° to the pole"
+            ]
+        }
+    ],
+    "page": 74,
+    "format": "single",
+    "category": "strength"
+}

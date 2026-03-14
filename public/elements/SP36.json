@@ -1,0 +1,41 @@
+{
+    "id": "SP36",
+    "name": "Muse Spin",
+    "technicalValue": 0.5,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 720° rotation"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "hands and one foot, calf (optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "arms are fully extended, and hands are in contact with the pole. One of the hands must hold the pole between the legs.",
+                "grip of choice"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "forward fold where head is lower than hips"
+            ]
+        }
+    ],
+    "page": 90,
+    "format": "single",
+    "category": "spin"
+}

@@ -1,0 +1,40 @@
+{
+    "id": "S35",
+    "name": "Broken Butterfly",
+    "technicalValue": 0.4,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "one hand (wrist optional), one arm, back of neck, one ankle, calf (optional), one shoulder, back of neck, chest (optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "top arm is bent in an elbow grip with full upper arm contact, bottom arm is is extended and the hand holding the pole above the head (relative to the inverted athlete)"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are bent, ankle of opposite leg to top arm is in contact with the pole, other leg is in fixed position of choice"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "inverted, hips are away from the pole"
+            ]
+        }
+    ],
+    "page": 59,
+    "format": "single",
+    "category": "strength"
+}

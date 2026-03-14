@@ -1,0 +1,41 @@
+{
+    "id": "S58",
+    "name": "Vertical Reverse - Elbow Grip",
+    "technicalValue": 0.6,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "inside arm elbow, arm and back of shoulder; hand of outside arm, back/shoulder blade, head (optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "inside arm is holding the pole behind the body at the elbow, hand of outside arm is holding the pole above the inside elbow/at hip level",
+                "inside arm is in elbow grip, outside hand/arm is in grip of choice"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended in a position of choice and parallel to the pole with 20° tolerance. Legs are on the same side of the pole as the body (except inside arm)"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "inverted"
+            ]
+        }
+    ],
+    "page": 63,
+    "format": "single",
+    "category": "strength"
+}

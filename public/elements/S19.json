@@ -1,0 +1,40 @@
+{
+    "id": "S19",
+    "name": "Stargazer",
+    "technicalValue": 0.2,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "crook of knee/calf of upper leg, top of foot, shin and knee of lower leg, thighs (optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "one hand is holding the opposite leg (which is bent around the pole) at any point, other arm is in a fixed position of choice. No hand contact with the pole"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "one leg is bent around the pole and crossed in front of the other leg"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "back is arched"
+            ]
+        }
+    ],
+    "page": 57,
+    "format": "single",
+    "category": "strength"
+}

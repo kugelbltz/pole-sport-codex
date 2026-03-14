@@ -1,0 +1,41 @@
+{
+    "id": "SP73",
+    "name": "Closed Cross Bow",
+    "technicalValue": 0.9,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 720° rotation"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "both hands, hips, front of torso, thighs (optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "Both arms are fully extended",
+                "split grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended in straddle position in front of the pole and behind the arms, legs are in contact with the triceps"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upper body is parallel to the floor"
+            ]
+        }
+    ],
+    "page": 97,
+    "format": "single",
+    "category": "spin"
+}

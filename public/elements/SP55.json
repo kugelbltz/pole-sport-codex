@@ -1,0 +1,40 @@
+{
+    "id": "SP55",
+    "name": "Back Arch Scissor - Spin 2",
+    "technicalValue": 0.7,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 720° rotation"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "side of torso, inside elbow, hip, and thigh (optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "inside arm is in elbow grip with the arm holding the torso. The outside arm is fully extended holding the same side leg at shin/ankle"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "legs are fully extended with no foot contact with the pole"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "back arch"
+            ]
+        }
+    ],
+    "page": 94,
+    "format": "single",
+    "category": "spin"
+}

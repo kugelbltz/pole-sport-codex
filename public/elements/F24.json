@@ -1,0 +1,40 @@
+{
+    "id": "F24",
+    "name": "Yogini 1",
+    "technicalValue": 0.4,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "underarm, side of torso"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "arms are fully extended, inside arm is in underarm grip, hands holding legs at the ankle/shin level"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are bent, and knees are at the same level as the hips or higher than hips"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upper body is upright, hips facing the floor"
+            ]
+        }
+    ],
+    "page": 30,
+    "format": "single",
+    "category": "flexibility"
+}

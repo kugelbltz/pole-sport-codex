@@ -1,0 +1,40 @@
+{
+    "id": "S113",
+    "name": "Torso Support Plank",
+    "technicalValue": 1.0,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "both hands, side of torso"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "bottom arm is supporting the body in front of the torso with hand in contact with the pole, top arm is bent with the hand holding the pole above the body"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended, parallel to the floor, legs are closed"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "entire body is facing downwards at 90° to the pole"
+            ]
+        }
+    ],
+    "page": 74,
+    "format": "single",
+    "category": "strength"
+}

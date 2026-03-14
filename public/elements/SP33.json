@@ -1,0 +1,40 @@
+{
+    "id": "SP33",
+    "name": "Inverted Stand Spin",
+    "technicalValue": 0.5,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 720° rotation"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "one leg, chest, opposite arm (no hand contact), same shoulder (optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "one arm is bent and around the pole with hand holding the opposite knee/thigh, other arm is in fixed position of choice without contact with the pole or the body"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "one leg is bent around the pole, other leg is fully extended and parallel to the pole"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "inverted"
+            ]
+        }
+    ],
+    "page": 89,
+    "format": "single",
+    "category": "spin"
+}

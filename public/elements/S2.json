@@ -1,0 +1,41 @@
+{
+    "id": "S2",
+    "name": "Inverted Straddle 1",
+    "technicalValue": 0.1,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "both hands, inside arm, torso, one thigh (optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "both arms are extended, holding the pole",
+                "basic grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended in straddle position"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "inverted"
+            ]
+        }
+    ],
+    "page": 54,
+    "format": "single",
+    "category": "strength"
+}

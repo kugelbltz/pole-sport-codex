@@ -1,0 +1,40 @@
+{
+    "id": "SP14",
+    "name": "Seated Side Tuck",
+    "technicalValue": 0.3,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 720° rotation"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "inner thighs, stomach (optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "arms wrap tucked legs"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "tuck, with pole between inner thighs in a seated position"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "body is at a 90° angle to the pole"
+            ]
+        }
+    ],
+    "page": 86,
+    "format": "single",
+    "category": "spin"
+}

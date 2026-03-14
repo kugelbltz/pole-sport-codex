@@ -1,0 +1,47 @@
+{
+    "id": "F109",
+    "name": "Elbow Hold Split",
+    "technicalValue": 0.9,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "neck, upper back, crook of upper elbow, leg (optional), underarm (optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "top arm is in elbow grip, other arm holds the ankle of opposite leg behind pole",
+                "elbow grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended and parallel to the floor in split position"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "parallel to the floor"
+            ]
+        },
+        {
+            "type": "angle_of_split",
+            "items": [
+                "180°"
+            ]
+        }
+    ],
+    "page": 48,
+    "format": "single",
+    "category": "flexibility"
+}

@@ -1,0 +1,40 @@
+{
+    "id": "SP35",
+    "name": "Meathook Pike Spin",
+    "technicalValue": 0.5,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 720° rotation"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "one hand and arm, shoulder (optional), thighs, hips, torso"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "inside arm is fully extended and holding pole, outside arm is in a fixed position of choice with no contact with the pole"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended and closed in a pike position"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "wrapped around the pole"
+            ]
+        }
+    ],
+    "page": 90,
+    "format": "single",
+    "category": "spin"
+}

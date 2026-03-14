@@ -1,0 +1,40 @@
+{
+    "id": "F85",
+    "name": "Dragon Tail Fang 2",
+    "technicalValue": 0.8,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "both hands, forearm (optional), torso (optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "inside arm is fully extended and hand is in contact with the pole, hand of the outside arm holds the pole behind the back"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "fang position with both legs bent back, toes touching the crown of head"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "inverted"
+            ]
+        }
+    ],
+    "page": 42,
+    "format": "single",
+    "category": "flexibility"
+}

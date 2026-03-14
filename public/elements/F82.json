@@ -1,0 +1,40 @@
+{
+    "id": "F82",
+    "name": "Cobra",
+    "technicalValue": 0.8,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "both hands, knee and shin of upper leg, thigh of lower leg"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "arms are fully extended in wide basic grip. Upper hand grips the pole above the same leg at shin level. Lower hand grips the pole below the lower leg at thigh level"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "legs are fully extended"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "in back arch position"
+            ]
+        }
+    ],
+    "page": 42,
+    "format": "single",
+    "category": "flexibility"
+}

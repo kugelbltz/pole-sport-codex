@@ -1,0 +1,41 @@
+{
+    "id": "ST11",
+    "name": "Body Spiral to Chair - Spin",
+    "technicalValue": 0.3,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 360° rotation, where the chair position must still be spinning. Rotation is considered from the point where there is no contact with the floor and includes the moment where the chair position is fixed."
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "both hands, wrist (optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "reverse spin starting with one hand on the pole, bottom hand releases and then re-grips the pole with turning the body into a Chair Spin position without making contact with the floor",
+                "split grip in Body Spiral Reverse Grab position and wide basic grip in the Chair Spin position"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "in a stag position followed by chair position"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upright, general shape of body positions of Body Spiral Reverse Grab and Chair Spin apply (refer to ST10 and ST5, with a 20° tolerance on the leg position of both spins)"
+            ]
+        }
+    ],
+    "page": 77,
+    "format": "single",
+    "category": "static"
+}

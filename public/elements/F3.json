@@ -1,0 +1,46 @@
+{
+    "id": "F3",
+    "name": "Ballerina Sit",
+    "technicalValue": 0.2,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "back of inside underarm, side of torso, inside leg, foot (optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "hand of inside arm holds outside foot, outside arm is in fixed position of choice with no contact with the pole"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "stag position"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upright"
+            ]
+        },
+        {
+            "type": "angle_of_split",
+            "items": [
+                "a minimum of 160°"
+            ]
+        }
+    ],
+    "page": 26,
+    "format": "single",
+    "category": "flexibility"
+}

@@ -1,0 +1,40 @@
+{
+    "id": "SP4",
+    "name": "Ballerina",
+    "technicalValue": 0.2,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 720° rotation"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "inner thighs, calf, one hand, inner arm, side of torso, back"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "inner arm is wrapped around the pole behind the body, outer arm is bent holding the pole at the level of the head or higher"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "seated position with legs bent and tucked to one side of the pole"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upright"
+            ]
+        }
+    ],
+    "page": 84,
+    "format": "single",
+    "category": "spin"
+}

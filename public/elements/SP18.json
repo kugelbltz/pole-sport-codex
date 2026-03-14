@@ -1,0 +1,40 @@
+{
+    "id": "SP18",
+    "name": "Clef Spin",
+    "technicalValue": 0.4,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 720° rotation"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "outside hand, inside elbow and forearm, thigh and knee of inside leg, calf of outside leg"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "outside hand is holding the pole above the head, inside arm is in elbow grip position and holding the ankle of the outside leg"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "inside leg is fully extended, outside leg is bent and crossed in front of the inside leg"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upright, torso facing away from the pole"
+            ]
+        }
+    ],
+    "page": 87,
+    "format": "single",
+    "category": "spin"
+}

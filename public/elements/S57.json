@@ -1,0 +1,47 @@
+{
+    "id": "S57",
+    "name": "Shoulder Mount - Plank Straddle",
+    "technicalValue": 0.6,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds in the final position (shoulder mount plank with legs in straddle position)"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "both hands, one shoulder, (neck optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "arms are bent",
+                "grip of choice"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "final position is both legs are fully extended in straddle position"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "body is at a 90° angle to the pole in the final position"
+            ]
+        },
+        {
+            "type": "starting_position",
+            "items": [
+                "from an aerial shoulder mount pencil position (S29), lower the body to finish in straddle position"
+            ]
+        }
+    ],
+    "page": 63,
+    "format": "single",
+    "category": "strength"
+}

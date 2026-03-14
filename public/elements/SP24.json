@@ -1,0 +1,41 @@
+{
+    "id": "SP24",
+    "name": "Seahorse",
+    "technicalValue": 0.4,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 720° rotation"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "one hand (with second hand optional), one crook of knee and back of thigh, ankle (optional), glutes"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "at least one hand is holding the pole above the head, the other arm is in a fixed position of choice",
+                "basic or cup grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "one leg grips the pole in the crook of the knee and along the back of the thigh, the other leg is crossed over the first leg with optional ankle contact with the pole"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upright, facing away from the pole"
+            ]
+        }
+    ],
+    "page": 88,
+    "format": "single",
+    "category": "spin"
+}

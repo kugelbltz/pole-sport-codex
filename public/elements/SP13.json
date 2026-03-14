@@ -1,0 +1,40 @@
+{
+    "id": "SP13",
+    "name": "Pencil Spin Basic Grip - 1",
+    "technicalValue": 0.3,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 720° rotation"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "both hands, wrists (optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "basic grip, arms can be bent"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended and closed in pencil position"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upright and parallel to the pole"
+            ]
+        }
+    ],
+    "page": 86,
+    "format": "single",
+    "category": "spin"
+}

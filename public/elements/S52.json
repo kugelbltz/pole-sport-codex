@@ -1,0 +1,41 @@
+{
+    "id": "S52",
+    "name": "Elbow Hold Passé",
+    "technicalValue": 0.6,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "upper elbow, lower hand, back of neck, lower shoulder (optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "top arm is in elbow grip, bottom arm is bent and holding the pole",
+                "elbow grip (in top arm)"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "upper leg is fully extended and parallel to the floor, lower leg is in passé"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "entire body is parallel to the floor"
+            ]
+        }
+    ],
+    "page": 62,
+    "format": "single",
+    "category": "strength"
+}

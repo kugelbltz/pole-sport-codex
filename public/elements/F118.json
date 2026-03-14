@@ -1,0 +1,47 @@
+{
+    "id": "F118",
+    "name": "Vertical Half Split",
+    "technicalValue": 0.9,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "crook of both elbows, back of neck, shoulders, biceps/triceps (optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "upper hand holds opposite foot, bottom hand holds opposite, lower ankle. Both arms wrapped around the pole",
+                "top arm in elbow grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "legs are in a half split position. Upper leg is bent, bottom leg is fully extended."
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "inverted with the chest facing downwards."
+            ]
+        },
+        {
+            "type": "angle_of_split",
+            "items": [
+                "a minimum of 180°"
+            ]
+        }
+    ],
+    "page": 50,
+    "format": "single",
+    "category": "flexibility"
+}

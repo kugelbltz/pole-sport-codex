@@ -1,0 +1,41 @@
+{
+    "id": "S32",
+    "name": "Underarm Hold Hang - 2",
+    "technicalValue": 0.3,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "inside underarm, side of torso"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "arms in fixed position of choice with no contact with the pole",
+                "underarm grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "legs in position of choice, without contact with the pole"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upright"
+            ]
+        }
+    ],
+    "page": 59,
+    "format": "single",
+    "category": "strength"
+}

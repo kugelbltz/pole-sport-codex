@@ -1,0 +1,41 @@
+{
+    "id": "S75",
+    "name": "Elbow/Neck Hold - Straddle",
+    "technicalValue": 0.8,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "crook of both elbows and back of neck, shoulders (optional), biceps/triceps (optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "both elbows are around the pole (wrapping from behind the pole) on either side of the head",
+                "elbow grip (both arms)"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended in straddle position, legs are even"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "torso is at a 90° angle to the pole"
+            ]
+        }
+    ],
+    "page": 67,
+    "format": "single",
+    "category": "strength"
+}

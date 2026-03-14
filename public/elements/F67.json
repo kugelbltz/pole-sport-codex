@@ -1,0 +1,46 @@
+{
+    "id": "F67",
+    "name": "Elbow Hold Frontal - Split 1",
+    "technicalValue": 0.7,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "shoulder, neck, crook of elbow, back (optional), bicep (optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "no hands have contact with the pole, elbow grip hand holding ankle of opposite leg, free arm is in fixed position of choice and has no contact with the pole"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs fully extended in a frontal split position"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upright"
+            ]
+        },
+        {
+            "type": "angle_of_split",
+            "items": [
+                "a minimum of 180°"
+            ]
+        }
+    ],
+    "page": 39,
+    "format": "single",
+    "category": "flexibility"
+}

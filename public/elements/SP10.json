@@ -1,0 +1,40 @@
+{
+    "id": "SP10",
+    "name": "Upright Sailor Spin",
+    "technicalValue": 0.2,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 720° rotation"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "both ankles, one shin and one calf, one hand, one foot (optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "inside arm is fully extended and in contact with the pole, outside arm in a fixed position of choice with no contact with the pole"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "extended and closed"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upright and extended"
+            ]
+        }
+    ],
+    "page": 85,
+    "format": "single",
+    "category": "spin"
+}

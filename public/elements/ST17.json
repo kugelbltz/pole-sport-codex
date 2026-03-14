@@ -1,0 +1,40 @@
+{
+    "id": "ST17",
+    "name": "Thread-through - Straddle Spin",
+    "technicalValue": 0.3,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 360° rotation"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "both hands, glutes (optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "basic grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended in straddle position with no contact with the pole and are positioned between the arms, lower leg has contact with the wrist and forearm of the bottom arm"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upright, away from the pole"
+            ]
+        }
+    ],
+    "page": 78,
+    "format": "single",
+    "category": "static"
+}

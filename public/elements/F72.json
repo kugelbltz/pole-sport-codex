@@ -1,0 +1,46 @@
+{
+    "id": "F72",
+    "name": "Inside Leg Hang Back - Split 2",
+    "technicalValue": 0.7,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "inside leg, side of torso, shoulder, one arm, head (optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "no hands have contact with the pole, arms are fully extended above the head (relative to the inverted athlete) and holding foot of outside leg"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are bent and in ring position, back foot is over the head"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "inverted"
+            ]
+        },
+        {
+            "type": "angle_of_split",
+            "items": [
+                "a minimum of 180°"
+            ]
+        }
+    ],
+    "page": 40,
+    "format": "single",
+    "category": "flexibility"
+}

@@ -1,0 +1,40 @@
+{
+    "id": "SP37",
+    "name": "Pencil Spin Basic Grip - 2",
+    "technicalValue": 0.5,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 720° rotation"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "both hands"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "basic grip, arms are extended"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended and closed in pencil position"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upright and parallel to the pole"
+            ]
+        }
+    ],
+    "page": 90,
+    "format": "single",
+    "category": "spin"
+}

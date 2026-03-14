@@ -1,0 +1,41 @@
+{
+    "id": "SP76",
+    "name": "Elbow Grip Vertical - Split 2",
+    "technicalValue": 0.9,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 720° rotation"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "both calves (knees and thighs optional), top ankle and foot of the lower leg, elbow, inside arm"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "inside arm wraps around pole at elbow, outside arm in position of choice with no contact with the pole.",
+                "elbow grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended in split position"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "inverted"
+            ]
+        }
+    ],
+    "page": 98,
+    "format": "single",
+    "category": "spin"
+}

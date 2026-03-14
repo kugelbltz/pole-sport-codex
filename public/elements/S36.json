@@ -1,0 +1,40 @@
+{
+    "id": "S36",
+    "name": "Butterfly Twist One - Hand",
+    "technicalValue": 0.4,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "one hand, one leg, torso - optional (but no hip contact)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "both arms are fully extended; one hand holds the opposite foot, while the other hand holds the pole"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are bent in stag position, one is hooked around the pole in the back of the knee, the other is extended to the back, being held by the opposite hand"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "inverted"
+            ]
+        }
+    ],
+    "page": 60,
+    "format": "single",
+    "category": "strength"
+}

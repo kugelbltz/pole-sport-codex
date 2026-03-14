@@ -1,0 +1,40 @@
+{
+    "id": "S72",
+    "name": "Back Support Plank - Outside Leg Passé",
+    "technicalValue": 0.8,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "both hands, waist, forearm has no contact with the pole."
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "back support"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "inside leg is fully extended, outside leg is in passé"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "back and full length of the body is at a 90° angle to the pole"
+            ]
+        }
+    ],
+    "page": 66,
+    "format": "single",
+    "category": "strength"
+}

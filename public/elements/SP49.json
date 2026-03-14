@@ -1,0 +1,40 @@
+{
+    "id": "SP49",
+    "name": "Icarus Spin",
+    "technicalValue": 0.6,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 720° rotation"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "crook of the knee of the inside leg, underarm of the outside arm, back of shoulder of inside arm, neck (optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "back of the shoulder of inside arm on pole. Outside arm in position of choice with underarm in contact with the pole."
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "inside leg grips pole in the crook of the knee, outside leg in position of choice"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upright"
+            ]
+        }
+    ],
+    "page": 92,
+    "format": "single",
+    "category": "spin"
+}

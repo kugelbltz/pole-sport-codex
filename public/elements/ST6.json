@@ -1,0 +1,40 @@
+{
+    "id": "ST6",
+    "name": "Cradle Spin Tuck 1",
+    "technicalValue": 0.2,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 360° rotation"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "both hands, hips, and tops of thighs"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "split grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "tucked around the pole"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "horizontal"
+            ]
+        }
+    ],
+    "page": 76,
+    "format": "single",
+    "category": "static"
+}

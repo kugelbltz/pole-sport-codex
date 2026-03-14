@@ -1,0 +1,41 @@
+{
+    "id": "S65",
+    "name": "Iron X 2",
+    "technicalValue": 0.7,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "both hands"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "both arms are fully extended",
+                "grip of choice, excluding cup grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended in straddle position, hips are bent forwards, legs are even"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upper body is at a 90° angle to the pole and facing in the same direction"
+            ]
+        }
+    ],
+    "page": 65,
+    "format": "single",
+    "category": "strength"
+}

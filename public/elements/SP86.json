@@ -1,0 +1,41 @@
+{
+    "id": "SP86",
+    "name": "One Handed Parallel - Split Spin",
+    "technicalValue": 1.0,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 720° rotation"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "only one hand"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "inside arm is fully extended and in contact with the pole, outside arm is bent, holding the opposite leg above the head",
+                "basic grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended in split position, parallel to the pole"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upright, away from the pole, parallel to the pole"
+            ]
+        }
+    ],
+    "page": 100,
+    "format": "single",
+    "category": "spin"
+}

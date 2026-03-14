@@ -1,0 +1,40 @@
+{
+    "id": "S63",
+    "name": "Iguana Elbow Hold - Janeiro",
+    "technicalValue": 0.7,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds."
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "one arm (but no hand contact), back of shoulder, glutes, thigh (optional), face (optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "inside arm is in elbow grip position, outside arm in position of choice with no contact with the pole."
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "fully extended."
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "inverted bent to the side."
+            ]
+        }
+    ],
+    "page": 64,
+    "format": "single",
+    "category": "strength"
+}

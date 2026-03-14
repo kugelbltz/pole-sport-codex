@@ -1,0 +1,46 @@
+{
+    "id": "F41",
+    "name": "Capezio 2",
+    "technicalValue": 0.6,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "underarm of back arm, back, thigh of inside leg"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "no hands have contact with the pole, the same arm holds the ankle/shin of the back leg and is fully extended, the opposite arm holds the front leg"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "half split position with front leg fully extended and the back leg bent"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upright"
+            ]
+        },
+        {
+            "type": "angle_of_split",
+            "items": [
+                "a minimum of 180°"
+            ]
+        }
+    ],
+    "page": 34,
+    "format": "single",
+    "category": "flexibility"
+}

@@ -1,0 +1,66 @@
+{
+    "id": "F1",
+    "name": "Inside Leg Hang 1",
+    "technicalValue": 0.1,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "inside leg, foot of inside leg (optional), side of torso, back of the inside arm (optional), shoulder blade (optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "arms in fixed position of choice, no hands have contact with the pole"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "stag position"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "inverted"
+            ]
+        },
+        {
+            "type": "angle_of_split",
+            "items": [
+                "a minimum of 160\u00b0 with 20\u00b0 tolerance"
+            ]
+        }
+    ],
+    "page": 26,
+    "format": "single",
+    "category": "flexibility",
+    "aliases": [
+        "Inside Leg Hang",
+        "Scorpio"
+    ],
+    "tips": [
+        "Engage your core",
+        "Hook the knee deeply"
+    ],
+    "videos": [
+        {
+            "type": "youtube",
+            "url": "https://youtu.be/67dOWto66eE?si=qC-K1vlBOESLZdFd"
+        }
+    ],
+    "relatedMoves": [
+        "F5",
+        "F11",
+        "F34",
+        "F72"
+    ]
+}

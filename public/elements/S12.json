@@ -1,0 +1,41 @@
+{
+    "id": "S12",
+    "name": "Elbow Hold Hang 1",
+    "technicalValue": 0.2,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "side of torso, crook of elbow, upper arm"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "elbow grip",
+                "inside arm is in elbow grip, outside arm is in a closed fixed position of choice. No hands have contact with the pole,"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are in a fixed position of choice with no contact with the pole"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upright"
+            ]
+        }
+    ],
+    "page": 55,
+    "format": "single",
+    "category": "strength"
+}

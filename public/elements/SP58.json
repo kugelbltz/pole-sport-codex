@@ -1,0 +1,40 @@
+{
+    "id": "SP58",
+    "name": "Elbow Grip Split Spin",
+    "technicalValue": 0.7,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 720° rotation"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "crook of elbow of inside arm (including bicep and forearm), side of torso, one thigh, hip (optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "inside arm is in elbow grip, the hand of the outside arm is holding the opposite leg at ankle/calf"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended in a front split position. Legs are in a straight line"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upright"
+            ]
+        }
+    ],
+    "page": 94,
+    "format": "single",
+    "category": "spin"
+}

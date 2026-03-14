@@ -1,0 +1,40 @@
+{
+    "id": "S25",
+    "name": "Extended Brass - Monkey",
+    "technicalValue": 0.3,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "inside hand, outside hand (optional). Crook of the knee, calf, back and side of thigh of inside leg"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "both arms are fully extended"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "inside leg is hooked on pole, outside leg is extended in a fixed position of choice"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "inverted, shoulders are pushed away from the pole"
+            ]
+        }
+    ],
+    "page": 58,
+    "format": "single",
+    "category": "strength"
+}

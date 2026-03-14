@@ -1,0 +1,41 @@
+{
+    "id": "ST20",
+    "name": "Body Spiral to - Straddle Spin",
+    "technicalValue": 0.4,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 360° rotation, where the straddle position must still be in a spinning. Rotation is considered from the point where there is no contact with the floor and includes the moment where the straddle position is fixed."
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "both hands, wrist (optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "reverse spin starting with one hand on the pole, bottom hand releases and then re-grips the pole while turning the body into a Pole Straddle Split Grip position without making contact with the floor",
+                "split grip in both positions"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "in a stag position followed by straddle position, where both legs are fully extended and feet in line or above the hips"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upright, general shape of body position of Body Spiral Reverse Grab and Pole Straddle Split Grip apply (refer to ST10 with a 20° tolerance on the leg position, and S5)"
+            ]
+        }
+    ],
+    "page": 79,
+    "format": "single",
+    "category": "static"
+}

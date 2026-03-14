@@ -1,0 +1,34 @@
+{
+    "id": "SP5",
+    "name": "Helix Spin",
+    "technicalValue": 0.2,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 720° rotation Points of contact: crook of knee of outside leg, hand of inside arm, inside arm (optional), waist"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "Inside hand holds pole from behind outside knee, outside hand holds inside foot"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "outside leg grips the pole in the crook of the knee, inside leg is bent"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "inverted"
+            ]
+        }
+    ],
+    "page": 84,
+    "format": "single",
+    "category": "spin"
+}

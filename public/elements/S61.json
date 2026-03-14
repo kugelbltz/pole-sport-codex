@@ -1,0 +1,40 @@
+{
+    "id": "S61",
+    "name": "Elbow Grip Half Split - 2",
+    "technicalValue": 0.7,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "hand of bottom arm, forearm of bottom arm (optional), crook of elbow of top arm, torso"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "top arm is in elbow grip, bottom arm is fully extended"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "half split where the extended leg is horizontal"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "inverted"
+            ]
+        }
+    ],
+    "page": 64,
+    "format": "single",
+    "category": "strength"
+}

@@ -1,0 +1,47 @@
+{
+    "id": "F131",
+    "name": "Vertical Marchenko - Split",
+    "technicalValue": 1.0,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "inside of the foot and shin of inside leg, back, glutes (optional), elbow of inside arm"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "outside arm is fully extended holding outside leg",
+                "inside arm in elbow grip."
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended in split position"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "wrapped around the pole"
+            ]
+        },
+        {
+            "type": "angle_of_split",
+            "items": [
+                "a minimum of 180°"
+            ]
+        }
+    ],
+    "page": 53,
+    "format": "single",
+    "category": "flexibility"
+}

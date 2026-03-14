@@ -1,0 +1,46 @@
+{
+    "id": "F6",
+    "name": "Side Pole Straddle - Base 2",
+    "technicalValue": 0.2,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "both hands, both legs, arch of the upper foot, bottom foot"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "basic or cup grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended in middle split position with lower foot floor based and the arch of the upper foot is in contact with the pole"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "torso is extended away from the pole"
+            ]
+        },
+        {
+            "type": "angle_of_split",
+            "items": [
+                "a minimum of 180°"
+            ]
+        }
+    ],
+    "page": 27,
+    "format": "single",
+    "category": "flexibility"
+}

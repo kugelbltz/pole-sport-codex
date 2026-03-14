@@ -1,0 +1,40 @@
+{
+    "id": "S49",
+    "name": "Hiphold Half Split",
+    "technicalValue": 0.5,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "inside waist, hip, inside leg, no foot or ankle contact"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "arms in fixed position of choice with no contact with the pole or the body"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "outside leg is fully extended, inside leg is bent, position is held through pressure of the inside leg against the pole, and is not hooked at the knee"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "angled, head downwards towards the floor. Entire body should be in a straight line"
+            ]
+        }
+    ],
+    "page": 62,
+    "format": "single",
+    "category": "strength"
+}

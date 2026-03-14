@@ -1,0 +1,47 @@
+{
+    "id": "F90",
+    "name": "Hip Hold Split Elbow - Grip 3",
+    "technicalValue": 0.8,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "inside thigh, side of torso, back, crook of elbow and back of bottom arm, forearm/bicep (optional), back of same side shoulder (optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "elbow grip with bottom arm",
+                "top arm can be bent, and hand is holding the same side leg. Bottom arm is in elbow grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended in a front split position, legs are parallel to the floor"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "inverted, hips facing upwards, chest rotated away from the pole"
+            ]
+        },
+        {
+            "type": "angle_of_split",
+            "items": [
+                "180°"
+            ]
+        }
+    ],
+    "page": 44,
+    "format": "single",
+    "category": "flexibility"
+}

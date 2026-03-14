@@ -1,0 +1,40 @@
+{
+    "id": "SP29",
+    "name": "Cradle Spin Pike No - Hands",
+    "technicalValue": 0.5,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 720° rotation"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "hips, torso, thighs"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "both arms are wrapped around the legs with no contact with the pole"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended and closed in pike position"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "wrapped around the pole and parallel to the floor"
+            ]
+        }
+    ],
+    "page": 89,
+    "format": "single",
+    "category": "spin"
+}

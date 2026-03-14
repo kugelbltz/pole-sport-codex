@@ -1,0 +1,46 @@
+{
+    "id": "F129",
+    "name": "Russian Split 3",
+    "technicalValue": 1.0,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "one foot, both hands"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "basic or cup grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "fully extended in split position, front leg (in contact with pole) parallel to the floor, no tolerance"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "parallel to the floor, no tolerance"
+            ]
+        },
+        {
+            "type": "angle_of_split",
+            "items": [
+                "180°"
+            ]
+        }
+    ],
+    "page": 52,
+    "format": "single",
+    "category": "flexibility"
+}

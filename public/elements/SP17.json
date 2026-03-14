@@ -1,0 +1,41 @@
+{
+    "id": "SP17",
+    "name": "Body Spiral No Hands",
+    "technicalValue": 0.4,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 720° rotation"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "inside underarm, inside knee and back of thigh"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "arms in fixed position of choice with no hand contact with the pole. Only inside arm has contact with the pole",
+                "underarm grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "outside leg is fully extended, inside leg wraps the pole at knee"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upright with back lean"
+            ]
+        }
+    ],
+    "page": 86,
+    "format": "single",
+    "category": "spin"
+}

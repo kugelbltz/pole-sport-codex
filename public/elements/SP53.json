@@ -1,0 +1,41 @@
+{
+    "id": "SP53",
+    "name": "One Handed Straddle - Spin",
+    "technicalValue": 0.6,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 720° rotation"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "one hand, torso, hips, top part of one thigh, forearm (optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "outside arm is extended, inside arm is bent and holding the opposite leg at the calf or ankle",
+                "outside arm is in basic grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended in a straddle position, one leg has thigh contact only with the pole, the other leg has no contact with the pole, both feet are lower than hips level"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "inverted"
+            ]
+        }
+    ],
+    "page": 93,
+    "format": "single",
+    "category": "spin"
+}

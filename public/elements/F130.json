@@ -1,0 +1,40 @@
+{
+    "id": "F130",
+    "name": "Superman Crescent 2",
+    "technicalValue": 1.0,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "both thighs, one calf, pelvis"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "arms are fully extended above the head, hands holding top foot"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are bent"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upright, upper body is in back arch"
+            ]
+        }
+    ],
+    "page": 53,
+    "format": "single",
+    "category": "flexibility"
+}

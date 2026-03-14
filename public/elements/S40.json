@@ -1,0 +1,40 @@
+{
+    "id": "S40",
+    "name": "Knee Hold",
+    "technicalValue": 0.4,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "both knees, one back of thigh and calf (optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "both arms are in fixed position of choice with no contact with the pole"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are bent, upper knee holds around the pole, lower knee pushes against the pole, feet/ankles may touch each other"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "extended away from the pole"
+            ]
+        }
+    ],
+    "page": 60,
+    "format": "single",
+    "category": "strength"
+}

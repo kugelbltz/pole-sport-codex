@@ -1,0 +1,47 @@
+{
+    "id": "S80",
+    "name": "Shoulder Mount - Plank Passé Hold",
+    "technicalValue": 0.8,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "both hands, one shoulder"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "arms are bent",
+                "grip of choice"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "one leg is fully extended, other leg is in passé"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "body and extended leg are at 90° to the pole"
+            ]
+        },
+        {
+            "type": "starting_position",
+            "items": [
+                "from an aerial shoulder mount pencil position (S29), lower into plank"
+            ]
+        }
+    ],
+    "page": 68,
+    "format": "single",
+    "category": "strength"
+}

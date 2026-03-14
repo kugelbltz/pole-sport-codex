@@ -1,0 +1,41 @@
+{
+    "id": "SP16",
+    "name": "Wrap Grip Spin",
+    "technicalValue": 0.3,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 720° rotation"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "back of one shoulder and the same arm"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "one arm is in wrap grip, other arm is in fixed position of choice with no contact with the pole",
+                "wrap grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "in fixed position of choice with no contact with the pole"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upright"
+            ]
+        }
+    ],
+    "page": 86,
+    "format": "single",
+    "category": "spin"
+}

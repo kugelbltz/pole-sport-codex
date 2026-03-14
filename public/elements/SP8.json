@@ -1,0 +1,40 @@
+{
+    "id": "SP8",
+    "name": "Twisted Spin",
+    "technicalValue": 0.2,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 720° rotation"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "full length of one leg, calf, thigh, and crook of knee of other leg, hips, side of torso, back, neck (optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "arms are in fixed position of choice, no hand contact with the pole"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "one leg is fully extended alongside the pole, other leg is bent around the pole"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upright, head is on same side of the pole as the foot of bent leg"
+            ]
+        }
+    ],
+    "page": 85,
+    "format": "single",
+    "category": "spin"
+}

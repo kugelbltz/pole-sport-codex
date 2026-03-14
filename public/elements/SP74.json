@@ -1,0 +1,40 @@
+{
+    "id": "SP74",
+    "name": "Cross Bow 2 Hands - on Pole",
+    "technicalValue": 0.9,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 720° rotation"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "both hands"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "split grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended in straddle position with no contact with the pole"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "90° angle to the pole"
+            ]
+        }
+    ],
+    "page": 97,
+    "format": "single",
+    "category": "spin"
+}

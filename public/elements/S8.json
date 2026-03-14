@@ -1,0 +1,40 @@
+{
+    "id": "S8",
+    "name": "Back Support Tuck 1",
+    "technicalValue": 0.2,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "inside arm, side of torso, hands"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "back support"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "knees on chest"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upper body is upright"
+            ]
+        }
+    ],
+    "page": 55,
+    "format": "single",
+    "category": "strength"
+}

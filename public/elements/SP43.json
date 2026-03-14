@@ -1,0 +1,40 @@
+{
+    "id": "SP43",
+    "name": "Back Arch Scissor - Spin 1",
+    "technicalValue": 0.6,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 720° rotation"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "side of torso, one hand, thighs, calf/shin of one leg, knees (optional), glutes (optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "hand of outside arm is holding the pole behind the torso. The inside arm is fully extended holding the same side leg at the calf/shin"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "legs are extended with no foot contact with the pole. The pole is between the legs"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "back arch"
+            ]
+        }
+    ],
+    "page": 91,
+    "format": "single",
+    "category": "spin"
+}

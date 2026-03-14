@@ -1,0 +1,46 @@
+{
+    "id": "F46",
+    "name": "Handstand Hip Hold - Split",
+    "technicalValue": 0.6,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "side of torso, outside ankle, back of inside shoulder"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "arms are fully extended, inside hand holding the inside leg at the shin level (between knee and ankle). Outside hand has contact with the floor."
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended in split position. inside foot has contact with the floor"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "one-handed back bend"
+            ]
+        },
+        {
+            "type": "angle_of_split",
+            "items": [
+                "a minimum of 180°"
+            ]
+        }
+    ],
+    "page": 35,
+    "format": "single",
+    "category": "flexibility"
+}

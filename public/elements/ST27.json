@@ -1,0 +1,41 @@
+{
+    "id": "ST27",
+    "name": "Cup Grip Spin Pencil",
+    "technicalValue": 0.6,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 360° rotation"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "both hands, one wrist (optional), no forearm contact"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "top arm fully extended, bottom arm may be slightly bent",
+                "both hands in cup grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs fully extended and closed"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "extended in a pencil position at an angle away from the pole"
+            ]
+        }
+    ],
+    "page": 80,
+    "format": "single",
+    "category": "static"
+}

@@ -1,0 +1,40 @@
+{
+    "id": "S21",
+    "name": "Basic Superman",
+    "technicalValue": 0.3,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "both inner thighs, one hand"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "both arms are fully extended, only one hand holds pole"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended and closed"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "hips and legs are parallel to the floor"
+            ]
+        }
+    ],
+    "page": 57,
+    "format": "single",
+    "category": "strength"
+}

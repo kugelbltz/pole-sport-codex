@@ -1,0 +1,40 @@
+{
+    "id": "F17",
+    "name": "Cross Bow Elbow - Hold",
+    "technicalValue": 0.4,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "ankles (not the arch of the foot), calves (optional), elbows, torso (optional), biceps/forearms (optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "elbow grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs fully extended in straddle position with the ankles on the pole"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upper body must be at a 90° angle to the pole"
+            ]
+        }
+    ],
+    "page": 29,
+    "format": "single",
+    "category": "flexibility"
+}

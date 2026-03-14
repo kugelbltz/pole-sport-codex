@@ -1,0 +1,41 @@
+{
+    "id": "SP30",
+    "name": "Elbow Spin Attitude",
+    "technicalValue": 0.5,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 720° rotation"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "crook of both elbows, shoulder blades"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "both elbows hold the pole, with no hand contact with the pole",
+                "elbow grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs in attitude, parallel to the floor"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "back is to the pole"
+            ]
+        }
+    ],
+    "page": 89,
+    "format": "single",
+    "category": "spin"
+}

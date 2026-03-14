@@ -1,0 +1,47 @@
+{
+    "id": "F66",
+    "name": "Elbow Grip - Half Split 1",
+    "technicalValue": 0.7,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "inside elbow and the sole of one foot"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "inside arm is in elbow grip with the hand holding the opposite leg. Outside arm is fully extended with the hand holding the opposite leg at the ankle/shin.",
+                "elbow grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "half split position with the front leg fully extended and in contact with the pole and the back leg bent"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "inverted and in a diagonal split position"
+            ]
+        },
+        {
+            "type": "angle_of_split",
+            "items": [
+                "a minimum of 160°"
+            ]
+        }
+    ],
+    "page": 39,
+    "format": "single",
+    "category": "flexibility"
+}

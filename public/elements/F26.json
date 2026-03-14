@@ -1,0 +1,46 @@
+{
+    "id": "F26",
+    "name": "Chopsticks 1",
+    "technicalValue": 0.5,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "underarm, side of torso, thigh, bicep"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "underarm or bicep of inside arm has contact with the pole. Inside arm is fully extended. Outside hand is holding ankle of inside leg. No hand contact with the pole"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended in split position"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upright"
+            ]
+        },
+        {
+            "type": "angle_of_split",
+            "items": [
+                "a minimum of 160°"
+            ]
+        }
+    ],
+    "page": 31,
+    "format": "single",
+    "category": "flexibility"
+}

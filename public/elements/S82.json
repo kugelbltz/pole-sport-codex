@@ -1,0 +1,40 @@
+{
+    "id": "S82",
+    "name": "X Pose",
+    "technicalValue": 0.8,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "both feet, ankle of top leg (optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "arms in fixed position of choice with no contact with the pole"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "torso is at 90° to the pole"
+            ]
+        }
+    ],
+    "page": 68,
+    "format": "single",
+    "category": "strength"
+}

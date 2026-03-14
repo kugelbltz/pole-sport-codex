@@ -1,0 +1,40 @@
+{
+    "id": "SP81",
+    "name": "Teardrop Variation",
+    "technicalValue": 0.9,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 720° rotation"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "both arms and hands, one shoulder, neck (optional), head (optional), both calves"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "one arm fully extended, other arm can be bent"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "legs are closed and fully extended"
+            ]
+        },
+        {
+            "type": "unknown",
+            "items": [
+                "inverted, back bend, chest is facing downwards"
+            ]
+        }
+    ],
+    "page": 99,
+    "format": "single",
+    "category": "spin"
+}

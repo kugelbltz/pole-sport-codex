@@ -1,0 +1,41 @@
+{
+    "id": "ST33",
+    "name": "Double Reverse Grab - Body Spiral 2",
+    "technicalValue": 0.8,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 720° rotation"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "both hands, wrist. Rotation is considered from the point where there is no contact with the floor and includes the moment where the body spiral position is fixed."
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "reverse spin starting with one hand on the pole, hand re-grips the pole and reverse spin is repeated without making contact with the floor",
+                "split grip (both times)"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "legs in fixed position of choice"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upright at an angle away from the pole"
+            ]
+        }
+    ],
+    "page": 82,
+    "format": "single",
+    "category": "static"
+}

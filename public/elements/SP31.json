@@ -1,0 +1,40 @@
+{
+    "id": "SP31",
+    "name": "Gargoyle Spin",
+    "technicalValue": 0.5,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 720° rotation"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "calf and crook of knee of upper leg, back of thigh of lower leg, knee (optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "arms are fully extended, and hands hold the foot/ankle/shin of opposite legs"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are bent"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "facing downwards, upper body is in a horizontal position"
+            ]
+        }
+    ],
+    "page": 89,
+    "format": "single",
+    "category": "spin"
+}

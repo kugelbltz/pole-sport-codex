@@ -1,0 +1,41 @@
+{
+    "id": "SP89",
+    "name": "Split Grip Contortion - Spin",
+    "technicalValue": 1.0,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 720° rotation"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "both hands, shin of top leg, crook of the knee of the bottom leg"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "upper hand holds pole above shin of upper leg, Lower hand holds pole below the lower thigh",
+                "split grip."
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "lower leg must be extended, with shin of the top leg is in contact with the pole"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upright, facing away from the pole"
+            ]
+        }
+    ],
+    "page": 100,
+    "format": "single",
+    "category": "spin"
+}

@@ -1,0 +1,41 @@
+{
+    "id": "S88",
+    "name": "Iron Flag Bottom Leg - Passé",
+    "technicalValue": 0.9,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "both hands"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "both arms are fully extended",
+                "grip of choice"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "upper leg is fully extended, lower leg is in passé"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "full upper body and upper leg at a 90° angle to the pole in straight line and facing in the same direction"
+            ]
+        }
+    ],
+    "page": 69,
+    "format": "single",
+    "category": "strength"
+}

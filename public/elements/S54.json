@@ -1,0 +1,40 @@
+{
+    "id": "S54",
+    "name": "Forearm Grip - Butterfly",
+    "technicalValue": 0.6,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "hands, forearms, chest (optional), one ankle, bicep (optional), calf (optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "arms are bent and in forearm grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are bent, ankle of opposite leg to top arm is in contact with the pole, other leg is in fixed positionn of choice"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "torso is facing the pole, hips are away from the pole"
+            ]
+        }
+    ],
+    "page": 62,
+    "format": "single",
+    "category": "strength"
+}

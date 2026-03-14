@@ -1,0 +1,40 @@
+{
+    "id": "S15",
+    "name": "Layback Crossed - Ankle Release",
+    "technicalValue": 0.2,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "both inner thighs, glutes"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "arms in fixed position of choice with no contact with the pole"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended and closed with ankles crossed"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "inverted, layback"
+            ]
+        }
+    ],
+    "page": 56,
+    "format": "single",
+    "category": "strength"
+}

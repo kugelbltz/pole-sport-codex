@@ -1,0 +1,40 @@
+{
+    "id": "ST16",
+    "name": "Reverse Hook Spin",
+    "technicalValue": 0.3,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 360° rotation"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "one hand and arm, opposite crook of knee and back of the thigh"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "reverse spin starting in basic grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "one leg is bent and hooked around the pole, the other leg is fully extended backwards/sideways"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upright"
+            ]
+        }
+    ],
+    "page": 78,
+    "format": "single",
+    "category": "static"
+}

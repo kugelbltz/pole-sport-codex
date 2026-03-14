@@ -1,0 +1,41 @@
+{
+    "id": "S43",
+    "name": "Thinker",
+    "technicalValue": 0.4,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "hands and feet, glutes (optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "arms can be bent and hold the pole behind the body",
+                "cup grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are bent, and thighs are in contact with the torso"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "head is lower than hips"
+            ]
+        }
+    ],
+    "page": 61,
+    "format": "single",
+    "category": "strength"
+}

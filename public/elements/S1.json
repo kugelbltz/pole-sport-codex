@@ -1,0 +1,40 @@
+{
+    "id": "S1",
+    "name": "Basic Invert No - Hands",
+    "technicalValue": 0.1,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "full lengths of both legs, torso (optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "fixed position of choice, hands have no contact with the pole"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are holding the pole"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "inverted"
+            ]
+        }
+    ],
+    "page": 54,
+    "format": "single",
+    "category": "strength"
+}

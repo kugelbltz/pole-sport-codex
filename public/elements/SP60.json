@@ -1,0 +1,41 @@
+{
+    "id": "SP60",
+    "name": "Elbow Spin",
+    "technicalValue": 0.7,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 720° rotation"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "crook of one elbow"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "one arm in elbow grip, other arm is in fixed position of choice with no contact with the pole",
+                "elbow grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "front leg is bent, back leg is fully extended"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upright at an angle away from the pole"
+            ]
+        }
+    ],
+    "page": 95,
+    "format": "single",
+    "category": "spin"
+}

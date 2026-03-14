@@ -1,0 +1,41 @@
+{
+    "id": "S81",
+    "name": "Underarm Flag Plank - Open Legs",
+    "technicalValue": 0.8,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "one hand, and the underarm of the opposite arm"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "inside arm is extended and in contact with the pole at the underarm, outside arm is bent and the hand is in contact with the pole",
+                "inside arm in underarm grip, outside arm in flag grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended and open"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "body and both legs facing downwards at 90° to the pole"
+            ]
+        }
+    ],
+    "page": 68,
+    "format": "single",
+    "category": "strength"
+}

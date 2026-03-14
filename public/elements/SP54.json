@@ -1,0 +1,40 @@
+{
+    "id": "SP54",
+    "name": "Vertical Split Spin",
+    "technicalValue": 0.6,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 720° rotation"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "inside arm including hand, outside forearm/wrist, torso, both legs, bottom foot, top foot (optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "the inside hand is holding the pole above the head, the outside arm is bent and holding the ankle of the opposite leg"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended in a split position"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upright"
+            ]
+        }
+    ],
+    "page": 93,
+    "format": "single",
+    "category": "spin"
+}

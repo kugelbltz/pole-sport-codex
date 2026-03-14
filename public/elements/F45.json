@@ -1,0 +1,46 @@
+{
+    "id": "F45",
+    "name": "Elbow Grip Split",
+    "technicalValue": 0.6,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds."
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "calf of one leg (optional), head (optional), one hand, and one elbow."
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "one arm is fully extended and holding the pole above the head (relative to the inverted athlete), the other arm is in elbow grip and the hand is holding the opposite leg."
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended in split position"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "Inverted."
+            ]
+        },
+        {
+            "type": "angle_of_split",
+            "items": [
+                "a minimum of 160°"
+            ]
+        }
+    ],
+    "page": 34,
+    "format": "single",
+    "category": "flexibility"
+}

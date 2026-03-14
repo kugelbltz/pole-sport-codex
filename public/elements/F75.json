@@ -1,0 +1,46 @@
+{
+    "id": "F75",
+    "name": "Oversplit on Pole",
+    "technicalValue": 0.7,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "feet, glutes, back leg, both hands"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "basic or cup grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "split position with front leg bent, back leg fully extended"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "inverted, back arch"
+            ]
+        },
+        {
+            "type": "angle_of_split",
+            "items": [
+                "a minimum of 190°"
+            ]
+        }
+    ],
+    "page": 41,
+    "format": "single",
+    "category": "flexibility"
+}

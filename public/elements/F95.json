@@ -1,0 +1,46 @@
+{
+    "id": "F95",
+    "name": "Russian Split 1",
+    "technicalValue": 0.8,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "sole of one foot, both hands"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "basic or cup grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended in split position. Leg with contact with the pole is parallel to the floor, no tolerance"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "horizontal, facing upwards."
+            ]
+        },
+        {
+            "type": "angle_of_split",
+            "items": [
+                "a minimum of 160°"
+            ]
+        }
+    ],
+    "page": 45,
+    "format": "single",
+    "category": "flexibility"
+}

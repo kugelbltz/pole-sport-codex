@@ -1,0 +1,59 @@
+{
+    "id": "F125",
+    "name": "Floor Based - Marchenko",
+    "technicalValue": 1.0,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "underarm of inside arm, side of torso, back of one thigh"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "both arms are fully extended, inside arm has contact with the floor and is in underarm grip, the outside arm is holding the inside leg at the ankle/calf",
+                "underarm grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended in split position"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "inverted handstand, chest is facing downwards"
+            ]
+        },
+        {
+            "type": "angle_of_split",
+            "items": [
+                "a minimum of 180°"
+            ]
+        },
+        {
+            "type": "starting_position",
+            "items": [
+                "from the floor"
+            ]
+        },
+        {
+            "type": "unknown",
+            "items": [
+                "Starting position from the floor"
+            ]
+        }
+    ],
+    "page": 52,
+    "format": "single",
+    "category": "flexibility"
+}

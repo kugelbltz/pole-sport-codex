@@ -1,0 +1,47 @@
+{
+    "id": "F113",
+    "name": "Pegasus Split Facing - Floor 2",
+    "technicalValue": 0.9,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "thigh of back leg, crook of elbow of back arm, back of shoulders/neck, forearm, and hand of bottom arm"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "top arm is holding the thigh of the back leg around the pole, bottom arm is in holding onto the pole",
+                "top arm is in elbow grip, bottom arm is in forearm grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended in a frontal split position"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "torso is facing the floor"
+            ]
+        },
+        {
+            "type": "angle_of_split",
+            "items": [
+                "a minimum of 180°"
+            ]
+        }
+    ],
+    "page": 49,
+    "format": "single",
+    "category": "flexibility"
+}

@@ -1,0 +1,47 @@
+{
+    "id": "F48",
+    "name": "Iguana Elbow Hold - Diagonal Split",
+    "technicalValue": 0.6,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "one shoulder, back, one arm, one leg, neck (optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "one arm is holding the pole behind the body at the elbow, the other arm is fully extended and holding the calf of the outside leg",
+                "elbow grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended in a front split position, diagonal to the pole, the inside leg is in contact with the pole, no foot contact is allowed"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "inverted"
+            ]
+        },
+        {
+            "type": "angle_of_split",
+            "items": [
+                "a minimum of 180°"
+            ]
+        }
+    ],
+    "page": 35,
+    "format": "single",
+    "category": "flexibility"
+}

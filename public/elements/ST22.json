@@ -1,0 +1,41 @@
+{
+    "id": "ST22",
+    "name": "Reverse Grab Pencil",
+    "technicalValue": 0.4,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 360° rotation"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "both hands, both arms, back of shoulders, back of head (optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "reverse spin starting with one hand on the pole into a twisted grip hand position",
+                "twisted grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs finish in a fully extended pencil position"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "extended in a pencil position at an angle away from the pole"
+            ]
+        }
+    ],
+    "page": 79,
+    "format": "single",
+    "category": "static"
+}

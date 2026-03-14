@@ -1,0 +1,40 @@
+{
+    "id": "SP6",
+    "name": "Inverted Cupid",
+    "technicalValue": 0.2,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 720° rotation"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "crook of the knee and calf/thigh of upper leg, entire length of lower leg, foot of lower leg (optional), arch of the foot of lower leg is not allowed. Bottom arm/hand (optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "one hand is holding the same side leg (which is bent around the pole) at ankle/foot. Bottom arm is in a position of choice"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "upper leg is hooked to the pole at the knee, lower leg is fully extended"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "inverted"
+            ]
+        }
+    ],
+    "page": 85,
+    "format": "single",
+    "category": "spin"
+}

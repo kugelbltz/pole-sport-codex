@@ -1,0 +1,40 @@
+{
+    "id": "ST39",
+    "name": "Forearm Balance - Handspring Spin",
+    "technicalValue": 1.0,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 720° rotation where the handspring should still spin"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "one hand in one handed spin; one forearm and one hand with wrist/forearm (optional) in final position"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "starts with one handed spin position, outside hand grips the pole in basic grip. Then, while continuing to spin, lift into a forearm balance handspring position, with top hand in twisted grip and bottom forearm pressed against the pole. Lift without making contact with the floor."
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "spin begins in pencil, and finishes in a fixed leg position of choice"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upright position in one handed spin, inverted in a forearm balance handspring (refer to S76) in the final position"
+            ]
+        }
+    ],
+    "page": 83,
+    "format": "single",
+    "category": "static"
+}

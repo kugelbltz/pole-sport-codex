@@ -1,0 +1,40 @@
+{
+    "id": "F104",
+    "name": "Bui Bend 1",
+    "technicalValue": 0.9,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "one hand, opposite arm, waist, underarm, side of torso, shoulder (optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "hand of inside arm holding the same leg. Outside arm is bent and hand is holding the pole at / above the head (relative to the inverted athlete)"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended and parallel to the floor or lower"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "inverted"
+            ]
+        }
+    ],
+    "page": 47,
+    "format": "single",
+    "category": "flexibility"
+}

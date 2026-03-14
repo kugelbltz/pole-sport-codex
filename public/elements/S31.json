@@ -1,0 +1,40 @@
+{
+    "id": "S31",
+    "name": "Supported Layback",
+    "technicalValue": 0.3,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "both inner thighs, glutes, one hand"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "the bottom arm is extended and the hand is holding the pole below the body, the other arm is in a fixed position of choice with no contact with the pole"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended and closed with ankles crossed. The legs are horizontal to the floor."
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "back arch, head is lower than the hips"
+            ]
+        }
+    ],
+    "page": 59,
+    "format": "single",
+    "category": "strength"
+}

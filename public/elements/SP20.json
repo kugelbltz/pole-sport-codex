@@ -1,0 +1,40 @@
+{
+    "id": "SP20",
+    "name": "Inverted Bodyspiral",
+    "technicalValue": 0.4,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 720° rotation"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "inside arm and hand, outside elbow, back/top of shoulder and upper arm of outside arm, side of torso, back, neck (optional), crook of inside knee and thigh of outside leg"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "inside arm hand is holding pole, the outside arm is bent at the elbow, in contact with the pole from behind the head (without wrapping), with the side of the elbow is in contact with the pole"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "inside leg is in bent in front of pole, outside leg is fully extended behind the pole"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "inverted"
+            ]
+        }
+    ],
+    "page": 87,
+    "format": "single",
+    "category": "spin"
+}

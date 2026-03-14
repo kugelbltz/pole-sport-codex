@@ -1,0 +1,47 @@
+{
+    "id": "F56",
+    "name": "Vertical Jade 1",
+    "technicalValue": 0.6,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "hand of outside arm, underarm of inside arm, glutes, outside leg, foot of outside leg, inside leg, side of foot of inside leg (optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "outside arm wraps around the inside leg and holds the pole at the ankle of opposite foot, inside arm is around the pole and leg, with the underarm in contact with the pole",
+                "inside arm: underarm grip outside arm: basic or cup grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended in a frontal split position, foot of outside leg should be holding the pole from behind. The front leg is the inside leg, the back leg is the outside leg."
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upright"
+            ]
+        },
+        {
+            "type": "angle_of_split",
+            "items": [
+                "a minimum of 180°"
+            ]
+        }
+    ],
+    "page": 37,
+    "format": "single",
+    "category": "flexibility"
+}

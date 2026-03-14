@@ -1,0 +1,40 @@
+{
+    "id": "SP21",
+    "name": "Inverted Thigh Hold - Tuck",
+    "technicalValue": 0.4,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 720° rotation"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "inner thighs, torso"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "arms wrap around the legs with no contact with the pole"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "inverted tuck"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "inverted with the back facing downwards"
+            ]
+        }
+    ],
+    "page": 87,
+    "format": "single",
+    "category": "spin"
+}

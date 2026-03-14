@@ -1,0 +1,40 @@
+{
+    "id": "SP50",
+    "name": "Inverted Back Arch - Scissor Spin",
+    "technicalValue": 0.6,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 720° rotation"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "both thighs, one underarm, chest, neck (optional), glutes (optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "both arms are fully extended, hand of the inside arm holds same side leg at shin level (between ankle and knee), no hands have contact with the pole"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "inverted and in a back arch"
+            ]
+        }
+    ],
+    "page": 93,
+    "format": "single",
+    "category": "spin"
+}

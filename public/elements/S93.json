@@ -1,0 +1,47 @@
+{
+    "id": "S93",
+    "name": "Shoulder Mount - Plank 1",
+    "technicalValue": 0.9,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "both hands, one shoulder, (neck optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "arms are bent",
+                "cup grip or basic grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended, parallel to the floor, legs are closed"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "back and legs are at 90° to the pole"
+            ]
+        },
+        {
+            "type": "starting_position",
+            "items": [
+                "from an aerial shoulder mount pencil position (S29), lower into plank"
+            ]
+        }
+    ],
+    "page": 70,
+    "format": "single",
+    "category": "strength"
+}

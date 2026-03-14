@@ -1,0 +1,47 @@
+{
+    "id": "S69",
+    "name": "Shoulder Stand Floor - Based Straddle",
+    "technicalValue": 0.7,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "one hand, one shoulder, (neck optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "top arm is bent and in contact with the pole, bottom arm is fully extended and in contact with the floor.",
+                "top hand in cup grip position"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended in straddle position, parallel to the floor"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "inverted"
+            ]
+        },
+        {
+            "type": "starting_position",
+            "items": [
+                "with a minimum of one foot and one hand on the floor, deadlift (without any momentum) into a shoulder stand floor-based straddle"
+            ]
+        }
+    ],
+    "page": 66,
+    "format": "single",
+    "category": "strength"
+}

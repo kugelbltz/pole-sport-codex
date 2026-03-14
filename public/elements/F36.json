@@ -1,0 +1,41 @@
+{
+    "id": "F36",
+    "name": "Lux",
+    "technicalValue": 0.5,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "both hands, one leg, hips"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "arms are fully extended",
+                "split grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "legs are in position of choice, on the same side of the pole as the body"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upper body is in back arch with the head at the same level or higher than the hips"
+            ]
+        }
+    ],
+    "page": 33,
+    "format": "single",
+    "category": "flexibility"
+}

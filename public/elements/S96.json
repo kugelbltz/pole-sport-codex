@@ -1,0 +1,41 @@
+{
+    "id": "S96",
+    "name": "Underarm Flag Plank - Closed Legs",
+    "technicalValue": 0.9,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "one hand one underarm"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "inside arm is extended and in contact with the pole at the underarm, outside arm is bent and the hand is in contact with the pole",
+                "inside arm in underarm grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended, legs are closed"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "body and both legs are facing downwards at 90° to the pole"
+            ]
+        }
+    ],
+    "page": 71,
+    "format": "single",
+    "category": "strength"
+}

@@ -1,0 +1,34 @@
+{
+    "id": "F87",
+    "name": "Floor Balance Split 2",
+    "technicalValue": 0.8,
+    "criteria": [
+        {
+            "type": "points_of_contact",
+            "items": [
+                "one foot"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "hand of bottom arm is in contact with the floor, arm is fully extended, and shoulder is below the leg. The top arm holds onto opposite side leg above the head"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "Both legs are fully extended in a split position, in straight line, with one foot in contact with the pole. Legs are parallel to the floor"
+            ]
+        },
+        {
+            "type": "angle_of_split",
+            "items": [
+                "180°"
+            ]
+        }
+    ],
+    "page": 43,
+    "format": "single",
+    "category": "flexibility"
+}

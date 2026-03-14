@@ -1,0 +1,41 @@
+{
+    "id": "S101",
+    "name": "Elbow Plank",
+    "technicalValue": 1.0,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "upper elbow, neck, lower shoulder (optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "top arm is in contact with the pole at the crook of the elbow, bottom arm is fully extended next to the body and not in contact with the pole",
+                "elbow grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended, hips and legs are parallel to the floor and naturally aligned"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "body is at 90° to the pole"
+            ]
+        }
+    ],
+    "page": 72,
+    "format": "single",
+    "category": "strength"
+}

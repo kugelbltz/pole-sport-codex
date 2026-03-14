@@ -1,0 +1,40 @@
+{
+    "id": "S48",
+    "name": "Genie",
+    "technicalValue": 0.5,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "crook of knees, calves, thighs"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "both arms are in fixed position of choice with no contact with the pole"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are bent around the pole"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upper body is in a horizontal position"
+            ]
+        }
+    ],
+    "page": 61,
+    "format": "single",
+    "category": "strength"
+}

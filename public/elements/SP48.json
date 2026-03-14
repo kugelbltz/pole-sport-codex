@@ -1,0 +1,40 @@
+{
+    "id": "SP48",
+    "name": "Gargoyle Spin No - Hands",
+    "technicalValue": 0.6,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 720° rotation"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "calves, crook of knees, back of thighs"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "arms are fully extended without contact with the pole or the body"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are bent"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "facing downwards, upper body is in a horizontal position"
+            ]
+        }
+    ],
+    "page": 92,
+    "format": "single",
+    "category": "spin"
+}

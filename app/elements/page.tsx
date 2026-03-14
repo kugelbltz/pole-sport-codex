@@ -9,7 +9,8 @@ import {
   InputGroupInput,
 } from "@/components/ui/input-group";
 import { ScrollArea } from "@/components/ui/scroll-area";
-import { getElements } from "@/lib/elements";
+import { filterElements } from "@/lib/filter";
+import { searchElements } from "@/lib/search";
 import { Search, X } from "lucide-react";
 import { useSearchParams } from "next/navigation";
 import React from "react";
@@ -29,22 +30,12 @@ export default function ElementsPage() {
     },
   });
 
-  const newItems = getElements()
-    .filter(
-      (element) =>
-        element.name.toLowerCase().includes(query.toLowerCase()) ||
-        element.code.toLowerCase().includes(query.toLowerCase()),
-    )
-    .filter(
-      (element) =>
-        element.technicalValue >= filters.technicalValueRange.min &&
-        element.technicalValue <= filters.technicalValueRange.max,
-    )
-    .filter(
-      (element) =>
-        filters.categories.length === 0 ||
-        filters.categories.includes(element.category),
-    );
+  const searched = searchElements(query);
+  const filtered = filterElements(searched, {
+    categories: filters.categories,
+    maxTechnicalValue: filters.technicalValueRange.max,
+    minTechnicalValue: filters.technicalValueRange.min,
+  });
 
   const handleQueryChanged = (e: React.ChangeEvent<HTMLInputElement>) => {
     const trimmed = e.target.value.trim();
@@ -70,7 +61,7 @@ export default function ElementsPage() {
             <InputGroupInput
               value={query}
               onChange={handleQueryChanged}
-              placeholder={`Search ${getElements().length} elements...`}
+              placeholder={`Search ${filtered.length} elements...`}
             />
             {query && (
               <InputGroupAddon align="inline-end">
@@ -87,7 +78,7 @@ export default function ElementsPage() {
           </InputGroup>
         </header>
         <ScrollArea className="flex-[1_1_0] min-h-0">
-          <ElementList elements={newItems} />
+          <ElementList elements={filtered} />
         </ScrollArea>
       </main>
     </div>

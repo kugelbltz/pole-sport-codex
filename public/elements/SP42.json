@@ -1,0 +1,34 @@
+{
+    "id": "SP42",
+    "name": "Wrap Grip Straddle - Spin",
+    "technicalValue": 0.5,
+    "criteria": [
+        {
+            "type": "points_of_contact",
+            "items": [
+                "both hands, inside arm, inside leg"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "inside arm is in a wrap grip position. Outside arm is extended."
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended in straddle position. Inside leg is in contact with the pole. Outside leg is in contact with the body."
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "inverted"
+            ]
+        }
+    ],
+    "page": 91,
+    "format": "single",
+    "category": "spin"
+}

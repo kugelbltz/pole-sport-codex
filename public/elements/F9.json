@@ -1,0 +1,46 @@
+{
+    "id": "F9",
+    "name": "Front Split 2",
+    "technicalValue": 0.3,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "legs, hands, forearms (optional), feet (optional"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "grip of choice"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended in front split position"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upright"
+            ]
+        },
+        {
+            "type": "angle_of_split",
+            "items": [
+                "a minimum of 180°"
+            ]
+        }
+    ],
+    "page": 27,
+    "format": "single",
+    "category": "flexibility"
+}

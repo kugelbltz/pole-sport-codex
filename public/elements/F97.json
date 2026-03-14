@@ -1,0 +1,59 @@
+{
+    "id": "F97",
+    "name": "Twisted Floor K",
+    "technicalValue": 0.8,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "one hand and sole of opposite foot"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "arms are fully extended, one hand has contact with the pole, the other hand has contact with the floor",
+                "basic or cup grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended in a split position"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "one-handed handstand, facing the pole"
+            ]
+        },
+        {
+            "type": "angle_of_split",
+            "items": [
+                "minimum 180°"
+            ]
+        },
+        {
+            "type": "starting_position",
+            "items": [
+                "from the floor"
+            ]
+        },
+        {
+            "type": "unknown",
+            "items": [
+                "Starting position from the floor"
+            ]
+        }
+    ],
+    "page": 45,
+    "format": "single",
+    "category": "flexibility"
+}

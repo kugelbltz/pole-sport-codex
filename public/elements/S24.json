@@ -1,0 +1,40 @@
+{
+    "id": "S24",
+    "name": "Cupid Extension",
+    "technicalValue": 0.3,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "inside arm, inside leg, foot of outside leg"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "inside arm is in contact with the pole and holding the inside leg, outside arm is in a fixed position of choice"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended, the back of inside leg is in contact with the pole, outside leg is in contact with the pole with the sole of the foot"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upright"
+            ]
+        }
+    ],
+    "page": 57,
+    "format": "single",
+    "category": "strength"
+}

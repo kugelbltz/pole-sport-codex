@@ -1,0 +1,41 @@
+{
+    "id": "ST8",
+    "name": "Knee Hook Spin",
+    "technicalValue": 0.2,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 360° rotation"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "both hands, back of one knee, thighs, crook of knee and calf of upper leg (optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "inside arm extended and holds the pole above the inside knee, outside hand in fixed position of choice",
+                "wide basic grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "inside leg is bent in front of pole, outside leg is fully extended behind pole"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upright"
+            ]
+        }
+    ],
+    "page": 77,
+    "format": "single",
+    "category": "static"
+}

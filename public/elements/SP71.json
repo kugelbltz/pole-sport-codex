@@ -1,0 +1,40 @@
+{
+    "id": "SP71",
+    "name": "Twisted Ballerina - Split",
+    "technicalValue": 0.8,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 720° rotation"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "inside leg, opposite underarm, back, neck (optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "Inside arm is in a fixed position of choice with underarm in contact with the pole only. Outside arm is fully extended, holding outside leg over the head at shin level."
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "inside leg is fully extended, leg and foot in contact with the pole. Outside leg is bent backwards with foot above the head in a ring position and held by the opposite hand."
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upright, back is arched"
+            ]
+        }
+    ],
+    "page": 97,
+    "format": "single",
+    "category": "spin"
+}

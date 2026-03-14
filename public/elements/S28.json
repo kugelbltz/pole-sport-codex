@@ -1,0 +1,40 @@
+{
+    "id": "S28",
+    "name": "Remi Layback",
+    "technicalValue": 0.3,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "crook of top knee and top of bottom legs' foot"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "both arms fully extended"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "legs are crossed around the pole: one leg grips the pole in the crook of the knee and while the foot of the other leg is in contact with the pole"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "inverted, facing away from the pole"
+            ]
+        }
+    ],
+    "page": 58,
+    "format": "single",
+    "category": "strength"
+}

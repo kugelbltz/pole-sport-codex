@@ -1,0 +1,41 @@
+{
+    "id": "S30",
+    "name": "Shoulder Mount - Straddle",
+    "technicalValue": 0.3,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "both hands, one shoulder, (neck optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "arms are bent",
+                "grip of choice"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "straddle"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "horizontal"
+            ]
+        }
+    ],
+    "page": 58,
+    "format": "single",
+    "category": "strength"
+}

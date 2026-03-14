@@ -1,0 +1,40 @@
+{
+    "id": "SP69",
+    "name": "Reverse Butterfly - Extension",
+    "technicalValue": 0.8,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 720° rotation"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "one hand, one arm, shoulder, foot, the ankle, and shin of top leg"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "both arms are fully extended, with inside arm holding the pole, and the outside arm holding the outside leg"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended in split position"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "inverted"
+            ]
+        }
+    ],
+    "page": 96,
+    "format": "single",
+    "category": "spin"
+}

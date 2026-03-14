@@ -1,0 +1,40 @@
+{
+    "id": "S76",
+    "name": "Forearm Balance - Straddle",
+    "technicalValue": 0.8,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "hand of top arm, forearm of bottom arm, wrist of top arm (optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "top arm is in twisted grip, bottom arm has the forearm pressed against the pole"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended in straddle position"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "inverted"
+            ]
+        }
+    ],
+    "page": 67,
+    "format": "single",
+    "category": "strength"
+}

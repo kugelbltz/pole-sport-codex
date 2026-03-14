@@ -1,0 +1,41 @@
+{
+    "id": "ST19",
+    "name": "Body Spiral Reverse - Grab 2",
+    "technicalValue": 0.4,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 360° rotation in the final position"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "both hands"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "reverse spin starting with one arm on the pole into a split grip",
+                "split grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "legs are in a stag position in the final position"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upright at an angle away from the pole"
+            ]
+        }
+    ],
+    "page": 79,
+    "format": "single",
+    "category": "static"
+}

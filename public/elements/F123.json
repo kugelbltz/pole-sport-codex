@@ -1,0 +1,47 @@
+{
+    "id": "F123",
+    "name": "Elbow Bracket Split 2",
+    "technicalValue": 1.0,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "one hand, chest, one arm, one foot (optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "top arm holds the upper leg at ankle/shin level above the head. Bottom arm is fully extended and holds the pole",
+                "wrap grip (top arm)"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "legs are in frontal split position and extended"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upright, facing the pole"
+            ]
+        },
+        {
+            "type": "angle_of_split",
+            "items": [
+                "a minimum of 180°"
+            ]
+        }
+    ],
+    "page": 51,
+    "format": "single",
+    "category": "flexibility"
+}

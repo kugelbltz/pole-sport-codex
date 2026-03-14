@@ -1,0 +1,40 @@
+{
+    "id": "SP87",
+    "name": "Pole Based Clock",
+    "technicalValue": 1.0,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 720° rotation"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "both hands"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "grip of choice"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "starting in an upright position, legs and hips make a circular rotation (fan kick/flair) passing through an inverted position with the hips above the head, ending in pike position (jack knife) over the head for 2 times"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upright/inverted"
+            ]
+        }
+    ],
+    "page": 100,
+    "format": "single",
+    "category": "spin"
+}

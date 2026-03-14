@@ -1,0 +1,40 @@
+{
+    "id": "S42",
+    "name": "Superman One Side",
+    "technicalValue": 0.4,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "one hand, inside knee, both upper thighs, glutes (optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "one hand is holding the pole; the other arm is fully extended"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "inside leg is in passé, outside leg is fully extended and parallel to the floor, both legs are on same side of the pole"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "hips are facing downwards"
+            ]
+        }
+    ],
+    "page": 61,
+    "format": "single",
+    "category": "strength"
+}

@@ -1,0 +1,34 @@
+{
+    "id": "SP38",
+    "name": "Split Grip Leg - Through Spin",
+    "technicalValue": 0.5,
+    "criteria": [
+        {
+            "type": "points_of_contact",
+            "items": [
+                "both hands, one calf, ankle (optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "both arms are fully extended in front of the body in split grip position. One arm is above the leg, while the other arm is below the leg, and has contact with the same side leg."
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended in split position"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upright with the hips away from the pole"
+            ]
+        }
+    ],
+    "page": 90,
+    "format": "single",
+    "category": "spin"
+}

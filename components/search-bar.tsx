@@ -13,9 +13,8 @@ import React from "react";
 import { Popover, PopoverContent, PopoverTrigger } from "./ui/popover";
 import { useRouter } from "next/navigation";
 import { CommandItem, CommandList, CommandShortcut } from "./ui/command";
-import { getElements, getRandomElementCode, Element } from "@/lib/elements";
-
-const MAX_SUGGESTIONS_COUNT = 10;
+import { ElementIndex, getRandomElementCode } from "@/lib/elements";
+import { searchElements } from "@/lib/search";
 
 interface SearchBarProps {
   onSearch?: (query: string) => void;
@@ -81,7 +80,7 @@ export function SearchBar({
 
 export const SuggestionSearchBar = () => {
   const router = useRouter();
-  const [suggestions, setSuggestions] = React.useState<Element[]>([]);
+  const [suggestions, setSuggestions] = React.useState<ElementIndex>([]);
 
   const handleOnSearch = (query: string) => {
     router.push(`/elements?search=${query}`);
@@ -89,14 +88,8 @@ export const SuggestionSearchBar = () => {
 
   const handleQueryChanged = (query: string) => {
     if (!query) return setSuggestions([]);
-    const elements = getElements();
-    const newSuggestions = elements
-      .filter(
-        (element) =>
-          element.name.toLowerCase().includes(query.toLowerCase()) ||
-          element.code.toLowerCase().includes(query.toLowerCase()),
-      )
-      .slice(0, MAX_SUGGESTIONS_COUNT);
+
+    const newSuggestions = searchElements(query);
 
     setSuggestions(newSuggestions);
   };
@@ -132,15 +125,15 @@ export const SuggestionSearchBar = () => {
               <CommandItem value={`-`} className="hidden" />
               {suggestions.map((element) => (
                 <CommandItem
-                  key={element.code}
-                  value={element.code}
+                  key={element.id}
+                  value={element.id}
                   keywords={[element.name]}
                   onSelect={(item) => {
                     router.push(`/elements/${item}`);
                   }}
                 >
                   {element.name}
-                  <CommandShortcut>{element.code}</CommandShortcut>
+                  <CommandShortcut>{element.id}</CommandShortcut>
                 </CommandItem>
               ))}
             </CommandList>

@@ -1,0 +1,41 @@
+{
+    "id": "SP84",
+    "name": "Horizontal Split Spin",
+    "technicalValue": 1.0,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 720° rotation"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "one hand, side of torso, forearm (optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "outside arm is fully extended, inside arm is bent and holding the opposite leg at the ankle",
+                "basic grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended in a split position and parallel to the floor, and no contact with the pole"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "torso is horizontal"
+            ]
+        }
+    ],
+    "page": 99,
+    "format": "single",
+    "category": "spin"
+}

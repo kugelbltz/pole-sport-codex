@@ -1,0 +1,47 @@
+{
+    "id": "F65",
+    "name": "Elbow Bracket Split 1",
+    "technicalValue": 0.7,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "crook of elbow of one arm, hand of other arm"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "top arm holds pole in the crook of the elbow, and the hand holds upper leg. Bottom arm is fully extended and holds the pole",
+                "elbow grip."
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs extended in split position"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upright, facing the pole"
+            ]
+        },
+        {
+            "type": "angle_of_split",
+            "items": [
+                "a minimum of 180°"
+            ]
+        }
+    ],
+    "page": 38,
+    "format": "single",
+    "category": "flexibility"
+}

@@ -1,0 +1,46 @@
+{
+    "id": "F80",
+    "name": "Bird of Paradise - Upright",
+    "technicalValue": 0.8,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "crook of outside elbow, thigh of front leg, side of torso, back, back of neck, back of outside shoulder"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "both arms are bent, hands are clasped behind the head"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended in a diagonal split position"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upright"
+            ]
+        },
+        {
+            "type": "angle_of_split",
+            "items": [
+                "a minimum of 180°"
+            ]
+        }
+    ],
+    "page": 41,
+    "format": "single",
+    "category": "flexibility"
+}

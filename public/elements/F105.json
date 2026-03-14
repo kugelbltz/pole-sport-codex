@@ -1,0 +1,40 @@
+{
+    "id": "F105",
+    "name": "Calla Lilly",
+    "technicalValue": 0.9,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "Both thighs, one shoulder, neck, one upper arm"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "one arm is extended and holding the ankle/shin of the extended same side leg. Other hand is holding the elbow of the extended arm above the head, and is in contact with the pole"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "One leg is extended, and foot is higher than the hips, other leg is in a position of choice"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upright and in a back arch"
+            ]
+        }
+    ],
+    "page": 47,
+    "format": "single",
+    "category": "flexibility"
+}

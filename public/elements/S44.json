@@ -1,0 +1,41 @@
+{
+    "id": "S44",
+    "name": "Butterfly Reverse - Extension",
+    "technicalValue": 0.5,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "both hands and one heel"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "both arms are fully extended",
+                "top hand is in cup grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended in split position"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "inverted. Heel of leg opposite to the top hand is on the pole, creating a twist in the hips"
+            ]
+        }
+    ],
+    "page": 61,
+    "format": "single",
+    "category": "strength"
+}

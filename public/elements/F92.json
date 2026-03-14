@@ -1,0 +1,47 @@
+{
+    "id": "F92",
+    "name": "Inverted Vertical Split",
+    "technicalValue": 0.8,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "both hands, both legs, both feet"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "both arms are fully extended, both hands hold the pole",
+                "split grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended in front split position, arch of back leg's foot and sole of front leg's foot are in contact with the pole"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "torso is horizontal, upper body is in a back arch"
+            ]
+        },
+        {
+            "type": "angle_of_split",
+            "items": [
+                "a minimum of 180°"
+            ]
+        }
+    ],
+    "page": 44,
+    "format": "single",
+    "category": "flexibility"
+}

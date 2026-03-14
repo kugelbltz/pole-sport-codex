@@ -1,0 +1,40 @@
+{
+    "id": "S46",
+    "name": "Forearm Grip - Inverted Pencil",
+    "technicalValue": 0.5,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "torso, inside forearm, outside hand, bicep (optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "forearm grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended in pencil position"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "inverted"
+            ]
+        }
+    ],
+    "page": 61,
+    "format": "single",
+    "category": "strength"
+}

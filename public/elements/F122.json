@@ -1,0 +1,40 @@
+{
+    "id": "F122",
+    "name": "Dragon Tail Back - Bend 2",
+    "technicalValue": 1.0,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "outside hand, forearm of inside arm, inside shoulder, torso, neck (optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "inside arm is bent and forearm is in contact with the pole, outside arm holds the pole behind the back"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended, closed, and both legs parallel to the floor and each other"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "inverted"
+            ]
+        }
+    ],
+    "page": 51,
+    "format": "single",
+    "category": "flexibility"
+}

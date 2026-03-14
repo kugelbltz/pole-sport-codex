@@ -1,0 +1,41 @@
+{
+    "id": "S41",
+    "name": "Russian Layback 1",
+    "technicalValue": 0.4,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "hands, crook of knee and back of thigh, ankle/calf (optional), glutes"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "both arms extended and holding the pole above the head (relative to the inverted athlete)",
+                "basic grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "one leg grips the pole in the crook of the knee and along the back of the thigh, the other leg is crossed over the first leg"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "inverted, facing away from the pole"
+            ]
+        }
+    ],
+    "page": 60,
+    "format": "single",
+    "category": "strength"
+}

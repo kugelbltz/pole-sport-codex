@@ -1,0 +1,41 @@
+{
+    "id": "F127",
+    "name": "Rainbow Marchenko - Back Bent Pencil",
+    "technicalValue": 1.0,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "underarm and hand of inside arm, side of torso, thighs"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "inside arm is in flag grip, outside arm is fully extended and holding the inside leg at ankle/shin",
+                "flag grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended and parallel to the floor"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "inverted, chest is facing downwards"
+            ]
+        }
+    ],
+    "page": 52,
+    "format": "single",
+    "category": "flexibility"
+}

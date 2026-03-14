@@ -1,0 +1,46 @@
+{
+    "id": "F98",
+    "name": "Upright Twisted - Capezio",
+    "technicalValue": 0.8,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "front thigh, side of torso, back of shoulder, top arm"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "inside arm is around the pole and holding the foot/ankle of the opposite (back) leg. Outside arm is holding the front leg"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "legs are in an oversplit, front leg is fully extended and in contact with the pole. Back leg and foot must be stretched over the head in ring position"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upright"
+            ]
+        },
+        {
+            "type": "angle_of_split",
+            "items": [
+                "a minimum of 190°"
+            ]
+        }
+    ],
+    "page": 46,
+    "format": "single",
+    "category": "flexibility"
+}

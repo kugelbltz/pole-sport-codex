@@ -1,0 +1,46 @@
+{
+    "id": "F42",
+    "name": "Chopsticks Half Split",
+    "technicalValue": 0.6,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "inside underarm, side of torso, thigh of inside leg, bicep"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "underarm or bicep of inside arm has contact with the pole. Inside arm is fully extended and holding foot or ankle of opposite leg. Outside arm holding ankle of inside leg. No hand contact with the pole"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "half split position with inside leg fully extended and the back leg bent, the line of the legs is parallel to the floor"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upright"
+            ]
+        },
+        {
+            "type": "angle_of_split",
+            "items": [
+                "a minimum of 180°"
+            ]
+        }
+    ],
+    "page": 34,
+    "format": "single",
+    "category": "flexibility"
+}

@@ -1,0 +1,40 @@
+{
+    "id": "SP72",
+    "name": "Twisted Brass Ring",
+    "technicalValue": 0.8,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 720° rotation"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "inside leg, glute (optional), shoulder, upper arm, neck, head (optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "arms are fully extended. One arm is holding opposite foot over the head, the other arm is behind the body, holding opposite ankle"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "crook of inside knee is hooked around the pole, outside leg is stretched over the head or in ring position"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "inverted, back arch"
+            ]
+        }
+    ],
+    "page": 97,
+    "format": "single",
+    "category": "spin"
+}

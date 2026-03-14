@@ -1,0 +1,46 @@
+{
+    "id": "F21",
+    "name": "Stag Split on Pole",
+    "technicalValue": 0.4,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "glutes, shin, calves, thighs (optional), both hands, feet (optional). Knee contact is not allowed."
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "basic or cup grip where hands are at the same level as the hips"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "split position where both legs are bent but not hooking the pole"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "back arch position where the head is lower than the hips"
+            ]
+        },
+        {
+            "type": "angle_of_split",
+            "items": [
+                "180°"
+            ]
+        }
+    ],
+    "page": 30,
+    "format": "single",
+    "category": "flexibility"
+}

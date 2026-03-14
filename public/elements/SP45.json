@@ -1,0 +1,40 @@
+{
+    "id": "SP45",
+    "name": "Elbow Grip Spin",
+    "technicalValue": 0.6,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 720° rotation"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "inside crook of elbow (including bicep and forearm), side of torso, one thigh, hip (optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "inside arm is in elbow grip and the hand is holding the opposite leg, the hand of the outside arm is holding the opposite leg at ankle/calf"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended and open"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upright"
+            ]
+        }
+    ],
+    "page": 92,
+    "format": "single",
+    "category": "spin"
+}

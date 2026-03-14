@@ -1,0 +1,40 @@
+{
+    "id": "F124",
+    "name": "Elbow Hold Side - Bend Superman",
+    "technicalValue": 1.0,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 2 seconds"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "both thighs, inside arm, forearm of outside arm"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "inside arm is in elbow grip, outside arm is extended and hand holds extended opposite leg at shin/ankle. No hands have contact with the pole"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "one leg is extended with the foot higher than the head, other leg is bent"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upright"
+            ]
+        }
+    ],
+    "page": 51,
+    "format": "single",
+    "category": "flexibility"
+}

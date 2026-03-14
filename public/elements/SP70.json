@@ -1,0 +1,40 @@
+{
+    "id": "SP70",
+    "name": "Titanic Support",
+    "technicalValue": 0.8,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 720° rotation"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "one leg, thigh of other leg, one shoulder/side of neck (optional), glutes, foot (optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "both arms are fully extended back, and have no contact with the pole"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "both legs are fully extended"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upright, upper body in back arch"
+            ]
+        }
+    ],
+    "page": 96,
+    "format": "single",
+    "category": "spin"
+}

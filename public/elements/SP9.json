@@ -1,0 +1,41 @@
+{
+    "id": "SP9",
+    "name": "Underarm Hold Spin",
+    "technicalValue": 0.2,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 720° rotation"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "inside underarm, inner upper thigh, inside knee, outside foot, shin/calf of outside leg (optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "arms in fixed position of choice with no hand contact with the pole. Only inside arm has contact with the pole",
+                "underarm grip"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "one leg is fully extended along the pole, the other knee is bent"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upright"
+            ]
+        }
+    ],
+    "page": 85,
+    "format": "single",
+    "category": "spin"
+}

@@ -1,0 +1,40 @@
+{
+    "id": "SP78",
+    "name": "Needle Half Split Spin",
+    "technicalValue": 0.9,
+    "criteria": [
+        {
+            "type": "hold",
+            "items": [
+                "a minimum of 720°"
+            ]
+        },
+        {
+            "type": "points_of_contact",
+            "items": [
+                "both hands, upper leg below the knee, foot, head (optional), back of neck, one shoulder, back, glutes (optional)"
+            ]
+        },
+        {
+            "type": "arm_grip",
+            "items": [
+                "both arms are extended and the hands hold the pole above the head at the ankle"
+            ]
+        },
+        {
+            "type": "leg_position",
+            "items": [
+                "Legs are in half split position, upper leg is extended, lower leg is bent"
+            ]
+        },
+        {
+            "type": "body_position",
+            "items": [
+                "upright and in a back arch"
+            ]
+        }
+    ],
+    "page": 98,
+    "format": "single",
+    "category": "spin"
+}
