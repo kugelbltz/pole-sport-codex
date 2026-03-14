@@ -47,7 +47,7 @@ export default function ElementsPage() {
   };
 
   return (
-    <div className="flex-1 flex gap-4 p-4">
+    <div className="flex-1 flex flex-col md:flex-row gap-4 p-4">
       <aside className="w-56">
         <Filters filters={filters} onFiltersChanged={setFilters} />
       </aside>

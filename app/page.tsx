@@ -21,10 +21,10 @@ export default function Home() {
     <main className="space-y-12 p-4">
       <div className="mt-24 space-y-6 row-start-2">
         <div className="flex flex-col items-center gap-2">
-          <h1 className="font-semibold tracking-tighter text-5xl">
+          <h1 className="text-4xl font-semibold tracking-tighter md:text-5xl">
             Pole Sport Codex
           </h1>
-          <p className="text-balance text-center text-lg">
+          <p className="text-balance text-center md:text-lg">
             An open, encyclopedia-style reference of competitive pole sport
             elements
           </p>
@@ -35,7 +35,7 @@ export default function Home() {
       <div className="space-y-7 row-start-3">
         <section>
           <h2 className="font-semibold text-xl mb-3">By category</h2>
-          <div className="grid grid-cols-4 gap-4">
+          <div className="grid md:grid-cols-4 gap-4">
             <ElementGroupItem
               filters={["category=strength"]}
               media={<BicepsFlexed />}
@@ -68,7 +68,7 @@ export default function Home() {
 
         <section>
           <h2 className="font-semibold text-xl mb-3">By technical value</h2>
-          <div className="grid grid-cols-3 gap-4">
+          <div className="grid md:grid-cols-3 gap-4">
             <ElementGroupItem
               filters={["tech_value_max=0.4"]}
               media="*"
