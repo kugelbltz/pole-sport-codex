@@ -69,7 +69,6 @@ export function loadElementIndex(): ElementIndex {
 
 export async function loadElement(id: string): Promise<Element> {
   const data = await import(`../public/elements/${id}.json`);
-  console.log("load elelemt ", data);
   return ElementSchema.parse(data);
 }
 

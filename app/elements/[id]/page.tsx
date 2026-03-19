@@ -57,7 +57,7 @@ export default async function Page({
 
   return (
     <div className="p-4 grid gap-9">
-      <section className="grid grid-cols-[auto_1fr] gap-10">
+      <section className="grid grid-rows-[auto_auto] md:grid-cols-[auto_1fr] gap-10">
         <Card className="rounded-sm dark:bg-white h-min">
           <CardContent>
             <ElementImage id={element.id} width={400} height={400} />
@@ -183,7 +183,7 @@ function MetadataCard({
 
 function CriteriaList({ criteria }: { criteria: Criteria }) {
   return (
-    <ItemGroup className="gap-3">
+    <ItemGroup className="grid gap-3">
       {criteria.map((criterion) => (
         <Criterion
           key={criterion.type}
@@ -208,7 +208,7 @@ const criterionTypeIcon = {
 
 function Criterion({ type, value }: { type: CriteriaType; value: string }) {
   return (
-    <Item variant="outline">
+    <Item variant="outline" className="items-start">
       <ItemMedia className="text-muted-foreground">
         {criterionTypeIcon[type]}
       </ItemMedia>
@@ -216,7 +216,7 @@ function Criterion({ type, value }: { type: CriteriaType; value: string }) {
         <ItemTitle className="capitalize">
           {type.split("_").join(" ")}
         </ItemTitle>
-        <ItemDescription>{value}</ItemDescription>
+        <ItemDescription className="line-clamp-none">{value}</ItemDescription>
       </ItemContent>
     </Item>
   );
