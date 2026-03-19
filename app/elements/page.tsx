@@ -2,6 +2,7 @@
 
 import ElementList from "@/components/element-card-list";
 import { Filters, FiltersType } from "@/components/filters";
+import { Card, CardContent } from "@/components/ui/card";
 import {
   InputGroup,
   InputGroupAddon,
@@ -11,9 +12,17 @@ import {
 import { ScrollArea } from "@/components/ui/scroll-area";
 import { filterElements } from "@/lib/filter";
 import { searchElements } from "@/lib/search";
-import { Search, X } from "lucide-react";
+import { ListFilter, Search, X } from "lucide-react";
 import { useSearchParams } from "next/navigation";
 import React from "react";
+import {
+  Sheet,
+  SheetContent,
+  SheetHeader,
+  SheetTitle,
+  SheetTrigger,
+} from "@/components/ui/sheet";
+import { Button } from "@/components/ui/button";
 
 export default function ElementsPage() {
   const searchParams = useSearchParams();
@@ -48,12 +57,16 @@ export default function ElementsPage() {
 
   return (
     <div className="flex-1 flex flex-col md:flex-row gap-4 p-4">
-      <aside className="w-56">
-        <Filters filters={filters} onFiltersChanged={setFilters} />
+      <aside className="hidden sm:block w-56">
+        <Card>
+          <CardContent>
+            <Filters filters={filters} onFiltersChanged={setFilters} />
+          </CardContent>
+        </Card>
       </aside>
 
       <main className="flex-1 flex flex-col gap-4">
-        <header className="">
+        <header className="flex gap-1">
           <InputGroup>
             <InputGroupAddon>
               <Search />
@@ -76,6 +89,22 @@ export default function ElementsPage() {
               </InputGroupAddon>
             )}
           </InputGroup>
+          <Sheet>
+            <SheetTrigger
+              className="sm:hidden"
+              render={<Button size="icon-lg" variant="outline" />}
+            >
+              <ListFilter />
+            </SheetTrigger>
+            <SheetContent side="bottom">
+              <SheetHeader>
+                <SheetTitle>Filters</SheetTitle>
+              </SheetHeader>
+              <div className="px-4">
+                <Filters filters={filters} onFiltersChanged={setFilters} />
+              </div>
+            </SheetContent>
+          </Sheet>
         </header>
         <ScrollArea className="flex-[1_1_0] min-h-0">
           <ElementList elements={filtered} />

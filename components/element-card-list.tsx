@@ -16,7 +16,7 @@ export default function ElementList({
   elements: ElementIndexEntry[] | Element[];
 }) {
   return elements.length > 0 ? (
-    <ItemGroup className="grid grid-cols-4 md:grid-cols-5 lg:grid-cols-6 gap-4">
+    <ItemGroup className="grid grid-cols-2 md:grid-cols-5 lg:grid-cols-6 gap-4">
       {elements.map((element) => (
         <ElementItem key={element.id} element={element} />
       ))}
