@@ -14,7 +14,7 @@ import { filterElements } from "@/lib/filter";
 import { searchElements } from "@/lib/search";
 import { ListFilter, Search, X } from "lucide-react";
 import { useSearchParams } from "next/navigation";
-import React from "react";
+import React, { Suspense } from "react";
 import {
   Sheet,
   SheetContent,
@@ -24,7 +24,7 @@ import {
 } from "@/components/ui/sheet";
 import { Button } from "@/components/ui/button";
 
-export default function ElementsPage() {
+function ElementsPageContent() {
   const searchParams = useSearchParams();
   const category = searchParams.get("category");
   const techValueMax = searchParams.get("tech_value_max");
@@ -111,5 +111,12 @@ export default function ElementsPage() {
         </ScrollArea>
       </main>
     </div>
+  );
+}
+export default function ElementsPage() {
+  return (
+    <Suspense fallback={"Loading..."}>
+      <ElementsPageContent />
+    </Suspense>
   );
 }
