@@ -23,6 +23,8 @@ import {
   SheetTrigger,
 } from "@/components/ui/sheet";
 import { Button } from "@/components/ui/button";
+import { Badge } from "@/components/ui/badge";
+import { cn } from "@/lib/utils";
 
 function ElementsPageContent() {
   const searchParams = useSearchParams();
@@ -55,9 +57,17 @@ function ElementsPageContent() {
     setQuery("");
   };
 
+  const isFiltered = () => {
+    return (
+      filters.categories.length > 0 ||
+      filters.technicalValueRange.min > 0.1 ||
+      filters.technicalValueRange.max < 1.0
+    );
+  };
+
   return (
     <div className="flex-1 flex flex-col md:flex-row gap-4 p-4">
-      <aside className="hidden sm:block w-72">
+      <aside className="hidden md:block w-72">
         <Card className="gap-8">
           <CardHeader>
             <CardTitle>Filters</CardTitle>
@@ -69,45 +79,76 @@ function ElementsPageContent() {
       </aside>
 
       <main className="flex-1 flex flex-col gap-4">
-        <header className="flex gap-1">
-          <InputGroup>
-            <InputGroupAddon>
-              <Search />
-            </InputGroupAddon>
-            <InputGroupInput
-              value={query}
-              onChange={handleQueryChanged}
-              placeholder={`Search ${filtered.length} elements...`}
-            />
-            {query && (
-              <InputGroupAddon align="inline-end">
-                <InputGroupButton
-                  aria-label="Clear"
-                  title="Clear"
-                  size="icon-xs"
-                  onClick={handleClearQuery}
-                >
-                  <X />
-                </InputGroupButton>
+        <header className="flex flex-col gap-3">
+          <div className="flex gap-1">
+            <InputGroup>
+              <InputGroupAddon>
+                <Search />
               </InputGroupAddon>
-            )}
-          </InputGroup>
-          <Sheet>
-            <SheetTrigger
-              className="sm:hidden"
-              render={<Button size="icon-lg" variant="outline" />}
-            >
-              <ListFilter />
-            </SheetTrigger>
-            <SheetContent side="bottom" className="data-[side=bottom]:h-full">
-              <SheetHeader>
-                <SheetTitle>Filters</SheetTitle>
-              </SheetHeader>
-              <div className="px-4">
-                <Filters filters={filters} onFiltersChanged={setFilters} />
-              </div>
-            </SheetContent>
-          </Sheet>
+              <InputGroupInput
+                value={query}
+                onChange={handleQueryChanged}
+                placeholder={`Search ${filtered.length} elements...`}
+              />
+              {query && (
+                <InputGroupAddon align="inline-end">
+                  <InputGroupButton
+                    aria-label="Clear"
+                    title="Clear"
+                    size="icon-xs"
+                    onClick={handleClearQuery}
+                  >
+                    <X />
+                  </InputGroupButton>
+                </InputGroupAddon>
+              )}
+            </InputGroup>
+            <Sheet>
+              <SheetTrigger
+                className="md:hidden"
+                render={<Button size="icon-lg" variant="outline" />}
+              >
+                <ListFilter />
+              </SheetTrigger>
+              <SheetContent side="bottom" className="data-[side=bottom]:h-full">
+                <SheetHeader>
+                  <SheetTitle>Filters</SheetTitle>
+                </SheetHeader>
+                <div className="px-4">
+                  <Filters filters={filters} onFiltersChanged={setFilters} />
+                </div>
+              </SheetContent>
+            </Sheet>
+          </div>
+          {isFiltered() && (
+            <div className="md:hidden flex flex-wrap gap-1">
+              {filters.categories.map((category) => (
+                <FilterBadge key={`filter_category_${category}`}>
+                  {category}
+                </FilterBadge>
+              ))}
+
+              {filters.technicalValueRange.max ===
+              filters.technicalValueRange.min ? (
+                <FilterBadge>
+                  tech. value = {filters.technicalValueRange.max}
+                </FilterBadge>
+              ) : (
+                <>
+                  {filters.technicalValueRange.max < 1.0 && (
+                    <FilterBadge>
+                      tech. value &le; {filters.technicalValueRange.max}
+                    </FilterBadge>
+                  )}
+                  {filters.technicalValueRange.min > 0.1 && (
+                    <FilterBadge>
+                      tech. value &ge; {filters.technicalValueRange.min}
+                    </FilterBadge>
+                  )}
+                </>
+              )}
+            </div>
+          )}
         </header>
         <ScrollArea className="flex-[1_1_0] min-h-0">
           <ElementList elements={filtered} />
@@ -116,6 +157,39 @@ function ElementsPageContent() {
     </div>
   );
 }
+
+function FilterBadge({
+  children,
+  className,
+  onRemove,
+  ...props
+}: {
+  children: React.ReactNode;
+  className?: string;
+  onRemove?: () => void;
+} & React.ComponentProps<typeof Badge>) {
+  const handleRemove: React.MouseEventHandler<HTMLDivElement> = (event) => {
+    event.preventDefault();
+    event.stopPropagation();
+    onRemove?.();
+  };
+  return (
+    <Badge variant="default" className={cn("", className)} {...props}>
+      {children}
+      {onRemove && (
+        <div
+          className="size-auto cursor-pointer hover:text-muted-foreground"
+          onClick={handleRemove}
+          role="button"
+          tabIndex={0}
+        >
+          <X className="size-3" />
+        </div>
+      )}
+    </Badge>
+  );
+}
+
 export default function ElementsPage() {
   return (
     <Suspense fallback={"Loading..."}>

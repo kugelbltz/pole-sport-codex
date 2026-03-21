@@ -17,7 +17,6 @@ import { Checkbox } from "./ui/checkbox";
 import { Slider } from "./ui/slider";
 import React from "react";
 import { Label } from "./ui/label";
-import { LoaderPinwheel } from "lucide-react";
 
 const filtersSchema = z.object({
   categories: z.array(z.string()),
