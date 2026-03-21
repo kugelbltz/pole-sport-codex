@@ -97,7 +97,6 @@ export function Filters({ filters, onFiltersChanged }: FiltersProps) {
                           </FieldContent>
                           <Checkbox
                             id={`categories-${category}`}
-                            className="opacity-0"
                             name={field.name}
                             aria-invalid={fieldState.invalid}
                             checked={field.value.includes(category)}
@@ -153,24 +152,6 @@ export function Filters({ filters, onFiltersChanged }: FiltersProps) {
                   <span>1.0</span>
                 </div>
               </div>
-              {/*
-              <div className="flex gap-2 items-center text-muted-foreground text-sm font-medium">
-                <span>{field.value.min}</span>
-                <Slider
-                  id={`technicalValue-range`}
-                  value={[field.value.min, field.value.max]}
-                  onValueChange={(values) => {
-                    if (!Array.isArray(values)) return;
-
-                    field.onChange({ min: values[0], max: values[1] });
-                  }}
-                  min={0.1}
-                  max={1.0}
-                  step={0.1}
-                  aria-label="Technical difficulty"
-                />
-                <span>{field.value.max}</span>
-              </div>*/}
               {fieldState.invalid && <FieldError errors={[fieldState.error]} />}
             </Field>
           )}
