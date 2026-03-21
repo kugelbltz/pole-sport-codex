@@ -1,9 +1,11 @@
-import { elementCategories } from "@/lib/elements";
+import { categoryMetadata } from "@/lib/elements";
 import { zodResolver } from "@hookform/resolvers/zod";
 import { Controller, useForm } from "react-hook-form";
 import * as z from "zod";
 import {
   Field,
+  FieldContent,
+  FieldDescription,
   FieldError,
   FieldGroup,
   FieldLabel,
@@ -14,6 +16,8 @@ import {
 import { Checkbox } from "./ui/checkbox";
 import { Slider } from "./ui/slider";
 import React from "react";
+import { Label } from "./ui/label";
+import { LoaderPinwheel } from "lucide-react";
 
 const filtersSchema = z.object({
   categories: z.array(z.string()),
@@ -60,43 +64,54 @@ export function Filters({ filters, onFiltersChanged }: FiltersProps) {
 
   return (
     <form id="filters">
-      <FieldGroup>
+      <FieldGroup className="gap-8">
         <Controller
           name="categories"
           control={form.control}
           render={({ field, fieldState }) => (
             <FieldGroup>
               <FieldSet data-invalid={fieldState.invalid}>
-                <FieldLegend variant="label">Categories</FieldLegend>
-                <FieldGroup data-slot="checkbox-group">
-                  {Object.entries(elementCategories).map(
-                    ([category, { label }]) => (
-                      <Field
+                <FieldLegend className="mb-3" variant="label">
+                  Categories
+                </FieldLegend>
+                <FieldGroup
+                  data-slot="checkbox-group"
+                  className="grid grid-cols-2 md:grid-cols-1"
+                >
+                  {Object.entries(categoryMetadata).map(
+                    ([category, { label, Icon }]) => (
+                      <FieldLabel
                         key={`categories-${category}`}
-                        orientation="horizontal"
-                        data-invalid={fieldState.invalid}
+                        className="font-normal"
+                        htmlFor={`categories-${category}`}
                       >
-                        <Checkbox
-                          id={`categories-${category}`}
-                          name={field.name}
-                          aria-invalid={fieldState.invalid}
-                          checked={field.value.includes(category)}
-                          onCheckedChange={(checked) => {
-                            const newValue = checked
-                              ? [...field.value, category]
-                              : field.value.filter(
-                                  (value) => value !== category,
-                                );
-                            field.onChange(newValue);
-                          }}
-                        />
-                        <FieldLabel
-                          htmlFor={`categories-${category}`}
-                          className="font-normal"
+                        <Field
+                          orientation="horizontal"
+                          data-invalid={fieldState.invalid}
                         >
-                          {label}
-                        </FieldLabel>
-                      </Field>
+                          <FieldContent>
+                            <FieldTitle>
+                              <Icon className="size-4" />
+                              {label}
+                            </FieldTitle>
+                          </FieldContent>
+                          <Checkbox
+                            id={`categories-${category}`}
+                            className="opacity-0"
+                            name={field.name}
+                            aria-invalid={fieldState.invalid}
+                            checked={field.value.includes(category)}
+                            onCheckedChange={(checked) => {
+                              const newValue = checked
+                                ? [...field.value, category]
+                                : field.value.filter(
+                                    (value) => value !== category,
+                                  );
+                              field.onChange(newValue);
+                            }}
+                          />
+                        </Field>
+                      </FieldLabel>
                     ),
                   )}
                 </FieldGroup>
@@ -111,7 +126,34 @@ export function Filters({ filters, onFiltersChanged }: FiltersProps) {
           control={form.control}
           render={({ field, fieldState }) => (
             <Field>
-              <FieldTitle>Technical difficulty</FieldTitle>
+              <div className="flex w-full max-w-md flex-col gap-2">
+                <div className="flex items-center justify-between mb-2">
+                  <Label htmlFor="technicalValue-range">
+                    Technical difficulty
+                  </Label>
+                  <span className="text-muted-foreground text-sm">
+                    {field.value.min} - {field.value.max}
+                  </span>
+                </div>
+                <Slider
+                  id={`technicalValue-range`}
+                  value={[field.value.min, field.value.max]}
+                  onValueChange={(values) => {
+                    if (!Array.isArray(values)) return;
+
+                    field.onChange({ min: values[0], max: values[1] });
+                  }}
+                  min={0.1}
+                  max={1.0}
+                  step={0.1}
+                  aria-label="Technical difficulty"
+                />
+                <div className="flex items-center justify-between text-muted-foreground text-xs">
+                  <span>0.1</span>
+                  <span>1.0</span>
+                </div>
+              </div>
+              {/*
               <div className="flex gap-2 items-center text-muted-foreground text-sm font-medium">
                 <span>{field.value.min}</span>
                 <Slider
@@ -128,7 +170,7 @@ export function Filters({ filters, onFiltersChanged }: FiltersProps) {
                   aria-label="Technical difficulty"
                 />
                 <span>{field.value.max}</span>
-              </div>
+              </div>*/}
               {fieldState.invalid && <FieldError errors={[fieldState.error]} />}
             </Field>
           )}

@@ -2,7 +2,7 @@
 
 import ElementList from "@/components/element-card-list";
 import { Filters, FiltersType } from "@/components/filters";
-import { Card, CardContent } from "@/components/ui/card";
+import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import {
   InputGroup,
   InputGroupAddon,
@@ -57,8 +57,11 @@ function ElementsPageContent() {
 
   return (
     <div className="flex-1 flex flex-col md:flex-row gap-4 p-4">
-      <aside className="hidden sm:block w-56">
-        <Card>
+      <aside className="hidden sm:block w-72">
+        <Card className="gap-8">
+          <CardHeader>
+            <CardTitle>Filters</CardTitle>
+          </CardHeader>
           <CardContent>
             <Filters filters={filters} onFiltersChanged={setFilters} />
           </CardContent>
@@ -96,7 +99,7 @@ function ElementsPageContent() {
             >
               <ListFilter />
             </SheetTrigger>
-            <SheetContent side="bottom">
+            <SheetContent side="bottom" className="data-[side=bottom]:h-full">
               <SheetHeader>
                 <SheetTitle>Filters</SheetTitle>
               </SheetHeader>

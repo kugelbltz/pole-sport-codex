@@ -1,3 +1,10 @@
+import {
+  BicepsFlexed,
+  LineSquiggle,
+  LoaderPinwheel,
+  Lock,
+  LucideIcon,
+} from "lucide-react";
 import index from "../public/element_index.json";
 import { z } from "zod";
 
@@ -62,6 +69,7 @@ export type ElementIndexEntry = z.infer<typeof ElementIndexEntrySchema>;
 export type ElementIndex = z.infer<typeof ElementIndexSchema>;
 export type Criteria = z.infer<typeof CriteriaSchema>;
 export type CriteriaType = z.infer<typeof CriteriaTypesSchema>;
+export type Category = z.infer<typeof CategorySchema>;
 
 export function loadElementIndex(): ElementIndex {
   return ElementIndexSchema.parse(index);
@@ -76,11 +84,14 @@ export function getElementImagePath(id: string): string {
   return `/images/400/${id}.webp`;
 }
 
-export const elementCategories = {
-  strength: { label: "Strength" },
-  flexibility: { label: "Flexibility" },
-  static: { label: "Spin on static" },
-  spin: { label: "Spin on spin" },
+export const categoryMetadata: Record<
+  Category,
+  { label: string; Icon: LucideIcon }
+> = {
+  strength: { label: "Strength", Icon: BicepsFlexed },
+  flexibility: { label: "Flexibility", Icon: LineSquiggle },
+  static: { label: "Spin on static", Icon: Lock },
+  spin: { label: "Spin on spin", Icon: LoaderPinwheel },
 };
 
 export const getRandomElementCode = () => {
