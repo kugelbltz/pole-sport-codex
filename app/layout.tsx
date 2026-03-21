@@ -4,6 +4,10 @@ import "./globals.css";
 import { ThemeProvider } from "@/components/theme-provider";
 import Header from "@/components/header";
 
+import { SidebarProvider, SidebarTrigger } from "@/components/ui/sidebar";
+import { AppSidebar } from "@/components/app-sidebar";
+import { TooltipProvider } from "@/components/ui/tooltip";
+
 const geistSans = Geist({
   variable: "--font-geist-sans",
   subsets: ["latin"],
@@ -37,10 +41,15 @@ export default function RootLayout({
           enableSystem
           disableTransitionOnChange
         >
-          <div className="px-6 mx-auto max-w-384 min-h-screen flex flex-col gap-4">
-            <Header className="h-14 sticky top-0 z-50" />
-            {children}
-          </div>
+          <TooltipProvider>
+            <SidebarProvider defaultOpen={false}>
+              <AppSidebar />
+              <div className="px-6 mx-auto max-w-384 min-h-screen flex flex-col gap-4">
+                <Header className="h-14 sticky top-0 z-50" />
+                {children}
+              </div>
+            </SidebarProvider>
+          </TooltipProvider>
         </ThemeProvider>
       </body>
     </html>

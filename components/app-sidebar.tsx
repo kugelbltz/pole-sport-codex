@@ -1,53 +1,86 @@
+"use client";
+
+import * as React from "react";
 import {
-  Sheet,
-  SheetContent,
-  SheetFooter,
-  SheetHeader,
-  SheetTitle,
-  SheetTrigger,
-} from "@/components/ui/sheet";
-import { Button } from "./ui/button";
-import { Menu } from "lucide-react";
-import { AppMenu } from "./app-nav-menu";
-import { ThemeToggle } from "./theme-toggle";
+  Sidebar,
+  SidebarContent,
+  SidebarFooter,
+  SidebarGroup,
+  SidebarGroupContent,
+  SidebarGroupLabel,
+  SidebarHeader,
+  SidebarMenu,
+  SidebarMenuButton,
+  SidebarMenuItem,
+  useSidebar,
+} from "@/components/ui/sidebar";
 import Link from "next/link";
+import { Logo } from "./logo";
 import { SiGithub } from "@icons-pack/react-simple-icons";
 
-export function AppSidebar() {
-  return (
-    <Sheet>
-      <SheetTrigger
-        className="md:hidden"
-        render={
-          <Button size="icon" variant="ghost">
-            <Menu />
-          </Button>
-        }
-      />
-      <SheetContent side="left">
-        <SheetHeader>
-          <SheetTitle>Menu</SheetTitle>
-        </SheetHeader>
+const menu = [
+  {
+    title: "Elements",
+    url: "/elements",
+  },
+];
 
-        <div className="px-4">
-          <AppMenu />
-        </div>
-        <SheetFooter>
-          <Button
-            variant="ghost"
-            nativeButton={false}
-            render={
-              <Link
-                href="https://github.com/kugelbltz/pole-sport-codex"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                <SiGithub /> <span>GitHub</span>
-              </Link>
-            }
-          />
-        </SheetFooter>
-      </SheetContent>
-    </Sheet>
+export function AppSidebar({ ...props }: React.ComponentProps<typeof Sidebar>) {
+  const { setOpenMobile } = useSidebar();
+
+  return (
+    <Sidebar collapsible="offcanvas" {...props}>
+      <SidebarHeader>
+        <SidebarMenu>
+          <SidebarMenuItem>
+            <SidebarMenuButton
+              render={<Logo onClick={() => setOpenMobile(false)} />}
+            ></SidebarMenuButton>
+          </SidebarMenuItem>
+        </SidebarMenu>
+      </SidebarHeader>
+      <SidebarContent>
+        <SidebarGroup>
+          <SidebarGroupLabel>Menu</SidebarGroupLabel>
+          <SidebarGroupContent className="flex flex-col gap-2">
+            <SidebarMenu>
+              {menu.map((item) => (
+                <SidebarMenuItem key={item.title}>
+                  <SidebarMenuButton
+                    tooltip={item.title}
+                    render={
+                      <Link
+                        href={item.url}
+                        onClick={() => setOpenMobile(false)}
+                      >
+                        {item.icon && <item.icon />}
+                        <span>{item.title}</span>
+                      </Link>
+                    }
+                  ></SidebarMenuButton>
+                </SidebarMenuItem>
+              ))}
+            </SidebarMenu>
+          </SidebarGroupContent>
+        </SidebarGroup>
+      </SidebarContent>
+      <SidebarFooter>
+        <SidebarMenu>
+          <SidebarMenuItem>
+            <SidebarMenuButton
+              render={
+                <Link
+                  href="https://github.com/kugelbltz/pole-sport-codex"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <SiGithub /> Github
+                </Link>
+              }
+            />
+          </SidebarMenuItem>
+        </SidebarMenu>
+      </SidebarFooter>
+    </Sidebar>
   );
 }

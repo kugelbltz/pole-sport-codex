@@ -1,9 +1,9 @@
 import { BookOpen } from "lucide-react";
 import Link from "next/link";
 
-export function Logo() {
+export function Logo(props: Omit<React.ComponentProps<typeof Link>, "href">) {
   return (
-    <Link href="/">
+    <Link href="/" {...props}>
       <div className="flex items-center gap-2 min-w-fit">
         <BookOpen className="size-5 md:size-6" />
         <span className="text-lg md:text-xl font-semibold tracking-tight ">

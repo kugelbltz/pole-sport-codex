@@ -1,19 +1,12 @@
-import {
-  NavigationMenu,
-  NavigationMenuItem,
-  NavigationMenuLink,
-  NavigationMenuList,
-} from "@/components/ui/navigation-menu";
 import { ThemeToggle } from "./theme-toggle";
 import Link from "next/link";
-import { BookOpen } from "lucide-react";
 import { Button } from "./ui/button";
-
 import { SiGithub } from "@icons-pack/react-simple-icons";
 import { cn } from "@/lib/utils";
-import { AppSidebar } from "./app-sidebar";
 import { AppMenu } from "./app-nav-menu";
 import { Logo } from "./logo";
+import { SidebarTrigger } from "./ui/sidebar";
+import { Menu } from "lucide-react";
 
 export default function Header({ className }: { className?: string }) {
   return (
@@ -23,7 +16,14 @@ export default function Header({ className }: { className?: string }) {
         className,
       )}
     >
-      <AppSidebar />
+      <SidebarTrigger
+        className="md:hidden"
+        render={
+          <Button variant="ghost" size="icon">
+            <Menu />
+          </Button>
+        }
+      />
 
       <Logo />
       <div className="md:flex md:gap-8 md:items-center">
