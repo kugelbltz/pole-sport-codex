@@ -17,8 +17,9 @@ import {
 import Link from "next/link";
 import { Logo } from "./logo";
 import { SiGithub } from "@icons-pack/react-simple-icons";
+import { LucideIcon } from "lucide-react";
 
-const menu = [
+const menu: { title: string; url: string; icon?: LucideIcon }[] = [
   {
     title: "Elements",
     url: "/elements",
